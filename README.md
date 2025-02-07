@@ -19,23 +19,23 @@
 
 # Changelog
 
-* 2020-11-15 v2.7
+* 2025-05-15 v2.16
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.7
+Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
-Contributors: Hahn, Michael; Namaseb, Levi
-Contributing: elsewhere
-Contact: mhahn2@stanford.edu
+Lemmas: manual native
+UPOS: manual native
+XPOS: not available
+Features: manual native
+Relations: manual native
+Contributors: Witzlack, Alena; Tulchynska, Kira; Job, Sylvanus
+Contributing: here
+Contact: witzlack@gmail.com
 ===============================================================================
 </pre>
