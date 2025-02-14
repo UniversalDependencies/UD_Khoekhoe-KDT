@@ -16625,7 +16625,7 @@
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 3	ǂgom	ǂgom	VERB	_	Voice=Act	0	root	_	_
 4	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
-5	tide	tide	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	3	aux	_	SpaceAfter=No
+5	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	3	aux	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	19	punct	_	_
 7	xawe	xawe	CCONJ	_	_	19	cc	_	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
@@ -16649,7 +16649,7 @@
 25	tsîna	tsîn	ADV	_	Case=Acc	24	fixed	_	_
 26	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	_
 27	ǀuru	ǀuru	VERB	_	Voice=Act	3	parataxis	_	_
-28	tide	tide	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	27	aux	_	_
+28	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	27	aux	_	_
 29	de	_	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	27	obj	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
