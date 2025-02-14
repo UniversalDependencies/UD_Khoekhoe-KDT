@@ -2133,7 +2133,7 @@
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj:pass	_	_
 13	ge	ge	AUX	DECL	Mood=Ind	18	aux	_	_
-14	ti	ti	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	obl	_	_
+14	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	obl	_	_
 15	ǃoagu	ǃoagu	ADP	_	_	14	case	_	_
 16	ǃaruǀî	ǃaruǀî	ADV	_	_	18	advmod	_	_
 17	ǃûǂamde	ǃûǂam	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	18	nsubj:pass	_	_
@@ -4072,7 +4072,7 @@
 18	ǁaegu	ǁaegu	ADP	_	_	11	case	11:case|15:case|17:case	_
 19-20	hâba	_	_	_	_	_	_	_	_
 19	hâ	hâ	VERB	COP.LOC	Voice=Act	9	acl:relcl	9:acl:relcl	_
-20	ba	_	PRON	REL	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Rel	19	nsubj	9:ref|19:nsubj	_
+20	ba	_	PRON	REL	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	19	nsubj	9:ref|19:nsubj	_
 21	khôa	khôa	VERB	_	Voice=Act	3	ccomp	3:ccomp	SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
