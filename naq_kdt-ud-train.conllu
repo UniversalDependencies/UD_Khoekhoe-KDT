@@ -16138,7 +16138,7 @@
 3	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	_
 4	ǃnâ	ǃnâ	ADP	_	_	3	case	_	_
 5	ǃâ	ǃâ	VERB	_	Voice=Act	0	root	_	_
-6	tide	tide	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	5	aux	_	SpaceAfter=No
+6	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = film_Bridge_1495
@@ -24862,7 +24862,7 @@
 13-14	kās	_	_	_	_	_	_	_	_
 13	kā	kā	VERB	_	Voice=Act	11	advcl	_	SpaceAfter=No
 14	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	13	nsubj	_	_
-15	tide	tide	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	13	aux	_	_
+15	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	13	aux	_	_
 16	ga	ga	AUX	POT	Mood=Pot	13	aux	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n
 
