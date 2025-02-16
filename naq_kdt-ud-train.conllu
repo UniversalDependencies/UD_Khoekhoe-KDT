@@ -308,13 +308,13 @@
 
 # newdoc id = grammar_BivalTyp
 # sent_id = grammar_BivalTyp_71
-# text = Petrub ge dai-e ge ā
+# text = Petrub ge dai-e ge ā
 # english = (P. was given a glass of milk by his mother.) P. drank the milk.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
 4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+5	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_72
 # text = Petrub ge ǀhaiǀuriba ge tsunitsuni
@@ -326,9 +326,9 @@
 5	tsunitsuni	tsunitsuni	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_73
-# text = Nē bands ge ti rokhoes ǀkha ra ǀgau
+# text = Nē bands ge ti rokhoes ǀkha ra ǀgau
 # english = (A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’
-1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	bands	band	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 4	ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
@@ -338,14 +338,14 @@
 8	ǀgau	ǀgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_74
-# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
+# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
 # english = P. left his native city.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 4	di	di	ADP	POSS	_	3	case	3:case	_
 5	ǃnae	ǃnae	ADJ	_	_	6	amod	6:amod	_
-6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
+6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
 7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
 8	ǁnāxū	ǁnāxū	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
@@ -379,13 +379,13 @@
 5	hui	hui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_78
-# text = Petrub ge Hereroba ra ǁnâuǃā
+# text = Petrub ge Hereroba ra ǁnâuǃā
 # english = P. understands Herero.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	Hereroba	Herero	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_79
 # text = Nawab ge omsa go ǂnau
@@ -407,11 +407,11 @@
 6	ǃgaosen	ǃgaosen	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_81
-# text = Xlas ge tāb ai go ǁhaumâ
+# text = Xlas ge tāb ai go ǁhaumâ
 # english = (The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.
 1	Xlas	xla	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
+3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
 4	ai	ai	ADP	_	_	3	case	3:case	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
 6	ǁhau-mâ	ǁhau-mâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -466,12 +466,12 @@
 5	ǃgau	ǃgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_87
-# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
+# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
 # english = P. runs our town.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
+4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
 6	ǂgaeǂgui	ǂgaeǂgui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
@@ -494,11 +494,11 @@
 5	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_90
-# text = Petrub ge hāba xu go ǁgôaxa
+# text = Petrub ge hāba xu go ǁgôaxa
 # english = P. got down from the horse.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
+3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
 4	xu	xu	ADP	_	_	3	case	3:case	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
 6	ǁgôaxa	ǁgôaxa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -592,9 +592,9 @@
 6	ǂkhawa	ǂkhawa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_100
-# text = Nē ǁhoes ge ǀgui euroba ra ǂgan
+# text = Nē ǁhoes ge ǀgui euroba ra ǂgan
 # english = This cup costs 1 euro.
-1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	ǁhoes	ǁhoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 4	ǀgui	ǀgui	NUM	_	NumType=Card	5	nummod	5:nummod	_
@@ -621,14 +621,14 @@
 5	tsoro	tsoro	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_103
-# text = Petrub ge ǁîb ǁkhowaamgu xa go gāxūhe
+# text = Petrub ge ǁîb ǁkhowaamgu xa go gāxūhe
 # english = P. lost his keys.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	ǁkhowaamgua	ǁkhowa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	6	obj	6:obj	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	gāxūhe	gāxūhe	NOUN	_	_	0	root	0:root	SpacesAfter=\n
+6	gāxūhe	gāxūhe	NOUN	_	_	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_104
 # text = Haiǃgaob ge ǁgam-i ǃnâ ge tsōǂgâ
@@ -766,11 +766,11 @@
 6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_118
-# text = Petrub ge nē ǀkhaexū-i xa ge buru
+# text = Petrub ge nē ǀkhaexū-i xa ge buru
 # english = (M. made P. an expensive gift.) P. was surprised at this gift.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
+3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 4	ǀkhaexū-i	ǀkhaexū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	_
 5	xa	xa	ADP	_	_	4	case	4:case	_
 6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -786,12 +786,12 @@
 5	ǀnam	ǀnam	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_120
-# text = Petrub ge ǀgamsa tē-i xa a ǃgâibahe
+# text = Petrub ge ǀgamsa tē-i xa a ǃgâibahe
 # english = (After being in cold water) P. enjoys hot tea.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	7:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	ǀgamsa	ǀgam	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	amod	4:amod	_
-4	tē-i	tē	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl:agent	7:obl:agent	_
+4	tē-i	tē	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl:agent	7:obl:agent	_
 5	xa	xa	ADP	_	_	4	case	4:case	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	7:aux	_
 7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	SpacesAfter=\n
@@ -848,12 +848,12 @@
 7	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_125
-# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
+# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
 # english = (P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj:pass	8:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
-4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
+3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
+4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
 5	xa	xa	ADP	_	_	4	case	4:case	_
 6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
 7	buruǂgâ	buruǂgâ	VERB	_	Voice=Act	8	xcomp	8:xcomp	_

@@ -42,7 +42,7 @@
 8	ǀkhara	ǀkhara	ADJ	_	_	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_65
-# text = Petrub ge Marias ǃgâb ai ge ǁnā
+# text = Petrub ge Marias ǃgâb ai ge ǁnā
 # english = (P. and M. started out to school together, but) P. fell behind M.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -50,7 +50,7 @@
 4	ǃgâb	ǃgâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
 5	ai	ai	ADP	_	_	4	case	4:case	_
 6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-7	ǁnā	ǁnā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+7	ǁnā	ǁnā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_66
 # text = Petrub ge ǃhanaba ra ǃhūǃgao
