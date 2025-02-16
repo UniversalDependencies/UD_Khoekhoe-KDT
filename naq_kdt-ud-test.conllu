@@ -551,7 +551,7 @@
 4	hems	hem	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	_	_
 5	xa	xa	ADP	_	_	4	case	_	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	_	_
-7	ǃgâibahe	ǃgâi	VERB	STAT	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpacesAfter=\n
+7	ǃgâibahe	ǃgâi	VERB	STAT	Voice=ApplPass	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_59
 # text = Petrub ge mari-e ǂhâ hâ
@@ -5446,7 +5446,7 @@
 6	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obl	_	_
 7	xa	xa	ADP	_	_	6	case	_	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	1	ccomp	_	_
+9	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	1	ccomp	_	_
 10-11	tamasa	_	_	_	_	_	_	_	SpaceAfter=No
 10	tama	tama	PART	NEG	Polarity=Neg	9	advmod	_	_
 11	sa	s	SCONJ	NMLZ	Case=Acc	9	mark	_	_
@@ -5482,7 +5482,7 @@
 2	xa	xa	ADP	_	_	1	case	_	_
 3	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	5	nsubj	_	_
 4	a	a	AUX	STAT.PRS	Tense=Pres	5	aux	_	_
-5	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpaceAfter=No
+5	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7-8	tamasa	_	_	_	_	_	_	_	_
 7	tama	tama	PART	NEG	Polarity=Neg	5	parataxis	_	_
@@ -8190,7 +8190,7 @@
 4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj:pass	_	_
 5	ge	ge	AUX	DECL	Mood=Ind	7	aux	_	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	_	_
-7	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpaceAfter=No
+7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = film_Titanic_713
@@ -10877,7 +10877,7 @@
 12	ge	ge	AUX	_	Tense=Past	15	aux	_	_
 13	kaikhoen	kaikhoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	15	obl:agent	_	_
 14	xa	xa	ADP	_	_	13	case	_	_
-15	mîbahe	mî	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+15	mîbahe	mî	VERB	_	Voice=ApplPass	0	root	_	_
 16	ǁaegu	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
 17	ge	ge	AUX	DECL	Mood=Ind	18	aux	_	_
 18	ǁnāga	ǁnāga	VERB	_	Voice=Act	15	advcl	_	_
@@ -11668,7 +11668,7 @@
 5	ID	ID	NOUN	_	_	0	root	_	SpaceAfter=No
 6	"	"	PUNCT	_	_	5	punct	_	_
 7	ti	ti	PART	QUOT	_	5	mark	_	_
-8	kama	kama	AUX	_	Evident=Nfh	5	aux	_	SpacesAfter=\n
+8	kama	koma	AUX	_	Evident=Nfh	5	aux	_	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_119
 # text = ta ǀū tare ge hāsa ǁîm ǁaegub ǃnâ
@@ -11788,7 +11788,7 @@
 # text = ǁnâubasents ta,
 # english = You hear it yourself,
 1-2	ǁnâubasents	_	_	_	_	_	_	_	_
-1	ǁnâubasen	ǁnâu	VERB	_	Voice[1]=Appl|Voice[2]=Refl	0	root	_	_
+1	ǁnâubasen	ǁnâu	VERB	_	Voice=ApplRefl	0	root	_	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ta	ra	AUX	IPFV	Aspect=Imp	1	aux	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	SpacesAfter=\n
@@ -11797,7 +11797,7 @@
 # text = ǁnâubasents ta hoa
 # english = you hear for yourself:
 1-2	ǁnâubasents	_	_	_	_	_	_	_	_
-1	ǁnâubasen	ǁnâu	VERB	_	Voice[1]=Appl|Voice[2]=Refl	0	root	_	_
+1	ǁnâubasen	ǁnâu	VERB	_	Voice=ApplRefl	0	root	_	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ta	ra	AUX	IPFV	Aspect=Imp	1	aux	_	_
 4	hoa	hoa	PRON	_	PronType=Tot	1	obj	_	SpacesAfter=\n
@@ -12276,7 +12276,7 @@
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
 3	xūro-i	xūro	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl:agent	5:obl:agent	_
 4	xa	xa	ADP	_	_	3	case	3:case	_
-5	ībahe	ī	VERB	_	Voice[1]=Appl|Voice[2]=Pass	6	xcomp	6:xcomp	_
+5	ībahe	ī	VERB	_	Voice=ApplPass	6	xcomp	6:xcomp	_
 6	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
 7	tsēs	tsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
 8	ǃnâ	ǃnâ	ADP	_	_	7	case	7:case	SpacesAfter=\n
@@ -12463,7 +12463,7 @@
 8	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 9	ge	ge	AUX	DECL	Mood=Ind	11	aux	_	_
 10	go	go	AUX	_	Tense=RecPast	11	aux	_	_
-11	tsūbahe	tsū	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpacesAfter=\n
+11	tsūbahe	tsū	VERB	_	Voice=ApplPass	0	root	_	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_179
 # text = tsîta ge sī ǂnan
@@ -12918,7 +12918,7 @@
 7	tsî	tsî	CCONJ	_	_	10	cc	10:cc	_
 8	xūro-e	xū	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	_
 9	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	10	aux	10:aux	_
-10	dībasen	dī	VERB	_	Voice[1]=Appl|Voice[2]=Refl	6	conj	6:conj	_
+10	dībasen	dī	VERB	_	Voice=ApplRefl	6	conj	6:conj	_
 11	osa	osa	SCONJ	_	_	6	mark	6:mark	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_211
@@ -15043,7 +15043,7 @@
 3	kausa	kausa	ADJ	_	_	4	amod	_	_
 4	tsaugomaba	tsaugoma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	_	_
-6	ǂābahe	ǂā	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpaceAfter=No
+6	ǂābahe	ǂā	VERB	_	Voice=ApplPass	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = book_Khomai_6_6
@@ -16189,7 +16189,7 @@
 10	tsî	tsî	CCONJ	_	_	13	cc	13:cc	_
 11	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	13	aux	9:aux|13:aux	_
 12	re	_	X	_	_	11	goeswith	11:goeswith	_
-13	kaikaibasen	kaikai	VERB	_	Voice[1]=Appl|Voice[2]=Refl	9	conj	9:conj	SpaceAfter=No
+13	kaikaibasen	kaikai	VERB	_	Voice=ApplRefl	9	conj	9:conj	SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_23_16
@@ -16291,7 +16291,7 @@
 4	xa	xa	ADP	_	_	2	case	_	SpaceAfter=No
 5	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	7	nsubj:pass	_	_
 6	ǁkhawa	ǁkhawa	ADV	_	_	7	advmod	_	_
-7	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpaceAfter=No
+7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = book_Khomai_26_5

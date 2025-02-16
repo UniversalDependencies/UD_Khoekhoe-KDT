@@ -7,7 +7,7 @@
 3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	_	_
 4	eurogu	euro	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obl:agent	_	_
 5	xa	xa	ADP	_	_	4	case	_	_
-6	ǃgaubahe	ǃgau	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	_	_
 7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_62
@@ -223,7 +223,7 @@
 # text = ǃGâibahets nî î ta aibe ti ǁgûna ū?
 # english = Do you mind if I fetch my teeth?
 1-2	ǃGâibahets	_	_	_	_	_	_	_	_
-1	ǃGâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+1	ǃGâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	_	_
 3	nî	nî	AUX	FUT	Tense=Fut	1	aux	_	_
 4	î	î	SCONJ	_	_	9	mark	_	_
@@ -452,7 +452,7 @@
 # text = ǃGâibahets nî tita ga ti aibe ǂkhauǂhoeba gara ǃanu o?
 # english = Would you mind if I, uh, cleaned my palette?
 1-2	ǃGâibahets	_	_	_	_	_	_	_	_
-1	ǃGâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+1	ǃGâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	_	_
 3	nî	nî	AUX	FUT	Tense=Fut	1	aux	_	_
 4	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_

@@ -209,7 +209,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	_	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	_	_
-5	ǁamabasen	ǁama	VERB	_	Voice[1]=Appl|Voice[2]=Refl	0	root	_	_
+5	ǁamabasen	ǁama	VERB	_	Voice=ApplRefl	0	root	_	_
 6	xawe	xawe	CCONJ	_	_	8	cc	_	_
 7	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
 8	ǃgâba	ǃgâba	NOUN	_	_	5	conj	_	_
@@ -794,7 +794,7 @@
 4	tē-i	tē	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl:agent	_	_
 5	xa	xa	ADP	_	_	4	case	_	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	_	_
-7	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpacesAfter=\n
+7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_121
 # text = Petrub ge ǀasa ǁâǁawaba ǂhâba hâ
@@ -2120,7 +2120,7 @@
 # sent_id = film_Bridge_261
 # text = Mîbahe ta ge ge ǁîn ǀkha ta ga sîsenǁare o, i ge ti ǃoagu ǃaruǀî ǃûǂamde dīhe titesa.
 # english = I was told if I cooperated, no further charges would be made against me.
-1	Mîbahe	mî	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+1	Mîbahe	mî	VERB	_	Voice=ApplPass	0	root	_	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj:pass	_	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	_	_
 4	ge	ge	AUX	_	Tense=Past	1	aux	_	_
@@ -5136,7 +5136,7 @@
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 4	nî	nî	AUX	FUT	Tense=Fut	5	aux	_	_
-5	ūǂuibasen	ūǂui	VERB	_	Voice[1]=Appl|Voice[2]=Refl	0	root	_	SpaceAfter=No
+5	ūǂuibasen	ūǂui	VERB	_	Voice=ApplRefl	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = film_Bridge_518
@@ -9330,7 +9330,7 @@
 # sent_id = film_Bridge_853
 # text = ǁGaibahe ta ge nî nē ǁhōb ai ta ga ǂkhaniba gara hō o.
 # english = I' ll be damned if I can find the file on that Prudential case.
-1	ǁGaibahe	ǁgai	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+1	ǁGaibahe	ǁgai	VERB	_	Voice=ApplPass	0	root	_	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	_	_
 4	nî	nî	AUX	FUT	Tense=Fut	1	aux	_	_
@@ -9444,7 +9444,7 @@
 11	xa	xa	ADP	_	_	10	case	_	_
 12	a	a	AUX	STAT.PRS	Tense=Pres	13	aux	_	_
 13-14	ǃgâibahesa	_	_	_	_	_	_	_	SpaceAfter=No
-13	ǃgâibahe	ǃgâi	VERB	STAT	Voice[1]=Appl|Voice[2]=Pass	1	ccomp	_	_
+13	ǃgâibahe	ǃgâi	VERB	STAT	Voice=ApplPass	1	ccomp	_	_
 14	sa	s	SCONJ	NMLZ	Case=Acc	13	mark	_	_
 15	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
@@ -10239,7 +10239,7 @@
 7-8	aits	_	_	_	_	_	_	_	_
 7	ai	ai	ADP	_	_	5	case	5:case	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj|23:nsubj	_
-9	ǃgîbasen	ǃgî	VERB	_	Voice[1]=Appl|Voice[2]=Refl	4	ccomp	4:ccomp	_
+9	ǃgîbasen	ǃgî	VERB	_	Voice=ApplRefl	4	ccomp	4:ccomp	_
 10-11	titesa	_	_	_	_	_	_	_	_
 10	tite	tite	AUX	FUT.NEG	Polarity=Neg|Tense=Fut	9	aux	9:aux	_
 11	s	s	SCONJ	NMLZ	Case=Nom	9	mark	9:mark	_
@@ -11017,7 +11017,7 @@
 9	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 10	nî	nî	AUX	FUT	Tense=Fut	11	aux	_	_
 11-12	ǃkhōbasen-e	_	_	_	_	_	_	_	SpacesAfter=\n
-11	ǃkhōbasen	ǃkhō	VERB	_	Voice[1]=Appl|Voice[2]=Refl	1	acl	_	_
+11	ǃkhōbasen	ǃkhō	VERB	_	Voice=ApplRefl	1	acl	_	_
 12	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -12123,7 +12123,7 @@
 # text = Amase ǃâubasen rase kaise ǃgâise hâ.
 # english = As good as can be expected.
 1	Amase	amase	ADV	_	_	2	advmod	_	_
-2	ǃâubasen	ǃâu	VERB	_	Voice[1]=Appl|Voice[2]=Refl	6	advcl	_	_
+2	ǃâubasen	ǃâu	VERB	_	Voice=ApplRefl	6	advcl	_	_
 3-4	rase	_	_	_	_	_	_	_	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	_	_
 4	se	se	SCONJ	MANNER	_	2	mark	_	_
@@ -14345,7 +14345,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	Powersi	Powers	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	_	_
 4	xa	xa	ADP	_	_	3	case	_	_
-5	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+5	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	_
 6	tama	tama	PART	NEG	Polarity=Neg	5	advmod	_	_
 7	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
@@ -14667,7 +14667,7 @@
 6	xa	xa	ADP	_	_	5	case	5:case	_
 7	s	s	PART	NMLZ	Case=Nom|ExtPos=ADV	5	advmod:emph	5:advmod:emph	_
 8	tsîna	tsîn	ADV	_	Case=Acc	7	fixed	7:fixed	_
-9	mîbahe	mî	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	0:root	_
+9	mîbahe	mî	VERB	_	Voice=ApplPass	0	root	0:root	_
 10	tama	tama	PART	NEG	Polarity=Neg	9	advmod	9:advmod	_
 11	hâ	hâ	AUX	PFV	Aspect=Perf	9	aux	9:aux	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
@@ -15365,7 +15365,7 @@
 # text = ǃGâibahets nî…
 # english = Would you mind…
 1-2	ǃGâibahets	_	_	_	_	_	_	_	_
-1	ǃGâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	_
+1	ǃGâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	nî	nî	AUX	FUT	Tense=Fut	1	aux	_	SpaceAfter=No
 4	…	…	PUNCT	_	_	1	punct	_	SpacesAfter=\n
@@ -15428,7 +15428,7 @@
 4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	ge	ge	AUX	DECL	Mood=Ind	7	aux	_	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	_	_
-7	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpaceAfter=No
+7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	appos	_	_
@@ -17635,7 +17635,7 @@
 7-8	xats	_	_	_	_	_	_	_	_
 7	xa	xa	ADP	_	_	2	case	2:case	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj:pass	9:nsubj:pass	_
-9	ǃgâibahe	ǃgâi	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	0:root	SpaceAfter=No
+9	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1634
@@ -20685,7 +20685,7 @@
 14	[	[	PUNCT	_	_	15	punct	_	SpaceAfter=No
 15	ah	ah	INTJ	_	_	17	discourse	_	SpaceAfter=No
 16	]	]	PUNCT	_	_	15	punct	_	_
-17	mîbahe	mî	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	_	SpacesAfter=\n
+17	mîbahe	mî	VERB	_	Voice=ApplPass	0	root	_	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_416
 # text = xūn ǁnān xa da ge sida nētsēsa kai
@@ -22724,7 +22724,7 @@
 16	hâ	hâ	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
 17	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	19	obl:agent	16:nsubj|19:obl:agent	_
 18	xa	xa	ADP	_	_	17	case	17:case	_
-19	mîbahe	mî	VERB	_	Voice[1]=Appl|Voice[2]=Pass	0	root	0:root	_
+19	mîbahe	mî	VERB	_	Voice=ApplPass	0	root	0:root	_
 20	"	"	PUNCT	_	_	26	punct	26:punct	SpaceAfter=No
 21-22	tarets	_	_	_	_	_	_	_	_
 21	tare	tare	ADV	_	_	26	advmod	26:advmod	_
