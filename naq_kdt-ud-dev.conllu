@@ -277,7 +277,7 @@
 1	ǁGûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
-4	ǂganaga	ǂganaga	ADV	_	Typo=Yes	10	reparandum	10:reparandum	SpaceAfter=No
+4	ǂganaga	ǂganaga	ADV	_	Typo=Yes	10	reparandum	10:reparandum	_
 5	...	...	PUNCT	_	_	4	punct	4:punct	_
 6	ǁgûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	10:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
@@ -512,7 +512,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
 4	ǃgâi	ǃgâi	ADJ	_	_	0	root	0:root	_
-5	,	,	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	7	det	7:det	_
 7	ǃnā-omsa	ǃnā-om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
 8	ǁnaraǃnâ	ǁnaraǃnâ	VERB	_	Voice=Act	9	xcomp	9:xcomp	_
@@ -611,11 +611,11 @@
 # text = Tā "ti khoeb ge" ti mî re.
 # english = Don't say "my guy."
 1	Tā	tā	AUX	PROH	Mood=Prh	8	aux	8:aux	_
-2	'"	'"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+2	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 3	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	ccomp	8:ccomp	_
 5	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	SpaceAfter=No
-6	'"	'"	PUNCT	_	_	4	punct	4:punct	_
+6	"	"	PUNCT	_	_	4	punct	4:punct	_
 7	ti	ti	PART	QUOT	_	4	mark	4:mark	_
 8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
 9	re	re	AUX	PDIR	Mood=Imp	8	aux	8:aux	SpaceAfter=No
@@ -677,11 +677,11 @@
 # english = So, don't make him "my guy."
 1	ǁNā-amaga	ǁnā-amaga	ADV	_	_	9	advmod	9:advmod	_
 2	tā	tā	AUX	PROH	Mood=Prh	9	aux	9:aux	_
-3	''	''	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	'	'	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 4	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	advcl	9:advcl	_
 6	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	SpaceAfter=No
-7	''	''	PUNCT	_	_	4	punct	4:punct	_
+7	'	'	PUNCT	_	_	4	punct	4:punct	_
 8	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	case	4:case	_
 9	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
 10	re	re	AUX	PDIR	Mood=Imp	9	aux	9:aux	SpaceAfter=No
@@ -972,7 +972,7 @@
 1	ǂÂibaseni	ǂâibaseni	VERB	_	Voice=Act	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
-4	'"	'"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+4	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 5	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 6	klient-i	klient	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	_
 7	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	8	det	8:det	_
@@ -980,7 +980,7 @@
 9	ǂanǃgâ	ǂanǃgâ	VERB	_	Voice=Act	1	ccomp	1:ccomp	_
 10	tama	tama	PART	NEG	Polarity=Neg	9	advmod	9:advmod	_
 11	hâ	hâ	AUX	PFV	Aspect=Perf	9	aux	9:aux	SpaceAfter=No
-12	'"	'"	PUNCT	_	_	9	punct	9:punct	_
+12	"	"	PUNCT	_	_	9	punct	9:punct	_
 13	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	16:punct	_
 15	asaransies	asaransie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	nmod:poss	16:nmod:poss	_
@@ -1088,7 +1088,7 @@
 3	mî	mî	VERB	_	Voice=Act	12	advcl	12:advcl	_
 4	sa	s	SCONJ	NMLZ	Case=Acc	3	mark	3:mark	_
 5	ǃoa	ǃoa	VERB	_	Voice=Act	3	case	3:case	_
-6	'"	'"	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+6	"	"	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
 7	Koro	koro	NUM	_	NumType=Card	8	nummod	8:nummod	_
 8	khoegu	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obj	12:obj	_
 9-10	tiga	_	_	_	_	_	_	_	_
@@ -1096,7 +1096,7 @@
 10	ga	_	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	appos	8:appos	_
 11	ge	ge	AUX	_	Tense=Past	12	aux	12:aux	_
 12	ǂgâu	ǂgâu	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-13	'"	'"	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+13	"	"	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_75
 # text = Nē khoeb hîa ti klient-i xa ra ǂnoabaheb ge ǀgui tsūkeǃgâb ǀguiba go ūhâ i.
@@ -1203,9 +1203,9 @@
 # english = If I go bowling and I throw a strike, one thing happened.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 2	ga	ga	AUX	POT	Mood=Pot	10	aux	10:aux	_
-3	''	''	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	'	'	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 4	bowling	bowling	VERB	_	Voice=Act	7	obj	7:obj	SpaceAfter=No
-5	''	''	PUNCT	_	_	4	punct	4:punct	_
+5	'	'	PUNCT	_	_	4	punct	4:punct	_
 6	ti	ti	PART	QUOT	_	4	case	4:case	_
 7	hâ	hâ	VERB	COP.LOC	Voice=Act	8	acl:relcl	8:acl:relcl	_
 8	gamesa	game	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	10:obj	_
@@ -2235,9 +2235,9 @@
 16	ǁaeba	ǁae	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	obj	18:obj	_
 17	nî	nî	AUX	FUT	Tense=Fut	18	aux	18:aux	_
 18	ūhâ	ūhâ	VERB	_	Voice=Act	5	conj	5:conj	_
-19	'"	'"	PUNCT	_	_	20	punct	20:punct	SpaceAfter=No
+19	"	"	PUNCT	_	_	20	punct	20:punct	SpaceAfter=No
 20	hî-î	hî-î	INTJ	_	Polarity=Neg	23	obj	23:obj	SpaceAfter=No
-21	'"	'"	PUNCT	_	_	20	punct	20:punct	_
+21	"	"	PUNCT	_	_	20	punct	20:punct	_
 22	ti	ti	PART	QUOT	_	20	case	20:case	_
 23-24	mîsa	_	_	_	_	_	_	_	SpaceAfter=No
 23	mî	mî	VERB	_	Voice=Act	18	advcl	18:advcl	_
@@ -2251,7 +2251,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
 4	ǂâi	ǂâi	VERB	_	Voice=Act	0	root	0:root	_
-5	'"	'"	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
 6	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	7	det	7:det	_
 7-8	xubats	_	_	_	_	_	_	_	_
 7	xūba	xū	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obj	10:obj	_
@@ -2263,7 +2263,7 @@
 12	ǀguisa	ǀguis	ADV	_	Case=Acc	10	advmod	10:advmod	_
 13	nî	nî	AUX	FUT	Tense=Fut	14	aux	14:aux	_
 14	hî	hî	VERB	_	Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No
-15	'"	'"	PUNCT	_	_	14	punct	14:punct	_
+15	"	"	PUNCT	_	_	14	punct	14:punct	_
 16	ti	ti	PART	QUOT	_	14	mark	14:mark	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
