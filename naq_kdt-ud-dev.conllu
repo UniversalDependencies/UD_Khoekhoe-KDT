@@ -277,7 +277,7 @@
 1	ǁGûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
-4	ǂganaga	ǂganaga	ADV	_	Typo=Yes	10	reparandum	10:reparandum	SpacesAfter=No
+4	ǂganaga	ǂganaga	ADV	_	Typo=Yes	10	reparandum	10:reparandum	SpaceAfter=No
 5	...	...	PUNCT	_	_	4	punct	4:punct	_
 6	ǁgûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	10:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
@@ -388,13 +388,13 @@
 3-4	its	_	_	_	_	_	_	_	_
 3	i	i	AUX	INTi	Mood=Int	2	aux	2:aux	_
 4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	SpacesAfter=No
+5	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_26
 # text = Hâ-â, amases ose o
 # english = No, not really.
-1	Hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpacesAfter=No
+1	Hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3-4	amases	_	_	_	_	_	_	_	_
 3	amase	amase	ADJ	_	_	1	parataxis	1:parataxis	_
@@ -461,7 +461,7 @@
 8	ǂkhauǂhoeba	ǂkhauǂhoe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obj	10:obj	_
 9	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	10	aux	10:aux	_
 10	ǃanu	ǃanu	VERB	_	Voice=Act	1	ccomp	1:ccomp	_
-11	o	o	SCONJ	_	_	10	mark	10:mark	_
+11	o	o	SCONJ	_	_	10	mark	10:mark	SpaceAfter=No
 12	?	?	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_31
@@ -634,7 +634,7 @@
 # sent_id = film_Bridge_44
 # text = Î, sa a khoeb ge
 # english = Yes, he's "your guy."
-1	Î	î	INTJ	_	Polarity=Pos	3	discourse	3:discourse	_
+1	Î	î	INTJ	_	Polarity=Pos	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	_
 4	a	a	AUX	COP.PRS	Tense=Pres	3	cop	3:cop	_
@@ -871,7 +871,7 @@
 # text = ǃGâi a, hoaragase.
 # english = Fine, absolutely.
 1	ǃGâi	ǃgâi	ADJ	_	_	0	root	0:root	_
-2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	_
+2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
 4	hoaragase	hoaragase	ADV	_	_	1	parataxis	1:parataxis	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
@@ -991,7 +991,7 @@
 # text = ǃGôahesatse Donovan, hoakhom ge ǃgāsasiba ūhâ ham-i a hams ai nēpa.
 # english = Mr. Donovan, we're all clear on who's who, here.
 1	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	6	vocative	6:vocative	_
-2	Donovan	Donovan	PROPN	_	_	1	flat:title	1:flat:title	_
+2	Donovan	Donovan	PROPN	_	_	1	flat:title	1:flat:title	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	hoakhom	hoa	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=1|PronType=Tot	7	nsubj	7:nsubj	_
 5	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -1029,8 +1029,8 @@
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	amase	amase	ADV	_	_	5	advmod	5:advmod	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	dī	dī	VERB	_	Voice=Act	0	root	0:root	_
-6	,	,	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+5	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	7:punct	_
 7	ǃgôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	5	vocative	5:vocative	_
 8	Bates	Bates	PROPN	_	_	7	flat:title	7:flat:title	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -1834,7 +1834,7 @@
 8	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_129
-# text = Kaise go sida ǃaroma ǂhâǂhâsa i...…
+# text = Kaise go sida ǃaroma ǂhâǂhâsa i...
 # english = It was important to us…
 1	Kaise	kaise	ADV	_	_	5	advmod	5:advmod	_
 2	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
@@ -2308,7 +2308,7 @@
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_162
-# text = ǃHoa ta ge nîs ge...…
+# text = ǃHoa ta ge nîs ge...
 # english = I have to speak to…
 1	ǃHoa	ǃhoa	VERB	_	Voice=Act	0	root	0:root	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
@@ -2347,7 +2347,7 @@
 10	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_165
-# text = Hâ-â, tita...…
+# text = Hâ-â, tita...
 # english = No, I…
 1	Hâ-â	hâ-â	INTJ	_	Polarity=Neg	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
@@ -2403,7 +2403,7 @@
 # sent_id = film_Bridge_169
 # text = ǃGôahesatse, tita ge nē ǃoeǃuiǂûs di ǂûǁaesa ūhâ.
 # english = Well, I have a dinner date, sir.
-1	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	9	vocative	9:vocative	_
+1	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	9	vocative	9:vocative	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
@@ -2465,7 +2465,7 @@
 # sent_id = conversation_Windhoek5_352
 # text = "ou tyds [tā] tā tita ou tyds di xūna mîba" ti ra mî o
 # english = "Old Fashion, do not tell me old fashioned things, now that older times things" (they) say
-1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	ou	ou	ADJ	_	Foreign=Yes	3	amod	3:amod	Lang=af
 3	tyds	tyd	NOUN	_	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing|Person=3	17	ccomp	17:ccomp	Lang=af
 4	[	[	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
@@ -2478,7 +2478,7 @@
 11	di	di	ADP	POSS	_	10	case	10:case	_
 12	xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	13	obj	13:obj	_
 13	mîba	mî	VERB	_	Voice=Appl	3	parataxis	3:parataxis	SpaceAfter=No
-14	"	"	PUNCT	_	_	3	punct	3:punct	_
+14	'	'	PUNCT	_	_	3	punct	3:punct	_
 15	ti	ti	PART	QUOT	_	11	mark	11:mark	_
 16	ra	ra	AUX	IPFV	Aspect=Imp	17	aux	17:aux	_
 17	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
@@ -2541,7 +2541,7 @@
 5	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
 6	kom	kom	AUX	ASSERT1	Mood=Ass	11	aux	11:aux	_
 7-8	plasticse	_	_	_	_	_	_	_	_
-7	plastic	plastic	NOUN	_	_	9	advcl	9:advcl	OrigLang=af
+7	plastic	plastic	NOUN	_	_	9	advcl	9:advcl	_
 8	se	se	SCONJ	MANNER	_	7	mark	7:mark	_
 9	plastic-i	plastic	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	11:nsubj	OrigLang=af
 10	tsîna	tsîn	ADV	_	Case=Acc	9	advmod:emph	9:advmod:emph	_
@@ -2592,7 +2592,7 @@
 # sent_id = conversation_Windhoek5_363
 # text = "nee axab ge go ǀuis ǀkha ǂnoa te,
 # english = (the grandfather replied and said) "no he threw at me with the stone, …
-1	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 2	nee	nee	INTJ	_	Polarity=Neg	8	discourse	8:discourse	_
 3	axab	axa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
@@ -2658,7 +2658,7 @@
 # sent_id = conversation_Windhoek5_368
 # text = "nee nēsisa ta ga khâimâ tsî nēba xu ǀnowa xawe ta nî tari-i xa ǁgamme ǃkhābahe"
 # english = "if I stand up and walk across the street by who will I be poured water"
-1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	nee	nee	INTJ	_	Polarity=Neg	6	discourse	6:discourse	_
 3	nēsisa	nēsisa	ADV	_	_	6	advmod	6:advmod	_
 4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -2675,7 +2675,7 @@
 15	xa	xa	ADP	_	_	14	case	14:case	_
 16	ǁgamme	ǁgam	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obj	17:obj	_
 17	ǃkhābahe	ǃkhāba	VERB	_	Voice=Pass	10	conj	10:conj	SpaceAfter=No
-18	"	"	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+18	'	'	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_369
 # text = ā, ā
@@ -2798,7 +2798,7 @@
 6	o	o	SCONJ	_	_	5	mark	5:mark	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_378
-# text = ǃkhamo
+# text = ǃkham o
 # english = fight [BACKCHANNEL_REP]
 1	ǃkham	ǃkham	VERB	_	Voice=Act	0	root	0:root	_
 2	o	o	SCONJ	_	_	1	mark	1:mark	SpacesAfter=\n
@@ -2834,22 +2834,22 @@
 # sent_id = conversation_Windhoek5_382
 # text = "ego Beras" tita komo ra mîo "tā ti ôaba ǂnau" ti nî mî
 # english = "Ego Beras, I say, do not beat my child I tell you", I say
-1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	ego	ego	INTJ	_	_	3	discourse	3:discourse	_
 3	Beras	Bera	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	ccomp	8:ccomp	SpaceAfter=No
-4	"	"	PUNCT	_	_	3	punct	3:punct	_
+4	'	'	PUNCT	_	_	3	punct	3:punct	_
 5	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
 6	komo	komo	AUX	ASSERT1	Mood=Ass	8	aux	8:aux	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
 8-9	mîo	_	_	_	_	_	_	_	_
 8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
 9	o	o	AUX	ASSERT2	Mood=Ass	6	fixed	6:fixed	_
-10	"	"	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
+10	'	'	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
 11	tā	tā	AUX	PROH	Mood=Prh	14	aux	14:aux	_
 12	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 13	ôaba	ôa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obj	14:obj	_
 14	ǂnau	ǂnau	VERB	_	Voice=Act	18	ccomp	18:ccomp	SpaceAfter=No
-15	"	"	PUNCT	_	_	14	punct	14:punct	_
+15	'	'	PUNCT	_	_	14	punct	14:punct	_
 16	ti	ti	PART	QUOT	_	14	mark	14:mark	_
 17	nî	nî	AUX	FUT	Tense=Fut	18	aux	18:aux	_
 18	mî	mî	VERB	_	Voice=Act	8	parataxis	8:parataxis	SpacesAfter=\n
@@ -2902,7 +2902,7 @@
 2	khoeba	khoe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
 4	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
-5	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+5	'	'	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
 6	ǁgôa	ǁgôa	VERB	_	Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	9:punct	_
 8	î	î	SCONJ	_	_	9	mark	9:mark	_
@@ -2917,7 +2917,7 @@
 17	ǂnauhe	ǂnau	VERB	_	Voice=Pass	15	conj	15:conj	_
 18	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
 19	toa	toa	VERB	_	Voice=Act	15	conj	15:conj	SpaceAfter=No
-20	"	"	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+20	'	'	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_388
 # text = mâ xamare-i ge mâti ra ǂgaihe tis tsîna a ǀū ǀgôan ge
@@ -2965,20 +2965,20 @@
 # sent_id = conversation_Windhoek5_392
 # text = "o nē kuduba?"
 # english = "oh is this Kudu?"
-1	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 2	o	o	INTJ	_	_	4	discourse	4:discourse	_
 3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 4	kuduba	kudu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
-6	"	"	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+6	'	'	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_393
 # text = "tareba?"
 # english = "what is it?"
-1	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	tareba	tare	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int	0	root	0:root	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
-4	"	"	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+4	'	'	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_394
 # text = ǁnāpam go sī o
@@ -2993,7 +2993,7 @@
 # sent_id = conversation_Windhoek5_395
 # text = "eto tare-e ro ra ôamâ
 # english = (she asked) "What are you looking for here?"
-1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+1	'	'	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	eto	eto	INTJ	_	_	6	discourse	6:discourse	_
 3	tare-e	tare	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	6	obj	6:obj	_
 4	ro	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
@@ -3008,7 +3008,7 @@
 3	nētsē	nētsē	ADV	_	_	4	advmod	4:advmod	_
 4	hâ	hâ	VERB	COP.LOC	Voice=Act	9	ccomp	9:ccomp	_
 5	o	o	AUX	ASSERT2	Mood=Ass	4	aux	4:aux	SpaceAfter=No
-6	"	"	PUNCT	_	_	4	punct	4:punct	_
+6	'	'	PUNCT	_	_	4	punct	4:punct	_
 7	ti	ti	PART	QUOT	_	4	mark	4:mark	_
 8	ǁîsa	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	9:iobj	_
 9	mî	mî	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -3020,7 +3020,7 @@
 1	o	o	ADV	_	_	12	advmod	12:advmod	_
 2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	12	nsubj:outer	12:nsubj:outer	_
 3	go	go	AUX	_	Tense=RecPast	12	aux	12:aux	_
-4	"	"	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+4	'	'	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
 5	hâ-â	hâ-â	INTJ	_	Polarity=Neg	12	discourse	12:discourse	_
 6	sim	si	PRON	_	Case=Nom|Clusivity=Ex|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
@@ -3029,7 +3029,7 @@
 10	oa	oa	VERB	_	Voice=Act	12	advcl	12:advcl	_
 11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
 12	ī	ī	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-13	"	"	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+13	'	'	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_398
 # text = Ti ǁnaos ge ge ǀgam arikha ūhâ i
