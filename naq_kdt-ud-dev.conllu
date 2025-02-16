@@ -5,7 +5,7 @@
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
-4	eurogu	euro	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
+4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
 5	xa	xa	ADP	_	_	4	case	4:case	_
 6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
 7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
@@ -2473,8 +2473,8 @@
 6	]	]	PUNCT	_	_	5	punct	5:punct	_
 7	tā	tā	AUX	PROH	Mood=Prh	13	aux	13:aux	_
 8	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	13	iobj:appl	13:iobj:appl	_
-9	ou	ou	ADJ	_	Foreign=Yes	10	amod	10:amod	Lang=af
-10	tyds	tyd	NOUN	_	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing|Person=3	12	nmod:poss	12:nmod:poss	Lang=af
+9	ou	ou	ADJ	_	_	10	amod	10:amod	Lang=af
+10	tyds	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod:poss	12:nmod:poss	Lang=af
 11	di	di	ADP	POSS	_	10	case	10:case	_
 12	xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	13	obj	13:obj	_
 13	mîba	mî	VERB	_	Voice=Appl	3	parataxis	3:parataxis	SpaceAfter=No

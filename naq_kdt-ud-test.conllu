@@ -188,7 +188,7 @@
 5	ǀao	ǀao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_21
-# text = Petrub ge ǀnomi ai go sī
+# text = Petrub ge ǀnom-i ai go sī
 # english = (P. was crossing the river in a boat.) P. reached the bank.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
@@ -211,7 +211,7 @@
 # english = (‘Look out of the window!’ ‘What’s happening?’) ‘P. is fighting with M.’
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
 4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
 6	ǃkham	ǃkham	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -513,12 +513,12 @@
 6	ǀoa	ǀoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_55
-# text = Petrub ge ǁîb ǁkhopa-amgua go hō
+# text = Petrub ge ǁîb ǁkhopa-amgu go hō
 # english = P. found his keys.
 1	Petrub	Petrub	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	ǁkhopa-amgua	ǁkhowa-am	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	6	obj	6:obj	_
+4	ǁkhopa-amgu	ǁkhowa-am	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obj	6:obj	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
 6	hō	hō	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
@@ -535,12 +535,12 @@
 # sent_id = grammar_BivalTyp_57
 # text = Petrub ge Mariasa a ǃhui hâ
 # english = P. hates M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-4	a	a	AUX	STAT.PRS	Tense=Pres	6	aux	6:aux	_
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	a	a	AUX	STAT.PRS	Tense=Pres	5	aux	5:aux	_
 5	ǃhui	ǃhui	VERB	_	Voice=Act	0	root	0:root	_
-6	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
+6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_58
 # text = Petrub ge nē hems xa a ǃgâibahe
@@ -565,7 +565,7 @@
 # sent_id = grammar_BivalTyp_60
 # text = ǂnuwiǂgoagu ge ǃāsa ǂnami hâ
 # english = Walls surround the city.
-1	ǂnuwiǂgoagu	ǂnuwiǂgoa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	nsubj	4:nsubj	_
+1	ǂnuwiǂgoagu	ǂnuwiǂgoa	NOUN	_	Gender=Masc|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
 4	ǂnami	ǂnami	VERB	_	Voice=Act	0	root	0:root	_
@@ -580,7 +580,7 @@
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_2
-# text = Mûts ge nî
+# text = Mûts ge nî.
 # english = You should see it.
 1-2	Mûts	_	_	_	_	_	_	_	_
 1	Mû	mû	VERB	_	Voice=Act	0	root	0:root	_
@@ -775,7 +775,7 @@
 # text = Aiǂhomisa go a sîǂoas ǃaroma?
 # english = You guys set to launch?
 1	Aiǂhomisa	aiǂhomisa	ADJ	_	_	0	root	0:root	_
-2	go	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	aux	1:aux	_
+2	go	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	_
 4	sîǂoas	sîǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	obl	1:obl	_
 5	ǃaroma	ǃaroma	ADP	_	_	4	case	4:case	SpaceAfter=No
@@ -898,7 +898,7 @@
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_34
-# text = Ok ǁareǀkhāb ǁga garu.
+# text = Ok, ǁareǀkhāb ǁga garu.
 # english = Okay, coming left.
 1	Ok	ok	INTJ	_	_	5	discourse	5:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
@@ -933,7 +933,7 @@
 1	Ok	ok	INTJ	_	_	8	discourse	8:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	Lewis	Lewi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	vocative	8:vocative	SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	1:punct	_
+4	,	,	PUNCT	_	_	3	punct	3:punct	_
 5	B	B	PROPN	_	_	8	obl	8:obl	_
 6	ǂgawab	ǂgawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	appos	5:appos	_
 7	ǁga	ǁga	ADP	_	_	5	case	5:case	_
@@ -1093,7 +1093,7 @@
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_55
-# text = Î Brock, pianob tawa da ge hâ.
+# text = Î, Brock, pianob tawa da ge hâ.
 # english = Yeah Brock, we're at the piano.
 1	Î	î	INTJ	_	Polarity=Pos	9	discourse	9:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
@@ -1445,7 +1445,7 @@
 # sent_id = film_Titanic_97
 # text = Oh, î!
 # english = Oh, yeah!
-1	Oh	oh	INTJ	_	_	2	discourse	2:discourse	SpaceAfter=No
+1	Oh	oh	INTJ	_	_	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	î	î	INTJ	_	Polarity=Pos	0	root	0:root	SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -1888,7 +1888,7 @@
 4	ǃgamse	ǃgamse	ADV	_	_	10	advmod	10:advmod	_
 5	Titanici	Titanic	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
 6	di	di	ADP	POSS	_	5	case	5:case	_
-7	ǀhōn	ǀhō	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	6	obl	6:obl	_
+7	ǀhōn	ǀhō	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl	_
 8	ǂganaga	ǂganaga	ADV	_	_	7	advmod	7:advmod	_
 9	ǃnâ	ǃnâ	ADP	_	_	7	case	7:case	_
 10-11	hân	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1914,7 +1914,7 @@
 12	hîkākāsa	hîkākāsa	ADJ	_	_	13	amod	13:amod	_
 13	doe-ommi	doe-om	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
 14	ǃnâ	ǃnâ	ADP	_	_	13	case	13:case	_
-15	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	18	nsubj	18:nsubj	_
+15	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	16	nsubj	16:nsubj	_
 16	dītsâ	dītsâ	VERB	_	Voice=Act	10	advcl	10:advcl	_
 17	tama	tama	PART	NEG	Polarity=Neg	16	advmod	16:advmod	_
 18	hâ	hâ	AUX	PFV	Aspect=Perf	16	aux	16:aux	_
@@ -2016,7 +2016,7 @@
 # english = Take a look at this drawing that we found just today.
 1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 4	ǀnōǁnâsa	ǀnōǁnâ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	1:obj	_
 5	nētsē	nētsē	ADV	_	_	8	advmod	8:advmod	_
 6	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
@@ -2074,7 +2074,7 @@
 1	Satellites	satellite	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	obl	4:obl	OrigLang=en
 2	xu	xu	ADP	_	_	1	case	1:case	_
 3	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	_
-4-5	ǁkhamisats	_	_	_	_	_	_	_	_
+4-6	ǁkhamisats	_	_	_	_	_	_	_	_
 4	ǁkhami	ǁkhami	VERB	_	Voice=Act	8	ccomp	8:ccomp	_
 5	sa	s	SCONJ	NMLZ	Case=Acc	4	mark	4:mark	_
 6	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
@@ -2204,9 +2204,9 @@
 # sent_id = film_Titanic_165
 # text = Rose Calvert.
 # english = Rose Calvert.
-1	Rose	Rose	PROPN	_	_	2	advmod	2:advmod	_
-2	Calvert	Calvert	PROPN	_	_	0	root	0:root	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+1	Rose	Rose	PROPN	_	_	0	root	0:root	_
+2	Calvert	Calvert	PROPN	_	_	1	flat:name	1:flat:name	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_166
 # text = ǃGôahesas Calvert.
@@ -2308,7 +2308,7 @@
 8	ǃnâ	ǃnâ	ADP	_	_	7	case	7:case	_
 9-10	hâsa	_	_	_	_	_	_	_	SpaceAfter=No
 9	hâ	hâ	VERB	COP.LOC	Voice=Act	5	acl:relcl	5:acl:relcl	_
-10	sa	_	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Rel	9	mark	9:mark	_
+10	sa	s	SCONJ	_	Case=Acc	9	mark	9:mark	_
 11	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 # sent_id = film_Titanic_173
@@ -2380,10 +2380,10 @@
 # text = Ûis ga hâ, os ge nēsi ga kaidīsi ǃkharu hâ.
 # english = If she had lived, she'd be over 100 by now.
 1-2	Ûis	_	_	_	_	_	_	_	_
-1	Ûi	ûi	VERB	_	Voice=Act	13	advcl	13:advcl	_
+1	Ûi	ûi	VERB	_	Voice=Act	12	advcl	12:advcl	_
 2	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	1	nsubj	1:nsubj	_
 3	ga	ga	AUX	POT	Mood=Pot	1	aux	1:aux	_
-4	hâ	hâ	VERB	COP.LOC	Voice=Act	1	aux	1:aux	SpaceAfter=No
+4	hâ	hâ	AUX	_	Aspect=Perf	1	aux	1:aux	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	1:punct	_
 6-7	os	_	_	_	_	_	_	_	_
 6	o	o	ADV	_	_	12	advmod	12:advmod	_
@@ -2523,7 +2523,7 @@
 15	Cedar	Cedar	PROPN	_	_	18	nsubj	18:nsubj	_
 16	Rapids	Rapid	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	flat:name	15:flat:name	_
 17	tsîna	tsîn	ADV	_	Case=Acc	15	advmod:emph	15:advmod:emph	_
-18	ǁō	ǁō	VERB	_	Voice=Act	8	ccomp	8:ccomp	_
+18	ǁō	ǁō	VERB	_	Voice=Act	5	conj	5:conj	_
 19	hâ	hâ	AUX	PFV	Aspect=Perf	18	aux	18:aux	SpaceAfter=No
 20	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -2711,7 +2711,7 @@
 # english = We met just a few minutes ago.
 1-2	ǀAsem	_	_	_	_	_	_	_	_
 1	ǀAse	ǀase	ADV	_	_	6	advmod	6:advmod	_
-2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 4	ǀoro	ǀoro	ADJ	_	_	5	amod	5:amod	_
 5	haigu	hai	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	nsubj	6:nsubj	_
@@ -2846,7 +2846,7 @@
 23	hû	hû	NUM	_	NumType=Card	21	flat:num	21:flat:num	_
 24	kaidīsi	kaidīsi	NUM	_	NumType=Card	21	flat:num	21:flat:num	_
 25	tsî	tsî	CCONJ	_	_	26	cc	26:cc	_
-26	khoesedīsi	khoesedīsi	NUM	_	NumType=Card	28	conj	28:conj	_
+26	khoesedīsi	khoesedīsi	NUM	_	NumType=Card	21	conj	21:conj	_
 27	ǀgamǁî	ǀgam	ADJ	_	NumType=Ord	26	flat:num	26:flat:num	_
 28	kuri	kuri	NOUN	_	_	30	obl	30:obl	_
 29	ge	ge	AUX	DECL	Mood=Ind	30	aux	30:aux	_
@@ -2938,7 +2938,7 @@
 4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 5	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 6	ǁgā	ǁgā	VERB	_	Voice=Act	0	root	0:root	_
-7	hâ	hâ	VERB	COP.LOC	Voice=Act	6	aux	6:aux	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	_
 8	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	6	aux	6:aux	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -3275,7 +3275,7 @@
 # english = Then the forward compartments start to flood.
 1	ǁNāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	9	advmod	9:advmod	_
 2	xu	xu	ADP	_	_	1	case	1:case	_
-3	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+3	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl:impers	9:expl:impers	_
 4	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
 5	aiǀkhāb	aiǀkhā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nmod:poss	6:nmod:poss	_
 6	ǃâga	ǃâ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	9	nsubj	9:nsubj	_
@@ -3391,7 +3391,7 @@
 5	ǁgâiǀāba	ǁgâiǀā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
 6	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 7	nî	nî	AUX	FUT	Tense=Fut	8	aux	8:aux	_
-8-8	tanise	_	_	_	_	_	_	_	_
+8-9	tanise	_	_	_	_	_	_	_	_
 8	tani	tani	VERB	_	Voice=Act	10	advcl	10:advcl	_
 9	se	se	SCONJ	MANNER	_	8	mark	8:mark	_
 10	kuruhe	kuruhe	VERB	_	Voice=Act	0	root	0:root	_
@@ -3540,7 +3540,7 @@
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	1	iobj:appl	1:iobj:appl	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	5:punct	_
-5	Rose	Rose	PROPN	_	_	1	advmod	1:advmod	SpaceAfter=No
+5	Rose	Rose	PROPN	_	_	1	vocative	1:vocative	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_273
@@ -3778,8 +3778,8 @@
 9	,	,	PUNCT	_	_	10	punct	10:punct	_
 10	Rose	Rose	PROPN	_	_	8	vocative	8:vocative	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	10:punct	_
-12	xawe	xawe	CCONJ	_	_	13	conj	13:conj	_
-13	Titanici	Titanic	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
+12	xawe	xawe	CCONJ	_	_	13	cc	13:cc	_
+13	Titanici	Titanic	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	2:conj	_
 14-15	xas	_	_	_	_	_	_	_	_
 14	xa	xa	ADP	_	_	13	case	13:case	_
 15	s	s	SCONJ	NMLZ	Case=Nom	13	mark	13:mark	_
@@ -4031,7 +4031,7 @@
 # sent_id = film_Titanic_314
 # text = Nau khoen hoan ǃaroma ge ǁhawodi di doe-om ib ge.
 # english = It was the ship of dreams to everyone else.
-1	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
+1	Nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
 2	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	obl	8:obl	_
 3	hoan	hoa	DET	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Tot	2	det	2:det	_
 4	ǃaroma	ǃaroma	ADP	_	_	2	case	2:case	_
@@ -4120,8 +4120,8 @@
 9	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	15:nsubj	_
 10	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
 11-12	ǂoaǃnâts	_	_	_	_	_	_	_	_
-11	ǂoaǃnâ	ǂoaǃnâ	VERB	_	Voice=Act	15	obj	15:obj	_
-12	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	15:nsubj	_
+11	ǂoaǃnâ	ǂoaǃnâ	VERB	_	Voice=Act	14	acl:relcl	14:acl:relcl	_
+12	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
 13	nî	nî	AUX	FUT	Tense=Fut	15	aux	15:aux	_
 14	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	obj	15:obj	_
 15	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	_
@@ -4638,7 +4638,7 @@
 # english = Come with me, darling.
 1	ǀKhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
-3	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	2:obl	_
+3	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	obl	1:obl	_
 4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	6:punct	_
 6	xūro	xū	VERB	_	Degree=Dim|Voice=Act	1	vocative	1:vocative	SpaceAfter=No
@@ -5124,7 +5124,7 @@
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_429
-# text = Î ǃGôahesab.
+# text = Î, ǃGôahesab.
 # english = Yes sir.
 1	Î	î	INTJ	_	Polarity=Pos	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
@@ -5132,7 +5132,7 @@
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_430
-# text = Hoaragase ǀoasase garu ǃGôahesab Moody.
+# text = Hoaragase ǀoasase garu, ǃGôahesab Moody.
 # english = All ahead full, Mr. Moody.
 1	Hoaragase	hoaragase	ADV	_	_	3	advmod	3:advmod	_
 2	ǀoasase	ǀoasase	ADV	_	_	3	advmod	3:advmod	_
@@ -6823,7 +6823,7 @@
 # sent_id = film_Titanic_595
 # text = Nau xūgas ge goro mû ǂgao...
 # english = You wanted to see the...
-1	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
+1	Nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
 2	xūgas	xūga	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 4	goro	goro	AUX	RPST.IPFV	Aspect=Imp|Tense=RecPast	6	aux	6:aux	_
@@ -6914,7 +6914,7 @@
 6	sage	sa	PRON	_	Case=Nom|Clusivity=Ex|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	ā-i	ā	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl	_
 8	ǁga	ǁga	ADP	_	_	7	case	7:case	_
-9	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1	11	aux	11:aux	_
+9	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1	11	nsubj	11:nsubj	_
 10	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
 11	oa	oa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 12	?	?	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
@@ -6992,7 +6992,7 @@
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_615
-# text = ǀNîsits ge ǃuiǂûs ǃaroma ǁari sida ǀkha a ǂû ǁkhā îts sa ǃgari-ao ǃâsa khoen ǀkha ǀgoragu.
+# text = ǀNîsits ge ǃuiǂûs ǃaroma ǁari sida ǀkha a ǂû ǁkhā îts sa ǃgari-aoǃâsa khoen ǀkha ǀgoragu.
 # english = Perhaps you could join us for dinner tomorrow evening to regale our group with your heroic tale.
 1-2	ǀNîsits	_	_	_	_	_	_	_	_
 1	ǀNîsi	ǀnîsi	ADV	_	_	11	advmod	11:advmod	_
@@ -7159,7 +7159,7 @@
 # text = Louis dīsiǃnaniǀab xa ge anahe hâ i.
 # english = It was worn by Louis XVI.
 1	Louis	Loui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl:agent	5:obl:agent	_
-2	dīsiǃnaniǀab	dīsiǃnaniǀa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card|Person=3	1	nmod	1:nmod	_
+2	dīsiǃnaniǀab	dīsiǃnaniǀa	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card|Person=3	1	nmod	1:nmod	_
 3	xa	xa	ADP	_	_	1	case	1:case	_
 4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
 5	anahe	ana	VERB	_	Voice=Pass	0	root	0:root	_
@@ -7177,7 +7177,7 @@
 4	'	'	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
 5	Hurib	Huri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
 6	di	di	ADP	POSS	_	7	case	7:case	_
-7	ǂgaob	ǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
+7	ǂgaob	ǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	SpaceAfter=No
 8	'	'	PUNCT	_	_	7	punct	7:punct	_
 9	ti	ti	PART	QUOT	_	7	case	7:case	_
 10	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	11	aux	11:aux	_
@@ -7315,7 +7315,7 @@
 21	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_644
-# text = Tsî ta ge ǃgâsagu tamas ka i o ǃgâsadi tamas ka i o ǀgū khoe-i ǁnā ǃhūb di ǃâb ǃnâ ge ūhâ tama hâ i o ta ge ǁnāpa xu ge ǂoa tsî ta ge ǁnās khaoǃgâ oasī tama hâ.
+# text = Tsî ta ge ǃgâsagu tamas ka i o ǃgâsadi tamas ka i o ǀgū khoe-i ǁnā ǃhūb di ǃâb ǃnâ ge ūhâ tama hâ i, o ta ge ǁnāpa xu ge ǂoa tsî ta ge ǁnās khaoǃgâ oasī tama hâ.
 # english = And I had no brothers or sisters or close kin in that part of the country so I lit on out of there and I haven't been back since.
 1	Tsî	tsî	CCONJ	_	_	24	cc	24:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	24:nsubj	_
@@ -7384,7 +7384,7 @@
 15	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_647
-# text = ǃGôasab Dawson tita--…
+# text = ǃGôasab Dawson, tita--…
 # english = Mr. Dawson, I--...
 1	ǃGôasab	ǃgôasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	vocative	4:vocative	_
 2	Dawson	Dawson	PROPN	_	_	1	flat:title	1:flat:title	SpaceAfter=No
@@ -7542,7 +7542,7 @@
 # sent_id = film_Titanic_661
 # text = Ti hoa ǃhūbaib tsî hoa xūn ǁîb ǃnâ hân ge.
 # english = It was my whole world and all the people in it.
-1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	hoa	hoa	DET	_	PronType=Tot	3	det	3:det	_
 3	ǃhūbaib	ǃhūbai	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
 4	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
@@ -7793,7 +7793,7 @@
 6	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
 7	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
 8	tsîn	tsîn	ADV	_	Case=Nom	7	advmod:emph	7:advmod:emph	_
-9	ge	ge	AUX	DECL	Mood=Ind	12	nsubj	12:nsubj	_
+9	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
 10	satsa	sa	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	12:obj	_
 11	a	a	AUX	STAT.PRS	Tense=Pres	12	aux	12:aux	_
 12	ǀū	ǀū	VERB	STAT	Voice=Act	4	conj	4:conj	_
@@ -7824,12 +7824,12 @@
 6	ǁnâuǀnamoǃnâ	ǁnâuǀnamoǃnâ	VERB	_	Voice=Act	4	conj	4:conj	_
 7	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
 8	ǁîǃgôasenxa	ǁîǃgôasenxa	VERB	_	Voice=Act	4	conj	4:conj	_
-9	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
+9	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 10	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
 11	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
 12	nēsi	nēsi	ADV	_	_	14	advmod	14:advmod	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
-14	ī	ī	VERB	_	Voice=Act	4	cc	4:cc	SpaceAfter=No
+14	ī	ī	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	16:punct	_
 16	Jack	Jack	INTJ	_	_	4	parataxis	4:parataxis	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -8040,7 +8040,7 @@
 9	o	o	SCONJ	_	_	5	fixed	5:fixed	_
 10	ǁnāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	11	advmod	11:advmod	_
 11	ī	ī	VERB	_	Voice=Act	12	acl:relcl	12:acl:relcl	_
-12	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|NumType=Card|Number=Sing|Person=3	4	conj	4:conj	SpaceAfter=No
+12	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj	SpaceAfter=No
 13	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_698
@@ -8088,8 +8088,7 @@
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	_
 4	ra	ra	AUX	_	Mood=Imp	1	aux	1:aux	SpaceAfter=No
-5	--	--	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
-6	-	-	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+5	--	--	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_704
 # text = Khoe-i hina ǀoro mari-e ūhâ i ǃaroma.
@@ -8388,7 +8387,7 @@
 1	Ū	ū	VERB	_	Voice=Act	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	_
-4	hâ	hâ	VERB	COP.LOC	Voice=Act	1	aux	1:aux	SpaceAfter=No
+4	hâ	hâ	AUX	PFV	Aspect=Per5f	1	aux	1:aux	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_728
@@ -8435,7 +8434,7 @@
 # english = Rose has already done that.
 1	Roses	Rose	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǁnā-e	ǁnā	PRON	DIST	Case=Acc|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	5	nsubj	5:nsubj	_
+3	ǁnā-e	ǁnā	PRON	DIST	Case=Acc|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	5	obj	5:obj	_
 4	ǀnai	ǀnai	ADV	_	_	5	advmod	5:advmod	_
 5	dī	dī	VERB	_	Voice=Act	0	root	0:root	_
 6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpaceAfter=No
@@ -8724,7 +8723,7 @@
 12	Montereys	Monterey	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	obl	16:obl	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ge	ge	AUX	_	Tense=Past	16	aux	16:aux	_
-15	sī	sī	VERB	_	Voice=Act	16	aux	16:aux	_
+15	sī	sī	AUX	_	_	16	aux	16:aux	_
 16	sîsen	sîsen	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 17	,	,	PUNCT	_	_	30	punct	30:punct	_
 18	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	30	advmod	30:advmod	_
@@ -8902,7 +8901,7 @@
 7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_770
-# text = Aob khami ǃgapisa ǁkhāǁkhā te re.
+# text = Aob khami ǃgawisa ǁkhāǁkhā te re.
 # english = Teach me to ride like a man.
 1	Aob	ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obl	3:obl	_
 2	khami	khami	ADP	_	_	1	case	1:case	_
@@ -8954,7 +8953,7 @@
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_775
-# text = ǀKhī re, ǁgau si ta ge nî.
+# text = ǀKhī re, ǁgausi ta ge nî.
 # english = Come on, I'll show you.
 1	ǀKhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -9433,8 +9432,7 @@
 # text = ǀNamsa--
 # english = Darling--
 1	ǀNamsa	ǀnam	ADJ	_	_	0	root	0:root	SpaceAfter=No
-2	--	--	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
-3	-	-	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+2	--	--	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_826
 # text = ǂGom ta ge ra ǃGôasab Dawsonna du ra ǂâihō ǃkhaisa.
@@ -9520,7 +9518,7 @@
 2	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 3	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	2	nsubj	2:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	2	aux	2:aux	_
-5	Rothes	Rothes	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	6:nmod:poss	_
+5	Rothes	Rothes	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
 6	di	di	ADP	POSS	_	5	case	5:case	_
 7	tsamtsiǃnâxa	tsamtsiǃnâxa	ADJ	_	_	8	amod	8:amod	_
 8	tara	tara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	nsubj	2:nsubj	SpaceAfter=No
@@ -9580,8 +9578,8 @@
 4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	7	nsubj	7:nsubj	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
 6	sâu	sâu	VERB	_	Voice=Act	7	xcomp	7:xcomp	_
-7	tsâ	tsâ	VERB	_	Voice=Act	1	ccomp	1:ccomp	_
-8	ǃkhai-e	ǃkhai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card|Person=3	7	nsubj	7:nsubj	SpaceAfter=No
+7	tsâ	tsâ	VERB	_	Voice=Act	8	acl	8:acl	_
+8	ǃkhai-e	ǃkhai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	1	obj	1:obj	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_838
@@ -9709,10 +9707,10 @@
 1	Xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	3:nsubj	_
 2	a	a	AUX	STAT.PRS	Tense=Pres	3	aux	3:aux	_
 3	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	_	SpaceAfter=No	5	punct	5:punct	_
-5-6	tamasa	_	_	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5-6	tamasa	_	_	_	_	_	_	_	SpaceAfter=No
 5	tama	tama	PART	NEG	Polarity=Neg	3	parataxis	3:parataxis	_
-6	sa	s	SCONJ	NMLZ	Case=Acc	5	mark	5:mark	SpaceAfter=No
+6	sa	s	SCONJ	NMLZ	Case=Acc	5	mark	5:mark	_
 7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_851
@@ -10049,7 +10047,7 @@
 # sent_id = film_Titanic_1478
 # text = ǁNās ge sada hâ ǃkhaisa.
 # english = That's our position.
-1	ǁNās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	nsubj	4:nsubj	_
+1	ǁNās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	nsubj:outer	4:nsubj:outer	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	sada	sa	PRON	_	Clusivity=In|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 4	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
@@ -10154,13 +10152,13 @@
 # sent_id = conversation_Windhoek5_3
 # text = ja ja
 # english = Yeah yeah
-1	ja	ja	INTJ	_	Foreign=Yes|Polarity=Pos	0	root	0:root	Lang=af
-2	ja	ja	INTJ	_	Foreign=Yes|Polarity=Pos	1	parataxis	1:parataxis	Lang=af|SpacesAfter=\n
+1	ja	ja	INTJ	_	Polarity=Pos	0	root	0:root	OrigLang=af
+2	ja	ja	INTJ	_	Polarity=Pos	1	parataxis	1:parataxis	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_4
 # text = nee nēsisa ǀgôa-ets ge tis tsîna dī ǁoa
 # english = You cannot even do that to a child nowadays
-1	nee	nee	INTJ	_	Polarity=Neg	10	aux	10:aux	OrigLang=af
+1	nee	nee	PART	_	Polarity=Neg	10	advmod	10:advmod	OrigLang=af
 2	nēsisa	nēsisa	ADV	_	_	10	advmod	10:advmod	_
 3-4	ǀgôa-ets	_	_	_	_	_	_	_	_
 3	ǀgôa-e	ǀgôa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	_
@@ -10184,7 +10182,7 @@
 5	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	7	det	7:det	_
 6	ǃuri	ǃuri	ADJ	_	_	7	amod	7:amod	_
 7	ǂkhōdanasa	ǂkhōdana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	9:obj	_
-8	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	9	flat:title	9:flat:title	_
+8	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	9	aux	9:aux	_
 9	mû	mû	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_6
@@ -10234,7 +10232,7 @@
 2	ǁnaoba	ǁnao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 3	ge	ge	AUX	_	Tense=Past	4	aux	4:aux	_
 4	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
-5	'	'	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+5	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 6	ego	ego	INTJ	_	_	11	discourse	11:discourse	_
 7	o	o	ADV	_	_	11	mark	11:mark	_
 8-9	nēsisats	_	_	_	_	_	_	_	_
@@ -10263,7 +10261,7 @@
 6	plaassîsenro-e	plaassîsen	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	OrigLang=af
 7	ǁkhāǁkhā	ǁkhāǁkhā	VERB	_	Voice=Act	1	advcl	1:advcl	_
 8	tsi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	7:obj	SpaceAfter=No
-9	'	'	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+9	"	"	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_13
 # text = ā
@@ -10354,7 +10352,7 @@
 3	di	di	ADP	POSS	_	1	case	1:case	_
 4	ǀgôa-i	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj:outer	7:nsubj:outer	_
 5	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-6	'	'	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+6	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
 7	hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_21
@@ -10496,7 +10494,7 @@
 # sent_id = conversation_Windhoek5_33
 # text = "nē aupab gara ǃkhō te osa i ge kai xū-e nî ī" ti
 # english = (thinking) "if this old man catches me something big will happen"
-1	'	'	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
+1	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
 2	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	3	det	3:det	_
 3	aupab	aupa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	OrigLang=af
 4	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	5	aux	5:aux	_
@@ -10717,11 +10715,11 @@
 # sent_id = conversation_Windhoek5_49
 # text = "ai dankie aupa" ti a mî
 # english = I said "ai thank you grandpa"
-1	'	'	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	ai	ai	INTJ	_	_	3	discourse	3:discourse	_
 3	dankie	dankie	NOUN	_	Foreign=Yes|Number=Sing	8	ccomp	8:ccomp	Lang=af
 4	aupa	aupa	NOUN	_	Foreign=Yes|Number=Sing	3	vocative	3:vocative	Lang=af|SpaceAfter=No
-5	'	'	PUNCT	_	_	3	punct	3:punct	_
+5	"	"	PUNCT	_	_	3	punct	3:punct	_
 6	ti	ti	PART	QUOT	_	3	mark	3:mark	_
 7	a	a	AUX	_	Aspect=Punct	8	aux	8:aux	_
 8	mî	mî	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
@@ -10897,7 +10895,7 @@
 6	hîa	hîa	SCONJ	_	_	4	mark	4:mark	_
 7	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	_
 8	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-9	ǀkhī	ǀkhī	VERB	_	Voice=Act	4	csubj	4:csubj	_
+9	ǀkhī	ǀkhī	VERB	_	Voice=Act	14	csubj:pass	14:csubj:pass	_
 10	tite	tite	AUX	FUT.NEG	Polarity=Neg|Tense=Fut	9	aux	9:aux	SpaceAfter=No
 11	"	"	PUNCT	_	_	9	punct	9:punct	_
 12	ti	ti	PART	QUOT	_	9	mark	9:mark	_
@@ -10934,7 +10932,7 @@
 14	plaas	plaas	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	obl	18:obl	OrigLang=af
 15	ai	ai	ADP	_	_	14	case	14:case	_
 16	ge	ge	AUX	_	Tense=Past	18	aux	18:aux	_
-17	sī	sī	VERB	_	Voice=Act	18	aux	18:aux	_
+17	sī	sī	AUX	_	_	18	aux	18:aux	_
 18	sîsen	sî	VERB	_	Voice=Refl	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_64
@@ -10944,7 +10942,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
 4	mîba	mî	VERB	_	Voice=Appl	0	root	0:root	_
-5	go	_	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=2	4	aux	4:aux	SpacesAfter=\n
+5	go	_	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=2	4	iobj	4:iobj	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_65
 # text = huga ǀūts a xū-ets ra sī ǁkhāǁkhāsen
@@ -11109,7 +11107,7 @@
 6	pap	pap	NOUN	_	_	11	obl:agent	11:obl:agent	_
 7	xa	xa	ADP	_	_	6	case	6:case	_
 8	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	9	det	9:det	_
-9	plaassîsenro-e	plaassîsen	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	11	nsubj	11:nsubj	OrigLang=af
+9	plaassîsenro-e	plaassîsen	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	11	obj	11:obj	OrigLang=af
 10	ǁkhawa	ǁkhawa	ADV	_	_	11	advmod	11:advmod	_
 11	ǁkhāǁkhāhe	ǁkhāǁkhā	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
@@ -11175,7 +11173,7 @@
 8	go	go	AUX	_	Tense=RecPast	9	aux	9:aux	_
 9-10	ǃgû-o	_	_	_	_	_	_	_	_
 9	ǃgû	ǃgû	VERB	_	Voice=Act	14	advcl	14:advcl	_
-10	-o	o	AUX	ASSERT2	Mood=Ass	9	mark	9:mark	_
+10	-o	o	SCONJ	_	Mood=Ass	9	mark	9:mark	_
 11	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	14	advmod	14:advmod	_
 12	ǀorose	ǀorose	ADV	_	_	14	advmod	14:advmod	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
@@ -11214,8 +11212,8 @@
 # text = "klim daarso" ti
 # english = "and climb on up there"
 1	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
-2	klim	klim	VERB	_	Foreign=Yes|Voice=Act	0	root	0:root	Lang=af
-3	daarso	daarso	VERB	_	Foreign=Yes|Voice=Act	2	advmod	2:advmod	Lang=af|SpaceAfter=No
+2	klim	klim	VERB	_	Foreign=Yes|Subcat=Intr|Tense=Pres|VerbForm=Fin,Inf	0	root	0:root	OrigLang=af
+3	daarso	daarso	PRON	_	Foreign=Yes|PronType=Rel	2	amod	2:amod	OrigLang=af|SpaceAfter=No
 4	"	"	PUNCT	_	_	2	punct	2:punct	_
 5	ti	ti	PART	QUOT	_	2	mark	2:mark	SpacesAfter=\n
 
@@ -11245,7 +11243,7 @@
 # sent_id = conversation_Windhoek5_87
 # text = i ge nēsisa nē mari-i nēts go ǀgôaba mā-e naupa ra sī geniet ūhe
 # english = then that money that you gave your child is being used to go party (lit. enjoy)
-1	i	_	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	expl:impers	16:expl:impers	_
+1	i	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	expl:impers	16:expl:impers	_
 2	ge	ge	AUX	DECL	Mood=Ind	16	aux	16:aux	_
 3	nēsisa	nēsisa	ADV	_	_	16	advmod	16:advmod	_
 4	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
@@ -11260,7 +11258,7 @@
 11	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	10	obj	10:obj	_
 12	naupa	naupa	ADV	_	Deixis=Prox|PronType=Dem	16	advmod	16:advmod	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	16	aux	16:aux	_
-14	sī	sī	VERB	_	Voice=Act	16	aux	16:aux	_
+14	sī	sī	AUX	_	_	16	aux	16:aux	_
 15	geniet	geniet	VERB	_	Voice=Act	16	xcomp	16:xcomp	OrigLang=af
 16	ūhe	ū	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
@@ -11278,13 +11276,13 @@
 # text = ā [ǁnā] ǁnān ge ī ra
 # english = Yes, those are things that happen
 1	ā	ā	INTJ	_	Polarity=Pos	7	discourse	7:discourse	_
-2	[	[	PUNCT	_	_	3	punct	3:punct	_
-3	ǁnā	ǁnā	ADV	DIST	Deixis=Remt|PronType=Dem	5	reparandum	5:reparandum	_
+2	[	[	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+3	ǁnā	ǁnā	ADV	DIST	Deixis=Remt|PronType=Dem	5	reparandum	5:reparandum	SpaceAfter=No
 4	]	]	PUNCT	_	_	3	punct	3:punct	_
 5	ǁnān	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Neut|Number=Plur|PronType=Dem	7	nsubj	7:nsubj	_
 6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 7	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
-8	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+8	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_90
 # text = ǁnā ǀgaub, ǁnā ǀgaub ai ta ge ge eintlik …
@@ -11298,7 +11296,7 @@
 7	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 8	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 9	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-10	eintlik	eintlik	INTJ	_	_	7	advmod	7:advmod	OrigLang=af
+10	eintlik	eintlik	ADV	_	_	7	advmod	7:advmod	OrigLang=af
 11	…	…	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_91
@@ -11393,7 +11391,7 @@
 # text = Oh emera, emera
 # english = Oh the whole bucket
 1	Oh	oh	ADJ	_	_	2	discourse	2:discourse	_
-2	emera	emer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	0:root	OrigLang=af
+2	emera	emer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	0:root	OrigLang=af|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
 4	emera	emer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	parataxis	2:parataxis	OrigLang=af|SpacesAfter=\n
 
@@ -11508,7 +11506,7 @@
 22	sa	s	SCONJ	NMLZ	Case=Acc	21	mark	21:mark	_
 
 # sent_id = conversation_Windhoek5_106
-# text = tita kom net "ǃgâi go xūn" ti ǂâihâ o, nēpa ǀgui nēti draaisen tsî ǁnās ta koa ǂnau-ū ǃnawab ǀkha ǃgûǃgâ te
+# text = tita kom net "ǃgâi go xūn" ti ǂâi hâ o, nēpa ǀgui nēti draaisen tsî ǁnās ta koa ǂnau-ū ǃnawab ǀkha ǃgûǃgâ te
 # english = I thought things were okay after she said it is okay, she just turned and started beating me with the hiding she uses
 1	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 2	kom	kom	AUX	ASSERT1	Mood=Ass	10	aux	10:aux	_
@@ -11710,7 +11708,7 @@
 # text = tsîm ge ge ǀgora
 # english = and we broke up
 1-2	tsîm	_	_	_	_	_	_	_	_
-1	tsî	tsî	CCONJ	_	_	5	conj	5:conj	_
+1	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
 2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
@@ -11719,8 +11717,7 @@
 # sent_id = conversation_Windhoek5_123
 # text = ǀgamǁîs tsîn ge selfde xū-i selfde ǀgaub ai ǀgui
 # english = The second one also the same thing in the same manner
-1-2	ǀgamǁîs	_	_	_	_	_	_	_	_
-1	ǀgamǁîs	ǀgamǁî	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord|Person=3	5	nsubj	5:nsubj	_
+1	ǀgamǁîs	ǀgamǁî	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	tsîn	tsîn	ADV	_	Case=Nom	1	advmod:emph	1:advmod:emph	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	selfde	selfde	ADJ	_	_	5	amod	5:amod	OrigLang=af
@@ -11822,7 +11819,7 @@
 6	ǁnâuhe	ǁnâu	VERB	_	Voice=Pass	0	root	0:root	_
 7-8	rana	_	_	_	_	_	_	_	SpacesAfter=\n
 7	ra	ra	AUX	_	Aspect=Imp	6	aux	6:aux	_
-8	na	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel	7	nsubj:pass	7:nsubj:pass	_
+8	na	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel	6	nsubj:pass	6:nsubj:pass	_
 
 # sent_id = conversation_Windhoek5_134
 # text = ā
@@ -11911,21 +11908,20 @@
 8	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_141
-# text = tsîta ge nēsisa ǁnā plaassîsenna [mhm na] ra dī
+# text = tsîta ge nēsisa ǁnā plaassîsenna [mhm] ra dī
 # english = and I am now work in doing that farm work
 1-2	tsîta	_	_	_	_	_	_	_	_
-1	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
-2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-4	nēsisa	nēsisa	ADV	_	_	12	advmod	12:advmod	_
+1	tsî	tsî	CCONJ	_	_	11	cc	11:cc	_
+2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+4	nēsisa	nēsisa	ADV	_	_	11	advmod	11:advmod	_
 5	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	6	det	6:det	_
-6	plaassîsenna	plaassîsen	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	12	obj	12:obj	OrigLang=af
+6	plaassîsenna	plaassîsen	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	11	obj	11:obj	OrigLang=af
 7	[	[	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
-8	mhm	mhm	INTJ	_	_	12	discourse	12:discourse	_
-9	na	na	INTJ	_	_	12	discourse	12:discourse	SpaceAfter=No
-10	]	]	PUNCT	_	_	8	punct	8:punct	_
-11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-12	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+8	mhm	mhm	INTJ	_	_	11	discourse	11:discourse	SpaceAfter=No
+9	]	]	PUNCT	_	_	8	punct	8:punct	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_142
 # text = dīsikhoeseǀâ tsî ǁkhaisadīsiǀgamǀâǁî kurib ai ta ge ǃnae
@@ -11952,7 +11948,7 @@
 3	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj:pass	2:nsubj:pass	_
 4	ge	ge	AUX	DECL	Mood=Ind	2	aux	2:aux	_
 5	ge	ge	AUX	_	Tense=Past	2	aux	2:aux	_
-6	ǁnātsē	ǁnātsē	ADV	_	_	2	aux	2:aux	SpacesAfter=\n
+6	ǁnātsē	ǁnātsē	ADV	_	_	2	advmod	2:advmod	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_145
 # text = "ǁkhawats nē ǀgôasa ū tsî ǃgû tite"
@@ -12009,7 +12005,7 @@
 7	harke	harke	VERB	_	Voice=Act	11	advcl	11:advcl	_
 8	s	s	SCONJ	NMLZ	Case=Nom	7	mark	7:mark	_
 9	sī	sī	AUX	_	_	11	aux	11:aux	_
-10	sī	sī	VERB	_	Voice=Act	11	aux	11:aux	_
+10	sī	sī	AUX	_	Voice=Act	11	aux	11:aux	_
 11-12	sîsenits	_	_	_	_	_	_	_	SpacesAfter=\n
 11	sîseni	sîsen	VERB	_	Voice=Act	0	root	0:root	_
 12	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
@@ -12077,7 +12073,7 @@
 12	ra	ra	AUX	IPFV	Aspect=Imp	13	aux	13:aux	_
 13	mîhe	mî	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
 14	,	,	PUNCT	_	_	22	punct	22:punct	_
-15	ae	ae	INTJ	_	_	7	discourse	7:discourse	_
+15	ae	ae	INTJ	_	_	22	discourse	22:discourse	_
 16	'	'	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
 17	ǀuiǀnūǀgoan	ǀuiǀnūǀgoa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	21	obl	21:obl	SpaceAfter=No
 18	'	'	PUNCT	_	_	17	punct	17:punct	_
@@ -12098,7 +12094,7 @@
 7	ǁnāhâna	ǁnā	DET	_	Assoc=Yes|Case=Acc|Deixis=Remt|Gender=Neut|Number=Plur|Person=3|PronType=Dem	6	det	6:det	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 9	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-10	sī	sī	VERB	_	Voice=Act	11	aux	11:aux	_
+10	sī	sī	AUX	_	_	11	aux	11:aux	_
 11	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 12	i	i	AUX	_	Tense=Fut,Past,RecPast	11	aux	11:aux	_
 13	gūhâna	gū	NOUN	_	Assoc=Yes|Case=Acc|Gender=Neut|Number=Plur|Person=3	18	obj	18:obj	_
@@ -12138,7 +12134,7 @@
 6	o	o	AUX	ASSERT2	Mood=Ass	5	aux	5:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_158
-# text = ǁnain komo awoxan ǂûna o
+# text = ǁnān komo awoxan ǂûna o
 # english = Grewia tenax berry were their foods
 1	ǁnān	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Neut|Number=Plur|PronType=Dem	4	nsubj	4:nsubj	_
 2	komo	komo	AUX	ASSERT1	Mood=Ass	4	aux	4:aux	_
@@ -12213,7 +12209,7 @@
 4	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 5	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
 6	ga	ga	AUX	POT	Mood=Pot	14	aux	14:aux	_
-7	sī	sī	VERB	_	Voice=Act	14	aux	14:aux	_
+7	sī	sī	AUX	_	_	14	aux	14:aux	_
 8	ten	ten	ADP	_	Foreign=Yes	9	case	9:case	_
 9	minste	minste	NOUN	_	Foreign=Yes	14	obl	14:obl	_
 10-11	ǀūts	_	_	_	_	_	_	_	_
@@ -12344,7 +12340,7 @@
 13	…	…	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_173
-# text = ǃgâi-i ga, ǂuru-i ga, o mâti ī ǀgauba ǂan, ǀae i ga o mâti ī ǀgauba ǂan tita ge ī
+# text = ǃgâi-i ga, ǂuru-i ga, o mâti ī ǀgauba ǂan, ǀae i ga o mâti ī ǀgauba ǂan
 # english = when it is good, if it is healthy, know how it looks; know how it looks when it is sick - this is how I am
 1-2	ǃgâi-i	_	_	_	_	_	_	_	_
 1	ǃgâi	ǃgâi	ADJ	_	_	13	advcl	13:advcl	_
@@ -12458,7 +12454,7 @@
 3-4	nēsisab	_	_	_	_	_	_	_	_
 3	nēsisa	nēsisa	ADV	_	_	4	advmod	4:advmod	_
 4	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	reparandum	8:reparandum	_
-5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	SpaceAfter=No
+5	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	SpaceAfter=No
 6	]	]	PUNCT	_	_	4	punct	4:punct	_
 7-8	nēsisab	_	_	_	_	_	_	_	_
 7	nēsisa	nēsisa	ADV	_	_	11	advmod	11:advmod	_
@@ -12498,7 +12494,7 @@
 7	o	o	ADV	_	_	11	advmod	11:advmod	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
 9	ti	ti	ADV	_	_	11	advmod	11:advmod	_
-10	sī	sī	VERB	_	Voice=Act	11	aux	11:aux	_
+10	sī	sī	AUX	_	Voice=Act	11	aux	11:aux	_
 11	tsû	tsû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	ccomp	17:ccomp	SpaceAfter=No
 12	"	"	PUNCT	_	_	11	punct	11:punct	_
 13	ti	ti	PART	QUOT	_	11	mark	11:mark	_
@@ -12554,7 +12550,7 @@
 11	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
 12	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
 13	tsîna	tsîn	ADV	_	Case=Acc	12	advmod:emph	12:advmod:emph	_
-14	überhaupt	_	X	_	Foreign=Yes	15	advmod	15:advmod	OrigLang=de
+14	überhaupt	überhaupt	ADV	_	_	15	advmod	15:advmod	OrigLang=de
 15	ǁgaise	ǁgaise	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_185
@@ -12620,7 +12616,7 @@
 19	sîsenǂam	sîsenǂam	VERB	_	Voice=Act	8	conj	8:conj	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_188
-# text = îts ǁnāpa ǁnā ǁgôa tsî flou-flou-flou tsî ǃgā
+# text = îts ǁnāpa ǁnāǁgôa tsî flou-flou-flou tsî ǃgā
 # english = so that you fall down and collapse and then wake up
 1-2	îts	_	_	_	_	_	_	_	_
 1	î	î	SCONJ	_	_	4	mark	4:mark	_
@@ -12659,11 +12655,11 @@
 3	tsîna	tsîn	ADV	_	Case=Acc	2	fixed	2:fixed	_
 4	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
 5	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	12	aux	12:aux	_
-6	sī	sī	VERB	_	Voice=Act	12	aux	12:aux	_
+6	sī	sī	AUX	_	Voice=Act	12	aux	12:aux	_
 7	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	8	det	8:det	_
 8	ǀkhāgu	ǀkhā	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obl	12:obl	_
 9	ai	ai	ADP	_	_	8	case	8:case	_
-10	sī	sī	VERB	_	Voice=Act	12	aux	12:aux	_
+10	sī	sī	AUX	_	Voice=Act	12	aux	12:aux	_
 11	hâ	hâ	AUX	PFV	Aspect=Perf	12	aux	12:aux	_
 12	ūhe	ū	VERB	_	Voice=Pass	0	root	0:root	_
 13	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	14	det	14:det	_
@@ -12790,7 +12786,7 @@
 4	ǁnā	ǁnā	ADV	DIST	Deixis=Remt|PronType=Dem	6	advmod	6:advmod	_
 5	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 6-7	ǁūse	_	_	_	_	_	_	_	_
-6	ǁū	ǁū	VERB	_	Voice=Act	8	advmod	8:advmod	_
+6	ǁū	ǁū	VERB	_	Voice=Act	8	advcl	8:advcl	_
 7	se	se	SCONJ	_	_	6	mark	6:mark	_
 8	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 9	o	o	SCONJ	_	_	8	mark	8:mark	SpacesAfter=\n
@@ -12848,7 +12844,7 @@
 # text = ti enetse mâti ta nî hâ
 # english = My goodness, what would I do?
 1	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	enetse	ene	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|NumType=Card|Person=2	6	vocative	6:vocative	OrigLang=af
+2	enetse	ene	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	6	vocative	6:vocative	OrigLang=af
 3	mâti	mâti	ADV	_	PronType=Int	6	advmod	6:advmod	_
 4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 5	nî	nî	AUX	FUT	Tense=Fut	6	aux	6:aux	_
@@ -12859,7 +12855,7 @@
 # english = and I struggle and at least touched her on the eyes
 1-2	tsîta	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
-2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	expl	9:expl	_
 3	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
 4	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	5	det	5:det	_
 5	ǀgaus	ǀgau	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	9:obl	_
@@ -12872,7 +12868,7 @@
 12	mûdi	mû	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	16	obl	16:obl	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ge	ge	AUX	_	Tense=Past	16	aux	16:aux	_
-15	sī	sī	VERB	_	Voice=Act	16	aux	16:aux	_
+15	sī	sī	AUX	_	_	16	aux	16:aux	_
 16	ǁgâiro	ǁgâi	VERB	_	Degree=Dim|Voice=Act	9	conj	9:conj	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_207
@@ -12910,8 +12906,8 @@
 # sent_id = conversation_Windhoek5_210
 # text = ja ten minstets ga khâimâ tsî xūro-e gara dībasen osa
 # english = Yeah, if you at least stand up and do something for yourself
-1	ja	ja	INTJ	_	Foreign=Yes|Polarity=Pos	6	discourse	6:discourse	Lang=af
-2	ten	ten	ADP	_	Foreign=Yes	3	case	3:case	Lang=af
+1	ja	ja	INTJ	_	Polarity=Pos	6	discourse	6:discourse	OrigLang=af
+2	ten	ten	ADP	_	_	3	case	3:case	OrigLang=af
 3-4	minstets	_	_	_	_	_	_	_	_
 3	minste	minste	NOUN	_	Foreign=Yes	6	obl	6:obl	_
 4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
@@ -12964,7 +12960,7 @@
 1	Kē	kē	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
 3	nēsi	nēs	ADV	_	_	8	advmod	8:advmod	_
-4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	expl	8:expl	_
 5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 6	nē	nē	ADV	PROX	Deixis=Prox|PronType=Dem	8	advmod	8:advmod	_
 7	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
@@ -13087,7 +13083,7 @@
 14	ôa	ôa	NOUN	_	_	8	advcl	8:advcl	_
 15	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
 16	kom	kom	AUX	ASSERT1	Mood=Ass	14	aux	14:aux	_
-17	o	o	AUX	ASSERT2	Mood=Ass	14	aux	14:aux	_
+17	o	o	AUX	ASSERT2	Mood=Ass	14	aux	14:aux	SpaceAfter=No
 18	"	"	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_223
@@ -13098,7 +13094,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 4	ega	ega	ADV	_	_	7	advmod	7:advmod	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-6	sī	sī	VERB	_	Voice=Act	7	aux	7:aux	_
+6	sī	sī	AUX	_	Voice=Act	7	aux	7:aux	_
 7	mîhe	mî	VERB	_	Voice=Pass	0	root	0:root	_
 8	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 9	hâ-â	hâ-â	INTJ	_	Polarity=Neg	10	discourse	10:discourse	_
@@ -13226,7 +13222,7 @@
 2	xu	xu	ADP	_	_	1	case	1:case	_
 3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
 4	ta	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-5	mari-e	mari	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card|Person=3	6	obj	6:obj	_
+5	mari-e	mari	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	_
 6	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
 7	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
 8	sī	sī	VERB	_	Voice=Act	6	conj	6:conj	SpacesAfter=\n
@@ -13330,7 +13326,7 @@
 1-2	ota	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	2	advmod	2:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-3	komo	komo	AUX	ASSERT1	Mood=Ass	2	aux	2:aux	SpacesAfter= 
+3	komo	komo	AUX	ASSERT1	Mood=Ass	2	aux	2:aux	_
 4	…	…	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_244
@@ -13484,7 +13480,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	nēi-ao	nēi-ao	ADV	_	_	4	advmod	4:advmod	_
 4	ǀū	ǀū	VERB	STAT	Voice=Act	0	root	0:root	_
-5	nēsi	nēsi	ADV	_	_	4	aux	4:aux	SpacesAfter=\n
+5	nēsi	nēsi	ADV	_	_	4	advmod	4:advmod	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_256
 # text = "nē daoba ǃgû re
@@ -13776,7 +13772,7 @@
 10	ǃgû	ǃgû	VERB	_	Voice=Act	0	root	0:root	_
 11	nēsi	nēsi	ADV	_	_	10	advmod	10:advmod	_
 12	go	go	AUX	_	Tense=RecPast	10	aux	10:aux	_
-13	hâ	hâ	VERB	_	Voice=Act	10	aux	10:aux	SpacesAfter=\n
+13	hâ	hâ	AUX	PFV	Aspect=Perf	10	aux	10:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_276
 # text = tsîkhom ta petrol-e ǀkhuwu
@@ -13795,7 +13791,7 @@
 2-3	tsîkhom	_	_	_	_	_	_	_	_
 2	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
 3	khom	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-4	ta	ra	AUX	_	Aspect=Imp	6	nsubj	6:nsubj	_
+4	ta	ra	AUX	_	Aspect=Imp	6	aux	6:aux	_
 5	ǁnāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	6	advmod	6:advmod	_
 6	ǀkhuwuǀkhuwu	ǀkhuwuǀkhuwu	VERB	_	Voice=Act	8	advcl	8:advcl	_
 7	hîa	hîa	SCONJ	_	_	6	mark	6:mark	_
@@ -13814,10 +13810,10 @@
 6	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
 7	[	[	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 8	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	reparandum	15:reparandum	_
-9	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	flat:reparandum	8:flat:reparandum	SpaceAfter=No
+9	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	flat:reparandum	8:flat:reparandum	_
 10	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	flat:reparandum	8:flat:reparandum	_
-11	ǃnâ	ǃnâ	ADP	_	_	17	reparandum	17:reparandum	_
-12	]	]	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
+11	ǃnâ	ǃnâ	ADP	_	_	17	reparandum	17:reparandum	SpaceAfter=No
+12	]	]	PUNCT	_	_	11	punct	11:punct	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
 14	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
 15	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
@@ -13841,7 +13837,7 @@
 10	sī	sī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_280
-# text = hâ-ū ta ge i khoeba khoeba ǃkhoedā tsîta ge ǀguri ge sī
+# text = tsîta ge ǀguri ge sī
 # english = and then I got there by myself and I got there
 1-2	tsîta	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
@@ -13858,7 +13854,7 @@
 1	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-4	sī	sī	VERB	_	Voice=Act	5	aux	5:aux	_
+4	sī	sī	AUX	_	_	5	aux	5:aux	_
 5	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 6	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	5	aux	5:aux	SpacesAfter=\n
 
@@ -14042,7 +14038,7 @@
 11	o	o	AUX	ASSERT2	Mood=Ass	4	aux	4:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_299
-# text = î,
+# text = î, î
 # english = Yes, yes
 1	î	î	INTJ	_	Polarity=Pos	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
@@ -14075,7 +14071,7 @@
 9	sîsen-e	sîsen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	11	obj	11:obj	_
 10	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	11	aux	11:aux	_
 11	ôa	ôa	VERB	_	Voice=Act	14	advcl	14:advcl	SpaceAfter=No
-12	,	,	PUNCT	_	_	4	punct	4:punct	_
+12	,	,	PUNCT	_	_	11	punct	11:punct	_
 13	o	o	ADV	_	_	14	advmod	14:advmod	_
 14	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
 15	tama	tama	PART	NEG	Polarity=Neg	14	advmod	14:advmod	_
@@ -14175,7 +14171,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 4	ǀnîtsē	ǀnîtsē	ADV	_	_	8	advmod	8:advmod	_
 5	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
-6	sī	sī	VERB	_	Voice=Act	8	aux	8:aux	_
+6	sī	sī	AUX	_	Voice=Act	8	aux	8:aux	_
 7	hou	hou	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
 8	ǁoa	ǁoa	VERB	_	Voice=Act	0	root	0:root	_
 9	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
@@ -14218,7 +14214,7 @@
 2	go	go	AUX	_	Tense=RecPast	4	aux	4:aux	_
 3	a	a	AUX	_	Aspect=Punct	4	aux	4:aux	_
 4	mâ	mâ	VERB	_	Voice=Act	7	advcl	7:advcl	_
-5	o	o	SCONJ	_	_	4	mark	4:mark	_
+5	o	o	SCONJ	_	_	4	mark	4:mark	SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	4:punct	_
 7	besluit	besluit	VERB	_	Voice=Act	0	root	0:root	OrigLang=af
 8	nēsisa	nēsisa	ADV	_	_	7	advmod	7:advmod	_
@@ -14233,7 +14229,7 @@
 16	"	"	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_316
-# text = tsîta ge ...
+# text = tsîta ge …
 # english = And I ...
 1-2	tsîta	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	2	cc	2:cc	_
@@ -14302,7 +14298,7 @@
 14	]	]	PUNCT	_	_	13	punct	13:punct	_
 15	au	au	VERB	_	Voice=Act	16	xcomp	16:xcomp	_
 16	ǃkharu	ǃkharu	VERB	_	Voice=Act	4	conj	4:conj	_
-17	o	o	INTJ	_	_	16	aux	16:aux	SpacesAfter=\n
+17	o	o	SCONJ	_	_	4	mark	4:mark	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_322
 # text = xawe ge ge sige nau khoes xa gere ǂnauhe tsî naupa sī ǂnauhe tsî mîbahe
@@ -14448,7 +14444,7 @@
 5	samis	sami	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	conj	3:conj	_
 6	ga	ga	AUX	POT	Mood=Pot	9	aux	9:aux	_
 7	xawe	xawe	ADV	_	_	9	advmod	9:advmod	_
-8	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+8	go	go	AUX	_	Tense=RecPast	9	aux	9:aux	_
 9	ôa	ôa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_333
@@ -14532,15 +14528,14 @@
 22	bel	bel	VERB	_	Voice=Act	10	conj	10:conj	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_337
-# text = ǁnāti soort ǀgauba ūhâ khoedi ge tārekhoede
+# text = ǁnāti soort ǀgauba ūhâ khoedi ge
 # english = Women have those sort of manner
 1	ǁnāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
 2	soort	soort	NOUN	_	_	3	nmod:poss	3:nmod:poss	OrigLang=af
 3	ǀgauba	ǀgau	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	4:obj	_
 4	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	_
 5	khoedi	khoe	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	4	nsubj	4:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-7	tārekhoede	tārekhoe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	4	nsubj	4:nsubj	SpacesAfter=\n
+6	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_338
 # text = ǁnātis ge
@@ -14724,7 +14719,7 @@
 3	ǁgamǁgoroga	ǁgamǁgoro	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	obj	5:obj	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	kuru	kuru	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_4_4
 # text = Axagu ge anina ra ǃhuriǃhuri.
@@ -14775,7 +14770,7 @@
 3	ǀomatsâna	ǀomatsâ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	5	obj	5:obj	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	ǃhom	ǃhom	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_4_9
 # text = Kō re ǃhorob ǃhunise mâ ǀgausa.
@@ -14818,7 +14813,7 @@
 1	ǃGān	ǃgā	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 3	ǁîba	ǁî	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	_
-4	mâ	mâ	DET	_	ExtPos=DET|PronType=Tot	5	det	5:det	_
+4	mâ	mâ	DET	_	PronType=Tot	5	det	5:det	_
 5	ǁgaoǃaromas	ǁgaoǃaroma	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
 6	hoasa	hoa	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Tot	5	det	5:det	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
@@ -14927,12 +14922,12 @@
 # sent_id = book_Khomai_5_8
 # text = Aiǂoas ǃnab ge ǃhūǂhuwiba mâ.
 # english = There is bushfire in the east.
-1	Aiǂoas	aiǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+1	Aiǂoas	aiǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
 2-3	ǃnab	_	_	_	_	_	_	_	_
 2	ǃna	ǃna	ADP	_	_	1	case	1:case	_
-3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	ǃhūǂhuwiba	ǃhūǂhuwi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	_
+4	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+5	ǃhūǂhuwiba	ǃhūǂhuwi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 6	mâ	mâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -14944,7 +14939,7 @@
 3	ǂhau	ǂhauǃhū	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|Typo=Yes	7	obl	7:obl	CorrectSpaceAfter=No
 4	ǃhūba	_	X	_	_	3	goeswith	3:goeswith	_
 5	ai	ai	ADP	_	_	3	case	3:case	_
-6	ǀgui	ǀgui	ADV	_	_	3	advmod	3:advmod	_
+6	ǀgui	ǀgui	ADV	_	_	7	advmod	7:advmod	_
 7-8	ǀarisa	_	_	_	_	_	_	_	_
 7	ǀari	ǀari	VERB	_	Voice=Act	10	xcomp	10:xcomp	_
 8	sa	s	SCONJ	NMLZ	Case=Acc	7	mark	7:mark	_
@@ -15013,7 +15008,7 @@
 1	ǁîgu	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	nēs	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	obl	7:obl	_
-4	ǂama	ǂama	ADP	_	_	4	case	4:case	_
+4	ǂama	ǂama	ADP	_	_	3	case	3:case	_
 5	kaise	kaise	ADV	_	_	7	advmod	7:advmod	_
 6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
 7	dâ	dâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -15103,7 +15098,7 @@
 5	di	di	ADP	_	_	4	case	4:case	_
 6	ga	_	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	appos	2:appos	_
 7	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
-8	mâ	mâ	DET	_	ExtPos=DET|PronType=Tot	9	det	9:det	_
+8	mâ	mâ	DET	_	PronType=Tot	9	det	9:det	_
 9	kurib	kuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	obl	15:obl	_
 10	hoaba	hoa	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Tot	9	det	9:det	_
 11	ǀgui	ǀgui	NUM	_	NumType=Card	12	nummod	12:nummod	_
@@ -15148,7 +15143,7 @@
 3	di	di	ADP	POSS	_	2	case	2:case	_
 4	ǀgoan	ǀgoa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	nsubj:pass	12:nsubj:pass	_
 5	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-6	kurikorobe	kurikorobe	ADV	_	_	12	advmod	12:advmod	_
+6	kurikorobe	kurikorobe	ADV	_	_	12	advmod	12:advmod	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	9:punct	_
 8	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	9	det	9:det	_
 9	ǁaeb	ǁae	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	12:obl	_
@@ -15279,7 +15274,7 @@
 4	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 5	ta	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
 6	ǃkhoema	ǃkhoema	VERB	_	Voice=Act	7	acl	7:acl	_
-7	ǀgausa	ǀgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	1:obj	_
+7	ǀgausa	ǀgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	1:obj	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_9_12
@@ -15400,7 +15395,7 @@
 6	kaise	kaise	ADV	_	_	7	advmod	7:advmod	_
 7	ǃkhū	ǃkhū	VERB	_	Voice=Act	0	root	0:root	_
 8	hâ	hâ	AUX	PFV	Aspect=Perf	7	aux	7:aux	SpaceAfter=No
-9	,	,	PUNCT	_	_	15	punct	15:punct	_
+9	,	,	PUNCT	_	_	16	punct	16:punct	_
 10-11	xawen	_	_	_	_	_	_	_	_
 10	xawe	xawe	CCONJ	_	_	16	cc	16:cc	_
 11	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
@@ -15436,14 +15431,14 @@
 13	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_10_11
-# text = ǁîb di ǃās ge ama ǃnūse, ǃkhōb ai hā ǁgoe.
+# text = ǁîb di ǃās ge ama ǃnūse, ǃkhōb ai hāǁgoe.
 # english = His farm lies very far, in Witrand.
 1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	di	di	ADP	POSS	_	1	case	1:case	_
-3	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-5	ama	ama	ADV	_	_	5	advmod	5:advmod	_
-6	ǃnūse	ǃnūse	VERB	_	Voice=Act	11	advmod	11:advmod	SpaceAfter=No
+3	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	10:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
+5	ama	ama	ADV	_	_	6	advmod	6:advmod	_
+6	ǃnūse	ǃnūse	ADV	_	_	10	advmod	10:advmod	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	10:punct	_
 8	ǃkhōb	ǃkhō	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
 9	ai	ai	ADP	_	_	8	case	8:case	_
@@ -15508,13 +15503,13 @@
 5	ǁkhāǁkhā	ǁkhāǁkhā	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	8:punct	_
 7-8	mati-i	_	_	_	_	_	_	_	_
-7	mati	mati	ADV	_	PronType=Int	13	advmod	13:advmod	_
+7	mati	mati	ADV	_	PronType=Int	12	advmod	12:advmod	_
 8	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Typo=Yes	12	nsubj	12:nsubj	_
 9	ǀaena	ǀae	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	12	obj	12:obj	_
 10	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
 11	nî	nî	AUX	FUT	Tense=Fut	12	aux	12:aux	_
 12-13	ǀaeresa	_	_	_	_	_	_	_	SpaceAfter=No
-12	ǀaere	ǀaere	VERB	_	Voice=Act	8	ccomp	8:ccomp	_
+12	ǀaere	ǀaere	VERB	_	Voice=Act	5	ccomp	5:ccomp	_
 13	sa	s	SCONJ	NMLZ	Case=Acc	12	mark	12:mark	_
 14	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -15523,7 +15518,7 @@
 # english = About collecting firewood.
 1	ǀAe	ǀaeǀaere	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|Typo=Yes	0	root	0:root	CorrectForm=ǀAeǀaeres
 2	ǀaeres	_	X	_	_	1	goeswith	1:goeswith	_
-3	xa	xa	ADP	_	_	2	case	2:case	SpaceAfter=No
+3	xa	xa	ADP	_	_	1	case	1:case	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_11_6
@@ -15535,7 +15530,7 @@
 3	tawa	tawa	ADP	_	_	2	case	2:case	_
 4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	9	expl	9:expl	_
 5	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-6	ǀgui	ǀgui	NUM	_	NumType=Card	6	nummod	6:nummod	_
+6	ǀgui	ǀgui	NUM	_	NumType=Card	7	nummod	7:nummod	_
 7	ǂkhomas	ǂkhoma	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	9:nsubj	_
 8	ǀguisa	ǀguis	ADV	_	Case=Acc	7	advmod	7:advmod	_
 9	ǃgau	ǃgau	VERB	_	Voice=Act	0	root	0:root	_
@@ -15563,7 +15558,7 @@
 3	ǁîra	ǁî	PRON	_	Case=Acc|Gender=Fem,Neut|Number=Dual|Person=3|PronType=Prs	5	obj	5:obj	_
 4	ǂkhao	ǂkhao	VERB	_	Voice=Act	5	xcomp	5:xcomp	_
 5	toa	toa	VERB	_	Voice=Act	0	root	0:root	_
-6	tsî	tsî	CCONJ	_	_	10	cc	10:cc	_
+6	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
 7	ǀgui	ǀgui	ADV	_	_	9	advmod	9:advmod	_
 8	ge	ge	AUX	_	Tense=Past	9	aux	9:aux	_
 9	ǂkhaosen	ǂkhao	VERB	_	Voice=Refl	5	conj	5:conj	SpaceAfter=No
@@ -15667,7 +15662,7 @@
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_17_3
-# text = Fransfonteins ge ama ǃnūse hā ǁgoe.
+# text = Fransfonteins ge ama ǃnūse hāǁgoe.
 # english = Fransfontein is located really far away.
 1	Fransfonteins	Fransfontein	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
@@ -15681,8 +15676,8 @@
 # english = It comes to king Frederick's house.
 1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	gaob	gao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	flat:title	3:flat:title	_
-4	Fredereb	Fredere	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	5:nmod:poss	_
+3	gaob	gao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	5:nmod:poss	_
+4	Fredereb	Fredere	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	flat:title	3:flat:title	_
 5	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
 6	tawa	tawa	ADP	_	_	5	case	5:case	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
@@ -15705,7 +15700,7 @@
 # text = Fransfonteins ge sida ǃārosa.
 # english = Fransfontein is our small town.
 1	Fransfonteins	Fransfontein	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	ǃārosa	ǃā	NOUN	_	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -15714,7 +15709,7 @@
 # text = ǃAu-aob Frani arigu ge nē ǁgamsa ge hō.
 # english = The dogs of the hunter Frans discovered this spring.
 1	ǃAu-aob	ǃau-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
-2	Frani	Fran	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	flat:title	2:flat:title	_
+2	Frani	Fran	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	flat:title	1:flat:title	_
 3	arigu	ari	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	8:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 5	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	6	det	6:det	_
@@ -15868,9 +15863,9 @@
 # sent_id = book_Khomai_21_8
 # text = ǂHoms ka khâi o i ge ra gawu.
 # english = When locust flies, it is overcast.
-1	ǂHoms	ǂhom	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	ka	ga	AUX	POT	Mood=Pot	8	aux	8:aux	_
-3	khâi	khâi	VERB	_	Voice=Act	4	advcl	4:advcl	_
+1	ǂHoms	ǂhom	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	3:nsubj	_
+2	ka	ga	AUX	POT	Mood=Pot	3	aux	3:aux	_
+3	khâi	khâi	VERB	_	Voice=Act	8	advcl	8:advcl	_
 4	o	o	SCONJ	_	_	3	mark	3:mark	_
 5	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 6	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
@@ -15923,7 +15918,7 @@
 # text = Gaxu ǁaeba da ge ǂhom-e mû tama hâ.
 # english = For a long time we havent seen locust.
 1	Gaxu	gaxu	ADJ	_	_	2	amod	2:amod	_
-2	ǁaeba	ǁae	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	advmod	6:advmod	_
+2	ǁaeba	ǁae	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
 3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 5	ǂhom-e	ǂhom	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	obj	6:obj	_
@@ -15991,9 +15986,9 @@
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
 4	tari	tari	PRON	_	PronType=Int	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	8:punct	_
-6	o	o	ADV	_	_	4	advmod	4:advmod	_
+6	o	o	ADV	_	_	8	advmod	8:advmod	_
 7	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-8	ǃgûma	ǃgûma	VERB	_	Voice=Act	4	conj	4:conj	_
+8	ǃgûma	ǃgûma	VERB	_	Voice=Act	4	parataxis	4:parataxis	_
 9	tsî	tsî	CCONJ	_	_	11	cc	11:cc	_
 10	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
 11	ǂûre	ǂûre	VERB	_	Voice=Act	8	conj	8:conj	SpaceAfter=No
@@ -16018,7 +16013,7 @@
 1-2	ǂAnǂansaseb	_	_	_	_	_	_	_	_
 1	ǂAnǂansase	ǂanǂansase	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	advmod	9:advmod	_
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	_
-3	ge	ge	AUX	DECL	Mood=Ind	3	aux	3:aux	_
+3	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
 4	ǃgâi	ǃgâi	ADJ	_	_	5	amod	5:amod	_
 5	ǁGûba	ǁGû	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nsubj	9:nsubj	_
 6	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	9:obj	_
@@ -16065,20 +16060,20 @@
 9	ra	ra	AUX	IPFV	Aspect=Imp	10	aux	10:aux	_
 10	hui	hui	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-12	'	'	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+12	"	"	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_23_8
 # text = Aniron ǁgab ga nēsa a dī o matikō ǃnāsaseb tita ǀkhomxa tsî a ǂûmā ǁkha.
 # english = If you can do this to little birds, how much more can he have mercy on me and feed me?
-1	Aniron	ani	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Plur|Person=3	6	obl	6:obl	_
+1	Aniron	ani	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl	_
 2-3	ǁgab	_	_	_	_	_	_	_	_
 2	ǁga	ǁga	ADP	_	_	1	case	1:case	_
-3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-4	ga	ga	AUX	POT	Mood=Pot	6	aux	6:aux	_
-5	nēsa	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obj	6:obj	_
-6	a	a	AUX	_	Tense=Pres	6	aux	6:aux	_
+3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+4	ga	ga	AUX	POT	Mood=Pot	7	aux	7:aux	_
+5	nēsa	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	obj	7:obj	_
+6	a	a	AUX	_	Tense=Pres	7	aux	7:aux	_
 7	dī	dī	VERB	_	Voice=Act	17	advcl	17:advcl	_
-8	o	o	SCONJ	_	_	6	mark	6:mark	_
+8	o	o	SCONJ	_	_	7	mark	7:mark	_
 9	matikō	matikō	ADV	_	_	17	advmod	17:advmod	_
 10-11	ǃnāsaseb	_	_	_	_	_	_	_	_
 10	ǃnāsase	ǃnāsase	ADV	_	_	9	advmod	9:advmod	_
@@ -16116,12 +16111,12 @@
 10	hâ	hâ	VERB	COP.LOC	Voice=Act	2	parataxis	2:parataxis	_
 11	tama	tama	PART	NEG	Polarity=Neg	10	advmod	10:advmod	_
 12	hâ	hâ	AUX	PFV	Aspect=Perf	10	aux	10:aux	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+13	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_23_11
 # text = "ǀGôatse, ǃgâiǃnaxasib ǃKhūb dib ge a kai.
 # english = "You child, the goodness of the Lord is big.
-1	'	'	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+1	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 2	ǀGôatse	ǀgôa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	10	vocative	10:vocative	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	ǃgâiǃnaxasib	ǃgâiǃnaxasi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	10:nsubj	_
@@ -16139,7 +16134,7 @@
 # english = He gave you hands and intellect.
 1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-3	ǃomkha	ǃom	NOUN	_	Case=Acc|Gender=Masc|Number=Dual|Person=3	9	nsubj	9:nsubj	_
+3	ǃomkha	ǃom	NOUN	_	Case=Acc|Gender=Masc|Number=Dual|Person=3	9	obj	9:obj	_
 4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
 5	ǁnâuǃāb	ǁnâuǃā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	conj	3:conj	_
 6-7	tsîna	_	_	_	_	_	_	_	_
@@ -16153,7 +16148,7 @@
 # sent_id = book_Khomai_23_13
 # text = "Nēs ge amase a ǃgâi ǁkhāǁkhāsen.
 # english = "This is really a good lesson.
-1	'	'	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+1	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
 2	Nēs	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nsubj	7:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 4	amase	amase	ADV	_	_	7	advmod	7:advmod	_
@@ -16207,7 +16202,7 @@
 6	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
 8	ǀaub	ǀau	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	12:nsubj	_
-9	ta	ra	AUX	_	Aspect=Imp	13	aux	13:aux	_
+9	ta	ra	AUX	_	Aspect=Imp	12	aux	12:aux	_
 10	ǂkhari	ǂkhari	ADJ	_	_	11	amod	11:amod	_
 11	ǁhoararo-e	ǁhoara	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	_
 12	ǁgaro	ǁgaro	VERB	_	Voice=Act	15	ccomp	15:ccomp	_
@@ -16237,21 +16232,21 @@
 # sent_id = book_Khomai_26_1
 # text = ǁKhâ ta as kōse ta ra ǃkhoe, Hîas tsîna ta ra garu ǂnauhe.
 # english = I run as much as I can, but I'm still being beaten.
-1	ǁKhâ	ǁkhā	VERB	STAT	Typo=Yes|Voice=Act	8	advmod	8:advmod	_
+1	ǁKhâ	ǁkhā	VERB	STAT	Typo=Yes|Voice=Act	8	advcl	8:advcl	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3-4	as	_	_	_	_	_	_	_	_
 3	a	a	AUX	STAT.PRS	Tense=Pres	1	aux	1:aux	_
 4	s	s	SCONJ	NMLZ	Case=Nom	1	mark	1:mark	_
-5	kōse	kōse	ADP	_	_	4	case	4:case	_
+5	kōse	kōse	ADP	_	_	1	case	1:case	_
 6	ta	_	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
 8	ǃkhoe	ǃkhoe	VERB	_	Voice=Act	15	advcl	15:advcl	SpaceAfter=No
-9	,	,	PUNCT	_	_	15	punct	15:punct	_
+9	,	,	PUNCT	_	_	8	punct	8:punct	_
 10-11	Hîas	_	_	_	_	_	_	_	_
 10	Hîa	hîa	SCONJ	REL	_	8	mark	8:mark	_
 11	s	s	PART	NMLZ	Case=Nom|ExtPos=ADV	10	advmod:emph	10:advmod:emph	_
 12	tsîna	tsîn	ADV	_	Case=Acc	11	fixed	11:fixed	_
-13	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+13	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
 14	ra	ra	AUX	IPFV	Aspect=Imp	15	aux	15:aux	_
 15	garu	garu	VERB	_	Voice=Act	0	root	0:root	_
 16	ǂnauhe	ǂnau	VERB	_	Voice=Pass	15	xcomp	15:xcomp	SpaceAfter=No
@@ -16299,7 +16294,7 @@
 # sent_id = book_Khomai_26_5
 # text = Mû ta ra ǃkhaes ge; ǁAu ǃgôasi-i tsînan ūhâba te tamasa.
 # english = I do see that: They don't have much (lit. thick) respect for me.
-1	Mû	mû	VERB	_	Voice=Act	11	csubj	11:csubj	_
+1	Mû	mû	VERB	_	Voice=Act	0	root	0:root	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
 4	ǃkhaes	ǃkhais	SCONJ	_	Case=Nom|Typo=Yes	1	mark	1:mark	CorrectForm=ǃkhais
@@ -16310,7 +16305,7 @@
 9-10	tsînan	_	_	_	_	_	_	_	_
 9	tsîna	tsîn	ADV	_	Case=Acc	8	advmod:emph	8:advmod:emph	_
 10	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-11	ūhâba	ūhâ	VERB	_	Voice=Appl	0	root	0:root	_
+11	ūhâba	ūhâ	VERB	_	Voice=Appl	1	ccomp	1:ccomp	_
 12	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	iobj:appl	11:iobj:appl	_
 13-14	tamasa	_	_	_	_	_	_	_	SpaceAfter=No
 13	tama	tama	PART	NEG	Polarity=Neg	11	advmod	11:advmod	_
@@ -16336,11 +16331,11 @@
 3	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	ta	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	ǂgâǃao	ǂgâǃao	VERB	_	Voice=Act	12	advcl	12:advcl	_
-6	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	SpaceAfter=No
+6	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	5:obj	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
 8	O	o	ADV	_	_	12	advmod	12:advmod	_
 9	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
-10	kom	kom	AUX	ASSERT1	ExtPos=AUX|Mood=Ass	12	aux	12:aux	_
+10	kom	kom	AUX	ASSERT1	Mood=Ass	12	aux	12:aux	_
 11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
 12-13	ǂgae-o	_	_	_	_	_	_	_	SpaceAfter=No
 12	ǂgae	ǂgae	VERB	_	Voice=Act	0	root	0:root	_
@@ -16393,7 +16388,7 @@
 1	Xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	obj	4:obj	_
 2	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 3	ka	ga	AUX	POT	Mood=Pot	4	aux	4:aux	_
-4	ǃnao-ai	ǃnao-ai	VERB	_	Voice=Act	10	advmod	10:advmod	_
+4	ǃnao-ai	ǃnao-ai	VERB	_	Voice=Act	10	advcl	10:advcl	_
 5	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	iobj	4:iobj	SpacesAfter=\n
 6	O	o	ADV	_	_	10	advmod	10:advmod	_
 7	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
@@ -16401,39 +16396,39 @@
 9	ra	ra	AUX	IPFV	Aspect=Imp	10	aux	10:aux	_
 10-11	tanio	_	_	_	_	_	_	_	_
 10	tani	tani	VERB	_	Voice=Act	0	root	0:root	_
-11	o	o	AUX	ASSERT2	Mood=Ass	10	aux	10:aux	_
+11	o	o	AUX	ASSERT2	Mood=Ass	10	aux	10:aux	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
 # newdoc id = book_Khomai_27
 # sent_id = book_Khomai_27_1
 # text = Î, ama kai a, tib ge ǃhanaǂgari-aoba ge ǃeream, "xawe ǁnās xa kai papude ta ge ǀnai ge mû.
 # english = "Yes, really big" answered the gardener. "I have already seen pumkins bigger than this one."
-1	Î	î	INTJ	_	Polarity=Pos	4	discourse	4:discourse	_
+1	Î	î	INTJ	_	Polarity=Pos	4	discourse	4:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	ama	ama	ADV	_	_	4	advmod	4:advmod	_
-4	kai	kai	ADJ	_	_	11	ccomp	11:ccomp	_
+4	kai	kai	ADJ	_	_	12	ccomp	12:ccomp	_
 5	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	4:punct	_
 7-8	tib	_	_	_	_	_	_	_	_
-7	ti	ti	PART	QUOT	_	11	mark	11:mark	_
-8	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
-9	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-10	ǃhanaǂgari-aoba	ǃhanaǂgari-ao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-11	ge	ge	AUX	_	Tense=Past	11	aux	11:aux	_
+7	ti	ti	PART	QUOT	_	4	mark	4:mark	_
+8	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	_
+9	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
+10	ǃhanaǂgari-aoba	ǃhanaǂgari-ao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nsubj	12:nsubj	_
+11	ge	ge	AUX	_	Tense=Past	12	aux	12:aux	_
 12	ǃeream	ǃeream	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-13	,	,	PUNCT	_	_	11	punct	11:punct	_
-14	'	'	PUNCT	_	_	22	punct	22:punct	_
-15	xawe	xawe	CCONJ	_	_	22	cc	22:cc	_
-16	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	16	obl	16:obl	_
-17	xa	xa	ADP	_	_	14	case	14:case	_
-18	kai	kai	ADJ	_	_	17	amod	17:amod	_
-19	papude	papu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	22	obj	22:obj	_
-20	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
-21	ge	ge	AUX	DECL	Mood=Ind	22	aux	22:aux	_
-22	ǀnai	ǀnai	ADV	_	_	22	advmod	22:advmod	_
-23	ge	ge	AUX	_	Tense=Past	22	aux	22:aux	_
-24	mû	mû	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
-25	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+13	,	,	PUNCT	_	_	24	punct	24:punct	_
+14	"	"	PUNCT	_	_	24	punct	24:punct	_
+15	xawe	xawe	CCONJ	_	_	24	cc	24:cc	_
+16	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	24	obl	24:obl	_
+17	xa	xa	ADP	_	_	16	case	16:case	_
+18	kai	kai	ADJ	_	_	19	amod	19:amod	_
+19	papude	papu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	24	obj	24:obj	_
+20	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	24:nsubj	_
+21	ge	ge	AUX	DECL	Mood=Ind	24	aux	24:aux	_
+22	ǀnai	ǀnai	ADV	_	_	24	advmod	24:advmod	_
+23	ge	ge	AUX	_	Tense=Past	24	aux	24:aux	_
+24	mû	mû	VERB	_	Voice=Act	12	parataxis	12:parataxis	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_27_2
 # text = Sūkuru-aob ge buru tsî kōkhâi tsî ge mî: "ǁNātikō kai papu-e ta ge gorose ǁnâu tsî mû tama hâ."
@@ -16446,8 +16441,8 @@
 6	tsî	tsî	CCONJ	_	_	7	cc	7:cc	_
 7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
 8	mî	mî	VERB	_	Voice=Act	3	conj	3:conj	SpaceAfter=No
-9	:	:	PUNCT	_	_	8	punct	8:punct	_
-10	'	'	PUNCT	_	_	17	advmod	17:advmod	SpaceAfter=No
+9	:	:	PUNCT	_	_	17	punct	17:punct	_
+10	"	"	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
 11	ǁNātikō	ǁnātikō	ADV	_	_	12	advmod	12:advmod	_
 12	kai	kai	ADJ	_	_	13	amod	13:amod	_
 13	papu-e	papu	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	17	obj	17:obj	_
@@ -16460,12 +16455,12 @@
 20	tama	tama	PART	NEG	Polarity=Neg	17	advmod	17:advmod	_
 21	hâ	hâ	AUX	PFV	Aspect=Perf	17	aux	17:aux	SpaceAfter=No
 22	.	.	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
-23	'	'	PUNCT	_	_	17	punct	17:punct	SpacesAfter=\n
+23	"	"	PUNCT	_	_	17	punct	17:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_27_3
 # text = ǃHanaǂgari-aob tsî sukuru-aob tsîkha xa i ge ǀguitsē, ǀgui ǃārosa ge re kōmahe.
 # english = One day one small settlement was checked out by a gardener and a potterer.
-1	ǃHanaǂgari-aob	ǃhanaǂgari-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	14:obl	_
+1	ǃHanaǂgari-aob	ǃhanaǂgari-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	obl	15:obl	_
 2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
 3	sukuru-aob	sūkuru-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|Typo=Yes	1	conj	1:conj	_
 4-5	tsîkha	_	_	_	_	_	_	_	_
@@ -16498,7 +16493,7 @@
 9	ge	ge	AUX	_	Tense=Past	10	aux	10:aux	_
 10	mî	mî	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 11	:	:	PUNCT	_	_	10	punct	10:punct	_
-12	'	'	PUNCT	_	_	26	punct	26:punct	SpaceAfter=No
+12	"	"	PUNCT	_	_	26	punct	26:punct	SpaceAfter=No
 13	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
 14	kai	kai	ADJ	_	_	15	amod	15:amod	_
 15	papus	papu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nsubj:pass	17:nsubj:pass	_
@@ -16539,7 +16534,7 @@
 2	îxa	îxa	ADJ	_	_	4	amod	4:amod	_
 3	kai	kai	ADJ	_	_	4	amod	4:amod	_
 4	papude	papu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	5	obj	5:obj	_
-5	dani	dani	VERB	_	Voice=Act	11	advmod	11:advmod	_
+5	dani	dani	VERB	_	Voice=Act	11	advcl	11:advcl	_
 6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	_
 7	ǃhanab	ǃhana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
 8	xoǀkha	xōǀkhā	ADP	_	Typo=Yes	7	case	7:case	_
@@ -16606,7 +16601,7 @@
 # english = Walking around the two were talking about this and that.
 1	ǁÎkha	ǁÎ	NOUN	_	Case=Nom|Gender=Masc|Number=Dual|Person=3	12	nsubj	12:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-3	ǃgûma	ǃgûma	VERB	_	Voice=Act	12	advmod	12:advmod	_
+3	ǃgûma	ǃgûma	VERB	_	Voice=Act	12	advcl	12:advcl	_
 4-5	rase	_	_	_	_	_	_	_	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	3	aux	3:aux	_
 5	se	se	SCONJ	MANNER	_	3	mark	3:mark	_
@@ -16628,20 +16623,20 @@
 3	ǂgom	ǂgom	VERB	_	Voice=Act	0	root	0:root	_
 4	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	3:obj	_
 5	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	3	aux	3:aux	SpaceAfter=No
-6	,	,	PUNCT	_	_	19	punct	19:punct	_
-7	xawe	xawe	CCONJ	_	_	19	cc	19:cc	_
-8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
-9	ge	ge	AUX	DECL	Mood=Ind	19	aux	19:aux	_
-10	ǀgui	ǀguikuri	ADV	_	Typo=Yes	19	advmod	19:advmod	CorrectForm=ǀguikuri
+6	,	,	PUNCT	_	_	20	punct	20:punct	_
+7	xawe	xawe	CCONJ	_	_	20	cc	20:cc	_
+8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	20:nsubj	_
+9	ge	ge	AUX	DECL	Mood=Ind	20	aux	20:aux	_
+10	ǀgui	ǀguikuri	ADV	_	Typo=Yes	20	advmod	20:advmod	CorrectForm=ǀguikuri
 11	kuri	kuri	X	_	_	10	goeswith	10:goeswith	_
 12	ǁnas	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem|Typo=Yes	14	obl	14:obl	_
 13	xa	xa	ADP	_	_	12	case	12:case	_
 14	kai	kai	ADJ	_	_	15	amod	15:amod	_
-15	papude	papu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	19	obj	19:obj	_
+15	papude	papu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	20	obj	20:obj	_
 16	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
-17	ǃhanas	ǃhana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	obl	19:obl	_
+17	ǃhanas	ǃhana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	obl	20:obl	_
 18	ǃna	ǃna	ADP	_	_	17	case	17:case	_
-19	ge	ge	AUX	_	Tense=Past	19	aux	19:aux	_
+19	ge	ge	AUX	_	Tense=Past	20	aux	20:aux	_
 20	ūhâ	ūhâ	VERB	_	Voice=Act	3	conj	3:conj	_
 21	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	20	aux	20:aux	SpaceAfter=No
 22	,	,	PUNCT	_	_	27	punct	27:punct	_
@@ -16668,7 +16663,7 @@
 8	ge	ge	AUX	_	Tense=Past	9	aux	9:aux	_
 9	tî	dî	VERB	_	Typo=Yes|Voice=Act	5	conj	5:conj	SpaceAfter=No
 10	:	:	PUNCT	_	_	5	punct	5:punct	_
-11	'	'	PUNCT	_	_	22	punct	22:punct	SpaceAfter=No
+11	"	"	PUNCT	_	_	22	punct	22:punct	SpaceAfter=No
 12	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
 13	horetse	hore	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	22	vocative	22:vocative	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	13:punct	_
@@ -16698,7 +16693,7 @@
 8	kō	kō	VERB	_	Voice=Act	0	root	0:root	_
 9	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	8	aux	8:aux	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
-11	'	'	PUNCT	_	_	8	punct	8:punct	_
+11	"	"	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_27_13
 # text = A ta miba tsi re, tita on ge ǀnai nau mâ kerkhe-oms khamakō kai sūsa ge kuru hâ i."
@@ -16725,7 +16720,7 @@
 20	hâ	hâ	AUX	PFV	Aspect=Perf	19	aux	19:aux	_
 21	i	i	AUX	PFV.AUX	_	19	aux	19:aux	SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
-23	'	'	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+23	"	"	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_27_14
 # text = Mati, tita nî ǂgom tsi tits ǂâi hâ? tib ge ǃhanaǂgariaoba kaise ǁaixa tsî ge tî.
@@ -16753,3 +16748,4 @@
 19	ge	ge	AUX	_	Tense=Past	20	aux	20:aux	_
 20	tî	dî	VERB	_	Typo=Yes|Voice=Act	17	conj	17:conj	SpaceAfter=No
 21	.	.	PUNCT	_	_	17	punct	17:punct	SpacesAfter=\n
+
