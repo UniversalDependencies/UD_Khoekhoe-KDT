@@ -308,13 +308,13 @@
 
 # newdoc id = grammar_BivalTyp
 # sent_id = grammar_BivalTyp_71
-# text = Petrub ge dai-e ge ā
+# text = Petrub ge dai-e ge ā
 # english = (P. was given a glass of milk by his mother.) P. drank the milk.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	_	_
 4	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
-5	ā	ā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
+5	ā	ā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_72
 # text = Petrub ge ǀhaiǀuriba ge tsunitsuni
@@ -338,14 +338,14 @@
 8	ǀgau	ǀgau	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_74
-# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
+# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
 # english = P. left his native city.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	_	_
 3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	_
 4	di	di	ADP	POSS	_	3	case	_	_
 5	ǃnae	ǃnae	ADJ	_	_	6	amod	_	_
-6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
+6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
 7	ge	ge	AUX	_	Tense=Past	8	aux	_	_
 8	ǁnāxū	ǁnāxū	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
@@ -379,13 +379,13 @@
 5	hui	hui	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_78
-# text = Petrub ge Hereroba ra ǁnâuǃā
+# text = Petrub ge Hereroba ra ǁnâuǃā
 # english = P. understands Herero.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	Hereroba	Herero	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	_	_
-5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
+5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_79
 # text = Nawab ge omsa go ǂnau
@@ -407,11 +407,11 @@
 6	ǃgaosen	ǃgaosen	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_81
-# text = Xlas ge tāb ai go ǁhaumâ
+# text = Xlas ge tāb ai go ǁhaumâ
 # english = (The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.
 1	Xlas	xla	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	_	_
-3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
+3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
 4	ai	ai	ADP	_	_	3	case	_	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	_	_
 6	ǁhau-mâ	ǁhau-mâ	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
@@ -466,12 +466,12 @@
 5	ǃgau	ǃgau	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_87
-# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
+# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
 # english = P. runs our town.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	_	_
 3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	_
-4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	_	_
+4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	_	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	_	_
 6	ǂgaeǂgui	ǂgaeǂgui	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
@@ -494,11 +494,11 @@
 5	sao	sao	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_90
-# text = Petrub ge hāba xu go ǁgôaxa
+# text = Petrub ge hāba xu go ǁgôaxa
 # english = P. got down from the horse.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	_	_
-3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
+3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
 4	xu	xu	ADP	_	_	3	case	_	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	_	_
 6	ǁgôaxa	ǁgôaxa	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
@@ -621,14 +621,14 @@
 5	tsoro	tsoro	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_103
-# text = Petrub ge ǁîb ǁkhowaamgu xa go gāxūhe
+# text = Petrub ge ǁîb ǁkhowaamgu xa go gāxūhe
 # english = P. lost his keys.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	_	_
 3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
 4	ǁkhowaamgua	ǁkhowa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	6	obj	_	_
 5	go	go	AUX	_	Tense=RecPast	6	aux	_	_
-6	gāxūhe	gāxūhe	NOUN	_	_	0	root	_	SpacesAfter=\n
+6	gāxūhe	gāxūhe	NOUN	_	_	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_104
 # text = Haiǃgaob ge ǁgam-i ǃnâ ge tsōǂgâ
@@ -848,12 +848,12 @@
 7	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_125
-# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
+# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
 # english = (P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj:pass	7:nsubj:xsubj|8:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
-4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
+4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
 5	xa	xa	ADP	_	_	4	case	4:case	_
 6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
 7	buruǂgâ	buruǂgâ	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
@@ -4581,9 +4581,9 @@
 5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = film_Bridge_470
-# text = ǀĀ ǃkhōǁnū-ūdadi ge ǃnāsase nau ǃkhōǁnū-ūdadi xa aǀgaisa.
+# text = ǀā ǃkhōǁnū-ūdadi ge ǃnāsase nau ǃkhōǁnū-ūdadi xa aǀgaisa.
 # english = A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we've ever used.
-1	ǀĀ	ǀā	ADJ	_	_	2	amod	_	_
+1	ǀā	ǀā	ADJ	_	_	2	amod	_	_
 2	ǃkhōǁnū-ūdadi	ǃkhōǁnū-ūda	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	nsubj	_	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	_	_
 4	ǃnāsase	ǃnāsase	ADV	_	_	8	advmod	_	_

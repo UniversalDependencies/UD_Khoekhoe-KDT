@@ -63,12 +63,12 @@
 5	ǂgom	ǂgom	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_8
-# text = Saras ge (tāba xu) ǂkhanisa go ū
+# text = Saras ge (tāba xu) ǂkhanisa go ū
 # english = S. took a book (from the shelf).
 1	Saras	Sara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	9	aux	_	_
 3	(	(	PUNCT	_	_	4	punct	_	_
-4	tāba	tā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	_	_
+4	tāba	tā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	_	_
 5	xu	xu	ADP	_	_	4	case	_	_
 6	)	)	PUNCT	_	_	4	punct	_	_
 7	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	_	_
@@ -198,13 +198,13 @@
 6	sī	sī	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_22
-# text = Petrub ge ǂnuwiǂgoaba go tsâǀkhā
+# text = Petrub ge ǂnuwiǂgoaba go tsâǀkhā
 # english = (The wall was covered with fresh paint.) P. touched the wall (and got dirty).
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	ǂnuwiǂgoaba	ǂnuwiǂgoa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	_	_
-5	tsâǀkhā	tsâǀkhā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
+5	tsâǀkhā	tsâǀkhā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_23
 # text = Petrub ge Marias ǀkha ra ǃkham
@@ -454,13 +454,13 @@
 7	ǁhawo	ǁhawo	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_49
-# text = Petrub ge ǀowasa go ǁā
+# text = Petrub ge ǀowasa go ǁā
 # english = P. washed the cup.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	ǀowasa	ǀowa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	_	_
-5	ǁā	ǁā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
+5	ǁā	ǁā	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_50
 # text = Petrub ge ǁîb purukhoeba ra ana
@@ -494,13 +494,13 @@
 6	ǁkhara	ǁkhara	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_53
-# text = ǀAob ge ǁauǃkhōaoba go ǁnāǂam
+# text = ǀAob ge ǁauǃkhōaoba go ǁnāǂam
 # english = A snake attacked a fisherman.
 1	ǀAob	ǀao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	_	_
 3	ǁauǃkhōaoba	ǁauǃkhōao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	_	_
-5	ǁnāǂam	ǁnāǂam	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
+5	ǁnāǂam	ǁnāǂam	VERB	_	Voice=Act	0	root	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_54
 # text = Emers ge ǁgam-i xa go ǀoa
@@ -563,11 +563,11 @@
 5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	_	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_60
-# text = ǂnuwiǂgoagu ge ǃāsa ǂnami hâ
+# text = ǂnuwiǂgoagu ge ǃāsa ǂnami hâ
 # english = Walls surround the city.
 1	ǂnuwiǂgoagu	ǂnuwiǂgoa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	nsubj	_	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	_	_
-3	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	_	_
+3	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	_	_
 4	ǂnami	ǂnami	VERB	_	Voice=Act	0	root	_	_
 5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	_	SpacesAfter=\n
 
@@ -3251,9 +3251,9 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = film_Titanic_249
-# text = Āde ǃnamse ra ǃnammi ǃnâ ra ǂgâuse ǁgammi di ǀgawisib ǃnāka.
+# text = āde ǃnamse ra ǃnammi ǃnâ ra ǂgâuse ǁgammi di ǀgawisib ǃnāka.
 # english = She kind of bumps along punching holes like morse code, dit-dit-dit - along the side, below the waterline.
-1	Āde	ā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	2	obj	_	_
+1	āde	ā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	2	obj	_	_
 2-3	ǃnamse	_	_	_	_	_	_	_	_
 2	ǃnam	ǃnam	VERB	_	Voice=Act	8	advcl	_	_
 3	se	se	SCONJ	MANNER	_	2	mark	_	_
