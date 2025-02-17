@@ -106,7 +106,7 @@
 # english = The next stop is Broad Street.
 1	Sao	sao	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
-3	mâǃkhaisa	mâǃkhai	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+3	mâǃkhaisa	mâǃkhai	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nsubj	1:nsubj|5:nsubj	_
 4	ǂhawa	ǂhawa	ADJ	_	_	5	amod	5:amod	_
 5	ǃganni	ǃgan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
 6	ǃnâ	ǃnâ	ADP	_	_	5	case	5:case	SpaceAfter=No
@@ -240,7 +240,7 @@
 2	dawasen	dawa	VERB	_	Voice=Refl	3	xcomp	3:xcomp	_
 3-4	ǁkhāts	_	_	_	_	_	_	_	_
 3	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
-4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	2:nsubj:xsubj|3:nsubj	_
 5	a	a	AUX	STAT.PRS	Tense=Pres	3	aux	3:aux	SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -332,7 +332,7 @@
 # sent_id = film_Bridge_23
 # text = ǂHôarona da ge ge ǃkhōǃoa sats ǂhanub di ǂgīǂgōsi ǂhôan tsî torosi ǂhôana ra ǃgâ tsî ǃnuri ǃkhaisa ra ǁgauǁgauna.
 # english = We've received information concerning your involvement in espionage.
-1	ǂHôarona	ǂhôa	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur|Person=3	5	obj	5:obj	_
+1	ǂHôarona	ǂhôa	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur|Person=3	5	obj	5:obj|20:nsubj	_
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
@@ -341,19 +341,19 @@
 7	ǂhanub	ǂhanu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nmod:poss	10:nmod:poss	_
 8	di	di	ADP	POSS	_	7	case	7:case	_
 9	ǂgīǂgōsi	ǂgīǂgōsi	ADJ	_	_	10	amod	10:amod	_
-10	ǂhôan	ǂhôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	15	obj	15:obj	_
+10	ǂhôan	ǂhôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	15	obj	15:obj|17:obj	_
 11	tsî	tsî	CCONJ	_	_	13	cc	13:cc	_
 12	torosi	torosi	ADJ	_	_	13	amod	13:amod	_
-13	ǂhôana	ǂhôa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	10	conj	10:conj	_
-14	ra	ra	AUX	IPFV	Aspect=Imp	15	aux	15:aux	_
+13	ǂhôana	ǂhôa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	10	conj	10:conj|15:obj|17:obj	_
+14	ra	ra	AUX	IPFV	Aspect=Imp	15	aux	15:aux|17:aux	_
 15	ǃgâ	ǃgâ	VERB	_	Voice=Act	20	ccomp	20:ccomp	_
 16	tsî	tsî	CCONJ	_	_	17	cc	17:cc	_
-17	ǃnuri	ǃnuri	ADJ	_	_	15	conj	15:conj	_
-18	ǃkhaisa	ǃkhais	SCONJ	COMPL	Case=Acc	15	mark	15:mark	_
+17	ǃnuri	ǃnuri	ADJ	_	_	15	conj	15:conj|20:ccomp	_
+18	ǃkhaisa	ǃkhais	SCONJ	COMPL	Case=Acc	15	mark	15:mark|17:mark	_
 19	ra	ra	AUX	IPFV	Aspect=Imp	20	aux	20:aux	_
 20-21	ǁgauǁgauna	_	_	_	_	_	_	_	SpaceAfter=No
 20	ǁgauǁgau	ǁgauǁgau	VERB	_	Voice=Act	1	acl:relcl	1:acl:relcl	_
-21	na	_	PRON	REL	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel	20	nsubj	20:nsubj	_
+21	na	_	PRON	REL	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel	20	nsubj	1:ref|20:nsubj	_
 22	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_24
@@ -362,7 +362,7 @@
 1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	8	obl	8:obl	_
 2-3	ǀkhats	_	_	_	_	_	_	_	_
 2	ǀkha	ǀkha	ADP	_	_	1	case	1:case	_
-3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	7:nsubj:xsubj|8:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 5	nēsi	nēsi	ADV	_	_	8	advmod	8:advmod	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	8	aux	8:aux	_
@@ -408,7 +408,7 @@
 1	Tare-i	tare	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	obl	5:obl	_
 2-3	xats	_	_	_	_	_	_	_	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
-3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj|12:nsubj:xsibj	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5-6	ǀûs	_	_	_	_	_	_	_	_
 5	ǀû	ǀû	VERB	_	Voice=Act	0	root	0:root	_
@@ -536,18 +536,18 @@
 5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	matras	matra	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	obj	19:obj	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	6:punct	_
-8	kharob	kha	NOUN	_	Case=Nom|Degree=Dim|Gender=Masc|Number=Sing|Person=3	6	conj	6:conj	SpaceAfter=No
+8	kharob	kha	NOUN	_	Case=Nom|Degree=Dim|Gender=Masc|Number=Sing|Person=3	6	conj	6:conj|19:obj	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	8:punct	_
 10	ǂaiǂgawab	ǂaiǂgawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nmod:poss	12:nmod:poss	_
 11	di	di	ADP	POSS	_	10	case	10:case	_
-12	tāgu	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	conj	6:conj	SpaceAfter=No
+12	tāgu	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	conj	6:conj|19:obj	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	12:punct	_
 14	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	16:nmod:poss	_
 15	di	di	ADP	POSS	_	14	case	14:case	_
-16	stuls	stul	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	conj	6:conj	_
+16	stuls	stul	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	conj	6:conj|19:obj	_
 17-18	tsîna	_	_	_	_	_	_	_	_
 17	tsî	tsî	CCONJ	_	_	18	cc	18:cc	_
-18	na	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	conj	6:conj	_
+18	na	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	conj	6:conj|19:obj	_
 19	ǁnaraǃnâ	ǁnaraǃnâ	VERB	_	Voice=Act	4	parataxis	4:parataxis	_
 20	re	re	AUX	PDIR	Mood=Imp	19	aux	19:aux	SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -558,15 +558,15 @@
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2-3	xū-ets	_	_	_	_	_	_	_	_
 2	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	13	obj	13:obj	_
-3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
+3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	13:nsubj:xsubj|14:nsubj	_
 4	kha	kha	AUX	INT	Mood=Int	14	aux	14:aux	_
-5	tsaoǃoreb	tsaoǃore	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	obl	13:obl	_
+5	tsaoǃoreb	tsaoǃore	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	obl	9:nsubj|13:obl	_
 6	hîa	hîa	SCONJ	REL	_	9	mark	9:mark	_
 7	mûǂuidaos	mûǂuidao	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	obl	13:obl	_
-8	ai	ai	ADP	_	_	9	case	9:case	_
+8	ai	ai	ADP	_	_	9	case	8:case	_
 9-10	mâb	_	_	_	_	_	_	_	_
 9	mâ	mâ	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
-10	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	nsubj	9:nsubj	_
+10	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	nsubj	5:ref|9:nsubj	_
 11	ǃnâ	ǃnâ	ADP	_	_	5	case	5:case	_
 12	a	a	AUX	STAT.PRS	Tense=Pres	14	aux	14:aux	_
 13	ǂgā	ǂgā	VERB	_	Voice=Act	14	xcomp	14:xcomp	_
@@ -657,7 +657,7 @@
 1	Sakhom	sa	PRON	_	Case=Nom|Clusivity=In|Gender=Masc|Number=Dual|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
 3	nēi-ao	nēi-ao	ADV	_	_	15	advmod	15:advmod	_
-4	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	obl	15:obl	_
+4	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	obl	10:nsubj:pass|15:obl	_
 5	hîa	hîa	SCONJ	REL	_	10	mark	10:mark	_
 6	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	ǁama-ao-i	ǁama-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obl:agent	10:obl:agent	_
@@ -666,7 +666,7 @@
 10-12	ǂnoabahesab	_	_	_	_	_	_	_	_
 10	ǂnoabahe	ǂnoaba	VERB	_	Voice=Pass	4	acl:relcl	4:acl:relcl	_
 11	sa	s	SCONJ	_	Case=Acc	10	mark	10:mark	_
-12	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	10	nsubj:pass	10:nsubj:pass	_
+12	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	10	nsubj:pass	4:ref|10:nsubj:pass	_
 13	xa	xa	ADP	_	_	4	case	4:case	_
 14	ra	ra	AUX	IPFV	Aspect=Imp	15	aux	15:aux	_
 15	ǃhoa	ǃhoa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -702,7 +702,7 @@
 1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǃkhais	ǃkhai	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj:outer	19:nsubj:outer	_
 3	ge	ge	AUX	DECL	Mood=Ind	19	aux	19:aux	_
-4	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nsubj	19:nsubj	_
+4	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nsubj	10:nsubj:pass|19:nsubj	_
 5	hîa	hîa	SCONJ	REL	_	10	mark	10:mark	_
 6	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	klient-i	klient	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obl:agent	10:obl:agent	_
@@ -828,7 +828,7 @@
 1	ǁÎ-aitsama	ǁî-aitsama	ADV	_	_	3	advmod	3:advmod	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	3	aux	3:aux	_
 3	ǁgauǁgau	ǁgauǁgau	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
-4	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	6	nsubj	6:nsubj	_
+4	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	6	nsubj	3:nsubj|6:nsubj	_
 5	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 6	mûhesa	mûhesa	ADJ	_	_	0	root	0:root	_
 7	a	a	AUX	COP.PRS	Tense=Pres	6	cop	6:cop	SpaceAfter=No
@@ -854,13 +854,13 @@
 # english = Tell me the story in a way that makes sense for five things.
 1	ǂHôasa	ǂhôa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	10:obj	_
 2	ǃgāsa	ǃgāsa	ADJ	_	_	3	amod	3:amod	_
-3	ǀgaub	ǀgau	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
+3	ǀgaub	ǀgau	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	7:obj|10:obl	_
 4	hîa	hîa	SCONJ	REL	_	7	mark	7:mark	_
 5	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 6	nî	nî	AUX	FUT	Tense=Fut	7	aux	7:aux	_
 7-8	ǁnâuǃāb	_	_	_	_	_	_	_	_
 7	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
-8	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	obj	7:obj	_
+8	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	obj	3:ref|7:obj	_
 9	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
 10	mîba	mî	VERB	_	Voice=Appl	0	root	0:root	_
 11	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	10:iobj	_
@@ -910,7 +910,7 @@
 # sent_id = film_Bridge_67
 # text = Khoeb hîa sa klient-i xa ra ǂnoabaheb ge ǀgawi daob khoeseǀab ai ǃnari, tsî audosa ǃnaris di ǂgaeǂguisa ra ǂoaǃnâ, tsî koro khoegu tiga ra ǂgâu, nē koro khoegu ge tita go ǃgae î ta ǁîga ǂnûǁkhaeba sats sa mîǁguiba ǂanǃgâ tama hâ xui-ao.
 # english = The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys, the five guys who hired me to represent them because you're not honoring your claim.
-1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	14:nsubj	_
+1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	7:nsubj:pass|14:nsubj23:nsubj|31:nsubj	_
 2	hîa	hîa	SCONJ	REL	_	7	mark	7:mark	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	klient-i	klient	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
@@ -918,8 +918,8 @@
 6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
 7-8	ǂnoabaheb	_	_	_	_	_	_	_	_
 7	ǂnoabahe	ǂnoaba	VERB	_	Voice=Pass	1	acl:relcl	1:acl:relcl	_
-8	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	14:expl	_
-9	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
+8	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	14:expl|23:expl|31:expl	_
+9	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux|23:aux|31:aux	_
 10	ǀgawi	ǀgawi	ADJ	_	_	11	amod	11:amod	_
 11	daob	dao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	14:obl	_
 12	khoeseǀab	khoeseǀa	NUM	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	nmod	11:nmod	_
@@ -1102,7 +1102,7 @@
 # text = Nē khoeb hîa ti klient-i xa ra ǂnoabaheb ge ǀgui tsūkeǃgâb ǀguiba go ūhâ i.
 # english = The guy insured by my client had one accident.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
-2	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	15:nsubj	_
+2	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	8:nsubj:pass|15:nsubj	_
 3	hîa	hîa	SCONJ	REL	_	8	mark	8:mark	_
 4	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	klient-i	klient	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	obl:agent	8:obl:agent	_
@@ -1133,20 +1133,20 @@
 # sent_id = film_Bridge_77
 # text = Audosa ǂgaeǂguis (ǃnaris) di ǁkhāsiba ǂoaǃnâ tsîb ge ǀurihāǃgawi-ao go ǂgâu.
 # english = Losing control of the car and hitting five motorcyclists.
-1	Audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	2:nmod:poss	_
+1	Audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	2:nmod:poss|4:case	_
 2	ǂgaeǂguis	ǂgaeǂgui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
 3	(	(	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 4	ǃnaris	ǃnari	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	4:punct	_
-6	di	di	ADP	POSS	_	2	case	2:case	_
+6	di	di	ADP	POSS	_	2	case	2:case|4:case	_
 7	ǁkhāsiba	ǁkhāsi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
 8	ǂoaǃnâ	ǂoaǃnâ	VERB	_	Voice=Act	0	root	0:root	_
 9-10	tsîb	_	_	_	_	_	_	_	_
 9	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
-11	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
+11	ge	ge	AUX	DECL	Mood=Ind	14	aux	8:aux|14:aux	_
 12	ǀurihāǃgawi-ao	ǀurihāǃgawi-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obj	14:obj	_
-13	go	go	AUX	_	Tense=RecPast	14	aux	14:aux	_
+13	go	go	AUX	_	Tense=RecPast	14	aux	8:aux|14:aux	_
 14	ǂgâu	ǂgâu	VERB	_	Voice=Act	8	conj	8:conj	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
 
@@ -1182,7 +1182,7 @@
 1	Mî	mî	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
 2	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
 3	i	i	AUX	INTi	Mood=Int	2	aux	2:aux	_
-4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	1:nsubj:xsubj|2:nsubj	_
 5	a	a	AUX	STAT.PRS	Tense=Pres	2	aux	2:aux	SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -1208,7 +1208,7 @@
 5	'	'	PUNCT	_	_	4	punct	4:punct	_
 6	ti	ti	PART	QUOT	_	4	case	4:case	_
 7	hâ	hâ	VERB	COP.LOC	Voice=Act	8	acl:relcl	8:acl:relcl	_
-8	gamesa	game	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	10:obj	_
+8	gamesa	game	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	7:nsubj|10:obj	_
 9	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	10	aux	10:aux	_
 10	ǀhuru	ǀhuru	VERB	_	Voice=Act	24	advcl	24:advcl	_
 11	o	o	SCONJ	_	_	10	mark	10:mark	SpaceAfter=No
@@ -1216,7 +1216,7 @@
 13	tsî	tsî	CCONJ	_	_	15	cc	15:cc	_
 14	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	15	aux	15:aux	_
 15	ǂnoa	ǂnoa	VERB	_	Voice=Act	10	conj	10:conj	_
-16	o	o	SCONJ	_	_	15	mark	15:mark	SpaceAfter=No
+16	o	o	SCONJ	_	_	15	mark	10:mark	SpaceAfter=No
 17	,	,	PUNCT	_	_	24	punct	24:punct	_
 18	o	o	ADV	_	_	24	advmod	24:advmod	_
 19	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	expl	24:expl	_
@@ -1328,8 +1328,8 @@
 # text = Nē ǂoas ge oms di ǃnā-xū-i hoa-e ū tsî ǀguri hâ tsūǃgâ-i ǃnâ ǁgaiǁgai tama hâ.
 # english = It didn't pick up every stick of furniture and destroy it in a separate incident.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
-2	ǂoas	ǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+2	ǂoas	ǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj|14:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux|14:aux	_
 4	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	6:nmod:poss	_
 5	di	di	ADP	POSS	_	4	case	4:case	_
 6	ǃnā-xū-i	ǃnā-xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	obj	8:obj	_
@@ -1338,7 +1338,7 @@
 9	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 10	ǀguri	ǀguri	ADV	_	_	11	advmod	11:advmod	_
 11	hâ	hâ	VERB	_	Voice=Act	12	acl:relcl	12:acl:relcl	_
-12	tsūǃgâ-i	tsūǃgâ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	obl	14:obl	_
+12	tsūǃgâ-i	tsūǃgâ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	obl	11:nsubj|14:obl	_
 13	ǃnâ	ǃnâ	ADP	_	_	12	case	12:case	_
 14	ǁgaiǁgai	ǁgaiǁgai	VERB	_	Voice=Act	8	conj	8:conj	_
 15	tama	tama	PART	NEG	Polarity=Neg	14	advmod	14:advmod	_
@@ -1366,7 +1366,7 @@
 14	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	16	obl	16:obl	_
 15	khami	khami	ADP	_	_	14	case	14:case	_
 16	ī	ī	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
-17	surude-i	surude	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	24:nsubj	_
+17	surude-i	surude	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	16:nsubj|24:nsubj	_
 18	tsîna	tsîn	ADV	_	Case=Acc	17	advmod:emph	17:advmod:emph	_
 19	sakhom	sa	PRON	_	Case=Nom|Clusivity=In|Gender=Masc|Number=Dual|Person=3|PronType=Prs	21	nmod:poss	21:nmod:poss	_
 20	di	di	ADP	POSS	_	19	case	19:case	_
@@ -1394,11 +1394,11 @@
 6	,	,	PUNCT	_	_	7	punct	7:punct	_
 7	Bob	Bo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	vocative	14:vocative	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	7:punct	_
-9	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	14:nsubj	_
+9	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	11:nsubj|14:nsubj	_
 10	hîa	hîa	SCONJ	REL	_	11	mark	11:mark	_
 11-12	ǃnorasa-e	_	_	_	_	_	_	_	_
 11	ǃnorasa	ǃnorasa	ADJ	_	_	9	acl:relcl	9:acl:relcl	_
-12	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	11	nsubj	11:nsubj	_
+12	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	11	nsubj	9:ref|11:nsubj	_
 13	a	a	AUX	STAT.PRS	Tense=Pres	14	aux	14:aux	_
 14	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	0	root	0:root	SpacesAfter=\n
 
@@ -1416,7 +1416,7 @@
 # text = Mâti ta a hui tsi ǁkhā?
 # english = How may I direct your call?
 1	Mâti	mâti	ADV	_	PronType=Int	6	advmod	6:advmod	_
-2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	4:nsubj:xsubj|6:nsubj	_
 3	a	a	AUX	STAT.PRS	Tense=Pres	6	aux	6:aux	_
 4	hui	hui	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
 5	tsi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	4:obj	_
@@ -1519,7 +1519,7 @@
 # sent_id = film_Bridge_103
 # text = Xū-i hîa kaise a ǂhâǂhâsasi ge go hā.
 # english = Something pretty important has come up.
-1	Xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nsubj	10:nsubj	_
+1	Xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nsubj	5:nsubj|10:nsubj	_
 2	hîa	hîa	SCONJ	REL	_	5	mark	5:mark	_
 3	kaise	kaise	ADV	_	_	5	advmod	5:advmod	_
 4	a	a	AUX	COP.PRS	Tense=Pres	5	cop	5:cop	_
@@ -1564,7 +1564,7 @@
 1	Nēscafe	Nēscafe	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	4:punct	_
 3	ǃkhuniǃkhuni-ū	ǃkhuniǃkhuni-ū	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
-4	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj	SpaceAfter=No
+4	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	3:nsubj|1:conj	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	8:punct	_
 6	ǀgam	ǀgam	NUM	_	NumType=Card	8	nummod	8:nummod	_
 7	suguri	suguri	NOUN	_	_	8	nmod:poss	8:nmod:poss	_
@@ -1713,12 +1713,12 @@
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 2	Soviets	Soviet	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
-4	ǃkhē-aob	ǃkhē-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	11:obj	_
+4	ǃkhē-aob	ǃkhē-ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	7:nsubj:pass|11:obj	_
 5	hîa	hîa	SCONJ	REL	_	7	mark	7:mark	_
 6	go	go	AUX	_	Tense=RecPast	7	aux	7:aux	_
 7-9	ǃkhōhebats	_	_	_	_	_	_	_	_
 7	ǃkhōhe	ǃkhōhe	VERB	_	Voice=Pass	4	acl:relcl	4:acl:relcl	_
-8	ba	_	PRON	REL	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	nsubj:pass	7:nsubj:pass	_
+8	ba	_	PRON	REL	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	nsubj:pass	4:ref|7:nsubj:pass	_
 9	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
 10	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
 11-12	ǂnoabasa	_	_	_	_	_	_	_	_
@@ -1736,7 +1736,7 @@
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	advmod	5:advmod	_
 2-3	an	_	_	_	_	_	_	_	_
 2	a	a	AUX	COP.PRS	Tense=Pres	5	cop	5:cop	_
-3	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	expl:impers	5:expl:impers	_
+3	n	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	expl:impers	5:expl:impers|10:obj	_
 4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 5	ǃkhaidi	ǃkhai	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	0:root	_
 6-7	hîab	_	_	_	_	_	_	_	_
@@ -1746,7 +1746,7 @@
 9	ra	ra	AUX	IPFV	Aspect=Imp	10	aux	10:aux	_
 10-11	hō-aihēna	_	_	_	_	_	_	_	SpaceAfter=No
 10	hō-aihē	hō-aihē	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
-11	na	_	PRON	REL	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel	10	obj	10:obj	_
+11	na	_	PRON	REL	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel	10	obj	3:ref|10:obj	_
 12	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_123
@@ -1768,7 +1768,7 @@
 7	tama	tama	PART	NEG	Polarity=Neg	6	advmod	6:advmod	_
 8	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	9	det	9:det	_
 9	ǁhōba	ǁhō	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obj	12:obj	_
-10	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+10	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	12:nsubj:xsubj|13:nsubj	_
 11	ra	ra	AUX	IPFV	Aspect=Imp	13	aux	13:aux	_
 12	ū	ū	VERB	_	Voice=Act	13	xcomp	13:xcomp	_
 13	ǂgao	ǂgao	VERB	_	Voice=Act	5	ccomp	5:ccomp	_
@@ -1780,12 +1780,12 @@
 # english = The accused doesn't know any lawyers.
 1	ǀHawiǂnûihe	ǀhawiǂnûi	VERB	_	Voice=Pass	3	acl:relcl	3:acl:relcl	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
-3	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	10:nsubj	_
+3	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	1:nsubj:pass|10:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
 5	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	7	obl	7:obl	_
 6	khami	khami	ADP	_	_	5	case	5:case	_
 7	ī	ī	VERB	_	Voice=Act	8	acl:relcl	8:acl:relcl	_
-8	ǂnoaba-i	ǂnoaba	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	_
+8	ǂnoaba-i	ǂnoaba	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	7:nsubj|10:obj	_
 9	tsîna	tsîn	ADV	_	Case=Acc	8	advmod:emph	8:advmod:emph	_
 10	ǂan	ǂan	VERB	_	Voice=Act	0	root	0:root	_
 11	tama	tama	PART	NEG	Polarity=Neg	10	advmod	10:advmod	_
@@ -1860,7 +1860,7 @@
 11	aob	ao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj:pass	14:nsubj:pass	_
 12	nî	nî	AUX	FUT	Tense=Fut	14	aux	14:aux	_
 13	ǂhanuse	ǂhanuse	ADV	_	_	14	advmod	14:advmod	_
-14-15	ǀgoraǃgâhe	_	_	_	_	_	_	_	SpaceAfter=No
+14-15	ǀgoraǃgâhesa	_	_	_	_	_	_	_	SpaceAfter=No
 14	ǀgoraǃgâhe	ǀgoraǃgâ	VERB	_	Voice=Pass	9	csubj	9:csubj	_
 15	sa	s	SCONJ	NMLZ	Case=Acc	14	mark	14:mark	_
 16	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
@@ -2072,7 +2072,7 @@
 # text = Amase i ge mûsen ǁoa sada ǂhanusi (ǀgoraǃgâs) khoen nēti khoena aobē ǀguisa hî khami.
 # english = It can't look like our justice system tosses people on the ash heap.
 1	Amase	amase	ADV	_	_	5	advmod	5:advmod	_
-2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	4:nsubj:xsubj|5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	mûsen	mûsen	VERB	_	Voice=Act	5	xcomp	5:xcomp	_
 5	ǁoa	ǁoa	VERB	STAT	Voice=Act	0	root	0:root	_
@@ -2081,7 +2081,7 @@
 8	(	(	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 9	ǀgoraǃgâs	ǀgoraǃgâ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 10	)	)	PUNCT	_	_	9	punct	9:punct	_
-11	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	17	nsubj	17:nsubj	_
+11	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	17	nsubj	14:nsubj:xsubj17:nsubj	_
 12	nēti	nēti	ADV	_	Deixis=Prox|PronType=Dem	14	advmod	14:advmod	_
 13	khoena	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	14	obj	14:obj	_
 14	aobē	aobē	VERB	_	Voice=Act	17	xcomp	17:xcomp	_
@@ -2255,7 +2255,7 @@
 6	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	7	det	7:det	_
 7-8	xūbats	_	_	_	_	_	_	_	_
 7	xūba	xū	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obj	10:obj	_
-8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
+8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	10:nsubj:xsubj|14:nsubj	_
 9	nî	nî	AUX	FUT	Tense=Fut	14	aux	14:aux	_
 10-11	ǂnoabas	_	_	_	_	_	_	_	_
 10	ǂnoaba	ǂnoaba	VERB	_	Voice=Act	14	xcomp	14:xcomp	_
@@ -2396,7 +2396,7 @@
 3	sîsen	sîsen	VERB	_	Voice=Act	4	xcomp	4:xcomp	_
 4	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
 5	i	i	AUX	INTi	Mood=Int	4	aux	4:aux	_
-6	khom	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+6	khom	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=1|PronType=Prs	4	nsubj	3:nsubj:xsubj|4:nsubj	_
 7	a	a	AUX	STAT.PRS	Tense=Pres	4	aux	4:aux	SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -2466,15 +2466,15 @@
 # text = "ou tyds [tā] tā tita ou tyds di xūna mîba" ti ra mî o
 # english = "Old Fashion, do not tell me old fashioned things, now that older times things" (they) say
 1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
-2	ou	ou	ADJ	_	_	3	amod	3:amod	OtigLang=af
+2	ou	ou	ADJ	_	_	3	amod	3:amod	OrigLang=af
 3	tyds	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	ccomp	17:ccomp	OrigLang=af
 4	[	[	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
 5	tā	tā	AUX	PROH	Mood=Prh	7	reparandum	7:reparandum	SpaceAfter=No
 6	]	]	PUNCT	_	_	5	punct	5:punct	_
 7	tā	tā	AUX	PROH	Mood=Prh	13	aux	13:aux	_
 8	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	13	iobj:appl	13:iobj:appl	_
-9	ou	ou	ADJ	_	_	10	amod	10:amod	Lang=af
-10	tyds	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod:poss	12:nmod:poss	Lang=af
+9	ou	ou	ADJ	_	_	10	amod	10:amod	OrigLang=af
+10	tyds	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod:poss	12:nmod:poss	OrigLang=af
 11	di	di	ADP	POSS	_	10	case	10:case	_
 12	xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	13	obj	13:obj	_
 13	mîba	mî	VERB	_	Voice=Appl	3	parataxis	3:parataxis	SpaceAfter=No
@@ -2560,13 +2560,13 @@
 # english = And, now is there no one that can go look for him
 1	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
 2	o	o	ADV	_	_	4	advmod	4:advmod	_
-3	khoe-e	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+3	khoe-e	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	nsubj	4:nsubj|8:nsubj	_
 4	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	0	root	0:root	_
 5	axaba	axa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
 6	nî	nî	AUX	FUT	Tense=Fut	8	aux	8:aux	_
 7	sī	sī	AUX	_	_	8	aux	8:aux	_
 8	ôa	ôa	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
-9	e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	nsubj	8:nsubj	SpacesAfter=\n
+9	e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	nsubj	3:ref|8:nsubj	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_362
 # text = tsî ti oompieba ǁîb ge ǂgaihe stuks ǃnâ [ǃkhoe] sī oms ai tsî
@@ -2659,7 +2659,7 @@
 1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	nee	nee	INTJ	_	Polarity=Neg	6	discourse	6:discourse	_
 3	nēsisa	nēsisa	ADV	_	_	6	advmod	6:advmod	_
-4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj|10:nsubj	_
 5	ga	ga	AUX	POT	Mood=Pot	6	aux	6:aux	_
 6	khâimâ	khâimâ	VERB	_	Voice=Act	0	root	0:root	_
 7	tsî	tsî	CCONJ	_	_	10	cc	10:cc	_
@@ -2780,10 +2780,10 @@
 14	kans	kan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obj	11:obj	OrigLang=af
 15	tsî	tsî	CCONJ	_	_	17	cc	17:cc	_
 16	twee-honderd	twee-honderd	NUM	_	NumType=Card	17	nummod	17:nummod	OrigLang=af
-17	rands	rand	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	conj	14:conj	OrigLang=af
+17	rands	rand	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	conj	11:obj|14:conj	OrigLang=af
 18	tsî	tsî	CCONJ	_	_	20	cc	20:cc	_
 19	saru	saru	NOUN	_	_	20	nmod:poss	20:nmod:poss	_
-20	pakkies	pakkie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	conj	14:conj	OrigLang=af|SpacesAfter=\n
+20	pakkies	pakkie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	conj	11:obj|14:conj	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_377
 # text = xawe ra ga ǁîra ǃkham o
@@ -2909,12 +2909,12 @@
 11	î	î	SCONJ	_	_	15	mark	15:mark	_
 12	hā	hā	VERB	_	Voice=Act	14	acl:relcl	14:acl:relcl	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-14	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	nsubj	15:nsubj	_
+14	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	15	nsubj	12:nsubj|15:nsubj	_
 15	hā	hā	VERB	_	Voice=Act	9	advcl	9:advcl	_
 16	tsî	tsî	CCONJ	_	_	17	cc	17:cc	_
-17	ǂnauhe	ǂnau	VERB	_	Voice=Pass	15	conj	15:conj	_
+17	ǂnauhe	ǂnau	VERB	_	Voice=Pass	15	conj	9:advcl|15:conj	_
 18	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
-19	toa	toa	VERB	_	Voice=Act	15	conj	15:conj	SpaceAfter=No
+19	toa	toa	VERB	_	Voice=Act	15	conj	9:advcl|15:conj	SpaceAfter=No
 20	"	"	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_388
