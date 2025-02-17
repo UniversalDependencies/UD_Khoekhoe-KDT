@@ -5196,7 +5196,7 @@
 2	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 3	ǃkhā	ǃkhā	VERB	_	Voice=Act	4	xcomp	4:xcomp	_
 4	kai	kai	VERB	_	Voice=Act	0	root	0:root	_
-5	si	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	4	obj	3nsubj|4:obj	SpaceAfter=No
+5	si	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	4	obj	3:nsubj|4:obj	SpaceAfter=No
 6	!	!	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_437
@@ -6304,8 +6304,8 @@
 1	Omǃnâ	omǃnâ	ADV	_	_	4	advmod	4:advmod	_
 2	ǀgui	ǀgui	ADV	_	_	4	advmod	4:advmod	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
-4	hâ	hâ	VERB	COP.LOC	Voice=Act	5	acl:relcl	4:nsubj|5:acl:relcl	_
-5	khoes	khoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	10:obl	_
+4	hâ	hâ	VERB	COP.LOC	Voice=Act	5	acl:relcl	5:acl:relcl	_
+5	khoes	khoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	4:nsubj|10:obl	_
 6-7	khamis	_	_	_	_	_	_	_	_
 6	khami	khami	ADP	_	_	5	case	5:case	_
 7	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	10	nsubj	10:nsubj	_
@@ -7358,7 +7358,7 @@
 38	ge	ge	AUX	DECL	Mood=Ind	41	aux	41:aux	_
 39	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	41	obl	41:obl	_
 40	khaoǃgâ	khaoǃgâ	ADP	_	_	39	case	39:case	_
-41	oasī	oasī	VERB	_	Voice=Act	35	conj	35:conj|24:parataxis	_
+41	oasī	oasī	VERB	_	Voice=Act	35	conj	24:parataxis|35:conj	_
 42	tama	tama	PART	NEG	Polarity=Neg	41	advmod	41:advmod	_
 43	hâ	hâ	AUX	PFV	Aspect=Perf	41	aux	41:aux	SpaceAfter=No
 44	.	.	PUNCT	_	_	24	punct	24:punct	SpacesAfter=\n
@@ -7815,7 +7815,7 @@
 # sent_id = film_Titanic_679
 # text = Sats ge a ǃgôaoǃnâ tsî ǁnâuǀnamoǃnâ tsî ǁîǃgôasenxa tsî ta ge nēsi ra ī, Jack.
 # english = You are rude and uncouth and presumptuous and I am leaving now, Jack.
-1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|6:snubj|8:nsubj	_
+1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|6:nsubj|8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|6:aux|8:aux	_
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop|6:cop|8:cop	_
 4	ǃgôaoǃnâ	ǃgôaoǃnâ	ADJ	_	_	0	root	0:root	_
@@ -7879,7 +7879,7 @@
 4	ǃhāsara	ǃhāsa	ADJ	_	Case=Acc|Gender=Fem,Neut|Number=Dual|Person=3	9	xcomp	9:xcomp	_
 5-6	tes	_	_	_	_	_	_	_	_
 5	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	_
-6	s	s	SCONJ	NMLZ	Case=Nom|ExtPos=ADV	4	advmod:emph	4:advmod:emph	_
+6	s	s	PART	NMLZ	Case=Nom|ExtPos=ADV	4	advmod:emph	4:advmod:emph	_
 7	tsîna	tsîn	ADV	_	Case=Acc	6	fixed	6:fixed	_
 8	go	go	AUX	_	Tense=RecPast	9	aux	9:aux	_
 9	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -8386,7 +8386,7 @@
 1	Ū	ū	VERB	_	Voice=Act	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	_
-4	hâ	hâ	AUX	PFV	Aspect=Per5f	1	aux	1:aux	SpaceAfter=No
+4	hâ	hâ	AUX	PFV	Aspect=Perf	1	aux	1:aux	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_728
@@ -8952,7 +8952,7 @@
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_775
-# text = ǀKhī re, ǁgau si ta ge nî.
+# text = ǀKhī re, ǁgausi ta ge nî.
 # english = Come on, I'll show you.
 1	ǀKhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -10303,7 +10303,7 @@
 7	dī	dī	VERB	_	Voice=Act	10	acl:relcl	10:acl:relcl	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 9	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-10	xūrona	xū	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur|Person=3	11	obj	7:obj11:obj	_
+10	xūrona	xū	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur|Person=3	11	obj	7:obj|11:obj	_
 11	dī	dī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_17
@@ -13525,7 +13525,7 @@
 2	xamaren	xamare	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl	_
 3-4	ǀkhas	_	_	_	_	_	_	_	_
 3	ǀkha	ǀkha	ADP	_	_	2	case	2:case	_
-4	s	s	SCONJ	_	Case=Nom|ExtPos=ADV	2	advmod:emph	2:advmod:emph	_
+4	s	s	PART	_	Case=Nom|ExtPos=ADV	2	advmod:emph	2:advmod:emph	_
 5	tsîna	tsîn	ADV	_	Case=Acc	4	fixed	4:fixed	_
 6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	7:aux	_
 7	ǀū	ǀū	VERB	STAT	Voice=Act	0	root	0:root	_
@@ -14123,7 +14123,7 @@
 3	hâ	hâ	VERB	COP.LOC	Voice=Act	6	acl:relcl	6:acl:relcl	_
 4	s	s	SCONJ	NMLZ	Case=Nom	3	mark	3:mark	_
 5	di	di	ADP	POSS	_	3	case	3:case	_
-6	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	14	nsubj	6:nsubj|14:nsubj	_
+6	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	14	nsubj	3:nsubj|14:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
 8	sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 9	ga	ga	AUX	POT	Mood=Pot	10	aux	10:aux	_
@@ -14931,7 +14931,7 @@
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_5_9
-# text = ǁîgu ge ǂhauǃhūb ai ǀgui ǀarisa go hō-am.
+# text = ǁîgu ge ǂhau ǃhūb ai ǀgui ǀarisa go hō-am.
 # english = They only managed to extinguish the fire on the plain.
 1	ǁîgu	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	7:nsubj:xsubj|10:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
@@ -15069,7 +15069,7 @@
 1	ǃAo-am	ǃao-am	ADV	_	_	2	advmod	2:advmod	_
 2	ǁan	ǁan	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
 3	hâ	hâ	AUX	PFV	Aspect=Perf	2	aux	2:aux	_
-4	aogu	ao	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	4:nsubj|10:nsubj	_
+4	aogu	ao	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	2:nsubj|10:nsubj	_
 5	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
 6	ǀnai	ǀnai	ADV	_	_	10	advmod	10:advmod	_
 7	ǀgoan	ǀgoa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	10	obj	10:obj	_
@@ -16081,7 +16081,7 @@
 13	ǀkhomxa	ǀkhomxa	ADJ	_	_	17	xcomp	17:xcomp	_
 14	tsî	tsî	CCONJ	_	_	16	cc	16:cc	_
 15	a	a	AUX	STAT.PRS	Tense=Pres	17	aux	17:aux	_
-16	ǂûmā	ǂûmā	VERB	_	Voice=Act	13	conj	13:conj|16:comp	_
+16	ǂûmā	ǂûmā	VERB	_	Voice=Act	13	conj	13:conj|17:xcomp	_
 17	ǁkha	ǁkhā	VERB	STAT	Typo=Yes|Voice=Act	0	root	0:root	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	17:punct	SpacesAfter=\n
 
@@ -16204,7 +16204,7 @@
 9	ta	ra	AUX	_	Aspect=Imp	12	aux	12:aux	_
 10	ǂkhari	ǂkhari	ADJ	_	_	11	amod	11:amod	_
 11	ǁhoararo-e	ǁhoara	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	12	obj	12:obj	_
-12	ǁgaro	ǁgaro	VERB	_	Voice=Act	15	ccomp	12:ccomp	_
+12	ǁgaro	ǁgaro	VERB	_	Voice=Act	15	ccomp	15:ccomp	_
 13	ǃkhaesa	ǃkhais	SCONJ	COMPL	Case=Acc|Typo=Yes	12	mark	12:mark	CorrectForm=ǃkhais
 14	ge	ge	AUX	_	Tense=Past	15	aux	15:aux	_
 15	mû	mû	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -16450,7 +16450,7 @@
 16	gorose	gorose	ADV	_	_	17	advmod	17:advmod|19:advmod	_
 17	ǁnâu	ǁnâu	VERB	_	Voice=Act	3	ccomp	3:ccomp	_
 18	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
-19	mû	mû	VERB	_	Voice=Act	17	conj	17:conj|3:ccomp	_
+19	mû	mû	VERB	_	Voice=Act	17	conj	3:ccomp|17:conj	_
 20	tama	tama	PART	NEG	Polarity=Neg	17	advmod	17:advmod|19:advmod	_
 21	hâ	hâ	AUX	PFV	Aspect=Perf	17	aux	17:aux|19:aux	SpaceAfter=No
 22	.	.	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
@@ -16669,7 +16669,7 @@
 15-16	ǀnaits	_	_	_	_	_	_	_	_
 15	ǀnai	ǀnai	ADV	_	_	22	advmod	22:advmod	_
 16	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	nsubj	22:nsubj	_
-17	kha	kha	AUX	INT	Mood=Int	22	aux	aux	_
+17	kha	kha	AUX	INT	Mood=Int	22	aux	22:aux	_
 18	īse	īse	ADV	_	_	19	advmod	19:advmod	_
 19	kai	kai	ADJ	_	_	20	amod	20:amod	_
 20	su-e	su	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	22	obj	22:obj	_
@@ -16713,7 +16713,7 @@
 14	khama	khama	ADP	_	_	13	case	13:case	SpaceAfter=No
 15	kō	kō	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
 16	kai	kai	ADJ	_	_	17	amod	17:amod	_
-17	sūsa	sū	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	17:obj|19:obj	_
+17	sūsa	sū	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	15:obj|19:obj	_
 18	ge	ge	AUX	_	Tense=Past	19	aux	19:aux	_
 19	kuru	kuru	VERB	_	Voice=Act	3	parataxis	3:parataxis	_
 20	hâ	hâ	AUX	PFV	Aspect=Perf	19	aux	19:aux	_

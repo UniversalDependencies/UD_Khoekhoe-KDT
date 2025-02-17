@@ -408,7 +408,7 @@
 1	Tare-i	tare	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	obl	5:obl	_
 2-3	xats	_	_	_	_	_	_	_	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
-3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj|12:nsubj:xsibj	_
+3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj|12:nsubj:xsubj	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5-6	ǀûs	_	_	_	_	_	_	_	_
 5	ǀû	ǀû	VERB	_	Voice=Act	0	root	0:root	_
@@ -563,7 +563,7 @@
 5	tsaoǃoreb	tsaoǃore	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	obl	9:nsubj|13:obl	_
 6	hîa	hîa	SCONJ	REL	_	9	mark	9:mark	_
 7	mûǂuidaos	mûǂuidao	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	obl	13:obl	_
-8	ai	ai	ADP	_	_	9	case	8:case	_
+8	ai	ai	ADP	_	_	9	case	9:case	_
 9-10	mâb	_	_	_	_	_	_	_	_
 9	mâ	mâ	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
 10	b	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	9	nsubj	5:ref|9:nsubj	_
@@ -910,7 +910,7 @@
 # sent_id = film_Bridge_67
 # text = Khoeb hîa sa klient-i xa ra ǂnoabaheb ge ǀgawi daob khoeseǀab ai ǃnari, tsî audosa ǃnaris di ǂgaeǂguisa ra ǂoaǃnâ, tsî koro khoegu tiga ra ǂgâu, nē koro khoegu ge tita go ǃgae î ta ǁîga ǂnûǁkhaeba sats sa mîǁguiba ǂanǃgâ tama hâ xui-ao.
 # english = The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys, the five guys who hired me to represent them because you're not honoring your claim.
-1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	7:nsubj:pass|14:nsubj23:nsubj|31:nsubj	_
+1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	7:nsubj:pass|14:nsubj|23:nsubj|31:nsubj	_
 2	hîa	hîa	SCONJ	REL	_	7	mark	7:mark	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	klient-i	klient	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
@@ -1564,7 +1564,7 @@
 1	Nēscafe	Nēscafe	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	4:punct	_
 3	ǃkhuniǃkhuni-ū	ǃkhuniǃkhuni-ū	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
-4	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	3:nsubj|1:conj	SpaceAfter=No
+4	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	8:punct	_
 6	ǀgam	ǀgam	NUM	_	NumType=Card	8	nummod	8:nummod	_
 7	suguri	suguri	NOUN	_	_	8	nmod:poss	8:nmod:poss	_
@@ -2081,7 +2081,7 @@
 8	(	(	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 9	ǀgoraǃgâs	ǀgoraǃgâ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 10	)	)	PUNCT	_	_	9	punct	9:punct	_
-11	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	17	nsubj	14:nsubj:xsubj17:nsubj	_
+11	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	17	nsubj	14:nsubj:xsubj|17:nsubj	_
 12	nēti	nēti	ADV	_	Deixis=Prox|PronType=Dem	14	advmod	14:advmod	_
 13	khoena	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	14	obj	14:obj	_
 14	aobē	aobē	VERB	_	Voice=Act	17	xcomp	17:xcomp	_
