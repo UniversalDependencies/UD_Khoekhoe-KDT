@@ -8952,7 +8952,7 @@
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_775
-# text = ǀKhī re, ǁgausi ta ge nî.
+# text = ǀKhī re, ǁgau si ta ge nî.
 # english = Come on, I'll show you.
 1	ǀKhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -16626,8 +16626,8 @@
 7	xawe	xawe	CCONJ	_	_	20	cc	20:cc	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	20:nsubj	_
 9	ge	ge	AUX	DECL	Mood=Ind	20	aux	20:aux	_
-10	ǀgui	ǀguikuri	ADV	_	Typo=Yes	20	advmod	20:advmod	CorrectForm=ǀguikuri|CorrectSpaceAfter=No
-11	kuri	kuri	X	_	_	10	goeswith	10:goeswith	_
+10	ǀgui	ǀguikuri	ADV	_	Typo=Yes	20	advmod	20:advmod	CorrectSpaceAfter=No
+11	kuri	_	X	_	_	10	goeswith	10:goeswith	_
 12	ǁnas	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem|Typo=Yes	14	obl	14:obl	_
 13	xa	xa	ADP	_	_	12	case	12:case	_
 14	kai	kai	ADJ	_	_	15	amod	15:amod	_

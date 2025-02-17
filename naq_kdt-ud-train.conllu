@@ -20399,7 +20399,7 @@
 # sent_id = film_Bridge_1899
 # text = ǃGôasab Abeli ge go ǃnao-oahe tsî Berlins ǃnâ go ǁnāxūhe.
 # english = Mr. Abel has been deported and has been released in Berlin.
-1	ǃGôasab	ǃgôasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj:pass	5:nsub:pass|10:nsubj:pass	_
+1	ǃGôasab	ǃgôasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj:pass	5:nsubj:pass|10:nsubj:pass	_
 2	Abeli	Abel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	flat:title	1:flat:title	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux|10:aux	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux|10:aux	_
