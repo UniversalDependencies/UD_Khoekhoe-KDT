@@ -33,8 +33,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Witzlack-Makarevich, Alena; Tulchynska, Kira; Job, Sylvanus
+Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Michael Hahn
 Contributing: here
-Contact: witzlack@gmail.com
+Contact: kira.tulchynska@mail.huji.ac.il, witzlack@gmail.com
 ===============================================================================
 </pre>
