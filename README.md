@@ -51,7 +51,7 @@ Includes text: yes
 Genre: fiction grammar spoken
 Lemmas: manual native
 UPOS: manual native
-XPOS: not available
+XPOS: manual native
 Features: manual native
 Relations: manual native
 Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Michael Hahn
