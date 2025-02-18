@@ -48,7 +48,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: fiction grammar spoken
+Genre: fiction grammar-examples spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
