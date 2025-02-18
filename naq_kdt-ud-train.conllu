@@ -21767,7 +21767,7 @@
 1-2	tsîts	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	18	cc	18:cc	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	expl	18:expl	_
-3	komo	komo	AUX	ASSERT1	Mood=Ass	18	aux	18:aux	_
+3	komo	kom	AUX	ASSERT1	Mood=Ass	18	aux	18:aux	_
 4	satsa	sa	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nsubj	18:nsubj	_
 5-6	hōts	_	_	_	_	_	_	_	_
 5	hō	hō	VERB	_	Voice=Act	9	acl:relcl	9:acl:relcl	_

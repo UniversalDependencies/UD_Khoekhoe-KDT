@@ -2508,7 +2508,7 @@
 2	ûib	ûi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
 3	ai	ai	ADP	_	_	2	case	2:case	_
 4	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
-5	komo	komo	AUX	ASSERT1	Mood=Ass	8	aux	8:aux	_
+5	komo	kom	AUX	ASSERT1	Mood=Ass	8	aux	8:aux	_
 6	sîsen-e	sîsen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 7	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
 8	ǃgom	ǃgom	ADJ	_	_	0	root	0:root	_
@@ -2837,7 +2837,7 @@
 3	Beras	Bera	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	ccomp	8:ccomp	SpaceAfter=No
 4	"	"	PUNCT	_	_	3	punct	3:punct	_
 5	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-6	komo	komo	AUX	ASSERT1	Mood=Ass	8	aux	8:aux	_
+6	komo	kom	AUX	ASSERT1	Mood=Ass	8	aux	8:aux	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
 8-9	mîo	_	_	_	_	_	_	_	_
 8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
