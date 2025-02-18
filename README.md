@@ -9,8 +9,7 @@
 
 
 # Acknowledgments
-
-...
+Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
 
 ## References
 
