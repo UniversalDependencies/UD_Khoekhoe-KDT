@@ -9,8 +9,7 @@
 
 
 # Acknowledgments
-
-...
+Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
 
 ## References
 
@@ -34,8 +33,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Witzlack, Alena; Tulchynska, Kira; Job, Sylvanus
+Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Michael Hahn
 Contributing: here
-Contact: witzlack@gmail.com
+Contact: kira.tulchynska@mail.huji.ac.il, witzlack@gmail.com
 ===============================================================================
 </pre>
