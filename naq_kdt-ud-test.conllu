@@ -6744,7 +6744,7 @@
 1	ǂŌ	ǂō	VERB	_	Voice=Act	9	advcl	9:advcl	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
-4	mâ	mâ	AUX	_	_	1	aux	1:aux	_
+4	mâ	mâ	VERB	_	Voice=Act	1	compound:svc	1:compound:svc	_
 5	hina	hina	SCONJ	_	_	1	mark	1:mark	_
 6	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 7	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
@@ -8722,7 +8722,7 @@
 12	Montereys	Monterey	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	obl	16:obl	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ge	ge	AUX	_	Tense=Past	16	aux	16:aux	_
-15	sī	sī	AUX	_	_	16	aux	16:aux	_
+15	sī	sī	VERB	_	Voice=Act	16	compound:svc	16:compound:svc	_
 16	sîsen	sîsen	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 17	,	,	PUNCT	_	_	30	punct	30:punct	_
 18	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	30	advmod	30:advmod	_
@@ -10256,7 +10256,7 @@
 3-4	îta	_	_	_	_	_	_	_	_
 3	î	î	SCONJ	_	_	7	mark	7:mark	_
 4	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
-5	sī	sī	AUX	_	_	7	aux	7:aux	_
+5	sī	sī	VERB	_	Voice=Act	7	compound:svc	7:compound:svc	_
 6	plaassîsenro-e	plaassîsen	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	OrigLang=af
 7	ǁkhāǁkhā	ǁkhāǁkhā	VERB	_	Voice=Act	1	advcl	1:advcl	_
 8	tsi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	7:obj	SpaceAfter=No
@@ -10467,7 +10467,7 @@
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-5	sī	sī	AUX	_	_	6	aux	6:aux	_
+5	sī	sī	VERB	_	Voice=Act	6	compound:svc	6:compound:svc	_
 6	ǂnan	ǂnan	VERB	_	Voice=Act	8	advcl	8:advcl	_
 7	o	o	SCONJ	_	_	6	mark	6:mark	_
 8	nē	nē	ADV	PROX	Deixis=Prox|PronType=Dem	0	root	0:root	SpacesAfter=\n
@@ -10829,7 +10829,7 @@
 1	tsî	tsî	CCONJ	_	_	5	nsubj	5:nsubj	_
 2	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
 3	ǁnā	ǁnā	ADV	DIST	Deixis=Remt|PronType=Dem	5	advmod	5:advmod	_
-4	sī	sī	AUX	_	_	5	aux	5:aux	_
+4	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
 5	khuihe	khui	VERB	_	Voice=Pass	11	advcl	11:advcl	_
 6	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
 7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
@@ -10926,12 +10926,12 @@
 9	ai	ai	ADP	_	_	8	case	8:case	_
 10	ǁnātikō	ǁnātikō	ADJ	_	_	11	amod	11:amod	_
 11	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	obl	18:obl	_
-12	sī	sī	AUX	_	_	18	aux	18:aux	_
+12	sī	sī	VERB	_	Voice=Act	18	compound:svc	18:compound:svc	_
 13	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	14	det	14:det	_
 14	plaas	plaas	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	obl	18:obl	OrigLang=af
 15	ai	ai	ADP	_	_	14	case	14:case	_
 16	ge	ge	AUX	_	Tense=Past	18	aux	18:aux	_
-17	sī	sī	AUX	_	_	18	aux	18:aux	_
+17	sī	sī	VERB	_	Voice=Act	18	compound:svc	18:compound:svc	_
 18	sîsen	sî	VERB	_	Voice=Refl	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_64
@@ -10955,7 +10955,7 @@
 5	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	2:obj|9:obj	_
 6	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	_
 7	ra	ra	AUX	_	Aspect=Imp	9	aux	9:aux	_
-8	sī	sī	AUX	_	_	9	aux	9:aux	_
+8	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 9	ǁkhāǁkhāsen	ǁkhāǁkhāsen	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_66
@@ -10977,7 +10977,7 @@
 # english = I am the one that is being left at the farm
 1	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
-3	sī	sī	AUX	_	_	4	aux	4:aux	_
+3	sī	sī	VERB	_	Voice=Act	4	compound:svc	4:compound:svc	_
 4	xūhe	xū	VERB	_	Voice=Pass	0	root	0:root	_
 5	koma	koma	AUX	_	Evident=Nfh	4	aux	4:aux	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	9:punct	_
@@ -11188,7 +11188,7 @@
 1	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	vier	vier	NUM	_	NumType=Card	3	nummod	3:nummod	OrigLang=af
 3	randsa	rand	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-4	sī	sī	AUX	_	_	6	aux	6:aux	_
+4	sī	sī	VERB	_	Voice=Act	6	compound:svc	6:compound:svc	_
 5	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	6	advmod	6:advmod	_
 6	ǂkhôa	ǂkhôa	VERB	_	Voice=Act	0	root	0:root	_
 7	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
@@ -11200,7 +11200,7 @@
 # english = "go put those there" he would tell you
 1	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 2	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
-3	sī	sī	AUX	_	_	4	aux	4:aux	_
+3	sī	sī	VERB	_	Voice=Act	4	compound:svc	4:compound:svc	_
 4	mâi	mâi	VERB	_	Voice=Act	7	ccomp	7:ccomp	SpaceAfter=No
 5	"	"	PUNCT	_	_	4	punct	4:punct	_
 6	ti	ti	PART	QUOT	_	4	mark	4:mark	_
@@ -11257,7 +11257,7 @@
 11	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	10	obj	5:ref|10:obj	_
 12	naupa	naupa	ADV	_	Deixis=Prox|PronType=Dem	16	advmod	16:advmod	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	16	aux	16:aux	_
-14	sī	sī	AUX	_	_	16	aux	16:aux	_
+14	sī	sī	VERB	_	Voice=Act	16	compound:svc	16:compound:svc	_
 15	geniet	geniet	VERB	_	Voice=Act	16	xcomp	16:xcomp	OrigLang=af
 16	ūhe	ū	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
@@ -11307,7 +11307,7 @@
 4	ǁnāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	11	advmod	11:advmod	_
 5	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	sī	sī	AUX	_	_	11	aux	11:aux	_
+7	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
 8	ǀnî	ǀnî	DET	_	PronType=Ind	9	det	9:det	_
 9	ǀkhāb	ǀkhā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
 10	ai	ai	ADP	_	_	9	case	9:case	_
@@ -11315,7 +11315,7 @@
 12	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	11	aux	11:aux	_
 13	o	o	SCONJ	_	_	11	mark	11:mark	_
 14	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	16	aux	16:aux	_
-15	sī	sī	AUX	_	_	16	aux	16:aux	_
+15	sī	sī	VERB	_	Voice=Act	16	compound:svc	16:compound:svc	_
 16	ǁnâu	ǁnâu	VERB	_	Voice=Act	0	root	0:root	_
 17	ǀnî	ǀnî	ADJ	_	_	18	amod	18:amod	_
 18	ǀhûb	ǀhû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj	22:nsubj|25:nsubj	_
@@ -11612,7 +11612,7 @@
 # text = o sī kans tsî Overmeer xūhâna Overmeer kanhâna ǃnagasī hâ ǁnā tsî ǂnauǁnâhe ǀkhāb ai
 # english = And that Overmeer drink stuff would go down on the side where you would be beaten down
 1	o	o	ADV	_	_	9	advmod	9:advmod	_
-2	sī	sī	AUX	_	_	9	aux	9:aux	_
+2	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 3	kans	kan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	9:nsubj	OrigLang=af
 4	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
 5	Overmeer	Overmeer	ADJ	_	_	6	amod	6:amod	_
@@ -11645,7 +11645,7 @@
 8	kama	koma	AUX	_	Evident=Nfh|Typo=Yes	10	aux	10:aux	_
 9	sîsen-e	sîsen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	_
 10	ôaǃgû	ôaǃgû	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
-11	sī	sī	AUX	_	_	10	aux	10:aux	_
+11	sī	sī	VERB	_	Voice=Act	10	compound:svc	10:compound:svc	_
 12	tsî	tsî	CCONJ	_	_	20	cc	20:cc	_
 13	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
 14	ID'sa	ID	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	nsubj	16:nsubj	_
@@ -11742,7 +11742,7 @@
 1	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 3	go	go	AUX	_	Tense=RecPast	9	aux	9:aux	_
-4	sī	sī	AUX	_	_	9	aux	9:aux	_
+4	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 5	ǃnurus	ǃnuru	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	7:obl	_
 6	khami	khami	ADP	_	_	5	case	5:case	_
 7	ī	ī	VERB	_	Voice=Act	8	acl:relcl	8:acl:relcl	_
@@ -11997,14 +11997,14 @@
 1	nēsi	nēsi	ADV	_	_	7	advmod	7:advmod	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
 3	ga	ga	AUX	POT	Mood=Pot	7	aux	7:aux	_
-4	sī	sī	AUX	_	_	7	aux	7:aux	_
+4	sī	sī	VERB	_	Voice=Act	7	compound:svc	7:compound:svc	_
 5	yard-e	yard	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	OrigLang=en
 6	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	7	aux	7:aux	_
 7-8	harkes	_	_	_	_	_	_	_	_
 7	harke	harke	VERB	_	Voice=Act	11	advcl	11:advcl	_
 8	s	s	SCONJ	NMLZ	Case=Nom	7	mark	7:mark	_
-9	sī	sī	AUX	_	_	11	aux	11:aux	_
-10	sī	sī	AUX	_	_	11	aux	11:aux	_
+9	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
+10	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
 11-12	sîsenits	_	_	_	_	_	_	_	SpacesAfter=\n
 11	sîseni	sîsen	VERB	_	Voice=Act	0	root	0:root	_
 12	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
@@ -12093,13 +12093,13 @@
 7	ǁnāhâna	ǁnā	DET	_	Assoc=Yes|Case=Acc|Deixis=Remt|Gender=Neut|Number=Plur|Person=3|PronType=Dem	6	det	6:det	_
 8	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 9	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-10	sī	sī	AUX	_	_	11	aux	11:aux	_
+10	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
 11	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 12	i	i	AUX	_	Tense=Fut,Past,RecPast	11	aux	11:aux	_
 13	gūhâna	gū	NOUN	_	Assoc=Yes|Case=Acc|Gender=Neut|Number=Plur|Person=3	18	obj	18:obj	_
 14	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
 15	ge	ge	AUX	_	Tense=Past	18	aux	18:aux	_
-16	sī	sī	AUX	_	_	18	aux	18:aux	_
+16	sī	sī	VERB	_	Voice=Act	18	compound:svc	18:compound:svc	_
 17	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	18	advmod	18:advmod	_
 18	hâ	hâ	VERB	COP.LOC	Voice=Act	11	parataxis	11:parataxis	_
 19	i	i	AUX	_	Tense=Fut,Past,RecPast	18	aux	18:aux	SpacesAfter=\n
@@ -12203,12 +12203,12 @@
 # english = But now can you at least go and be taught a language even if you do not know
 1	O	o	ADV	_	_	3	advmod	3:advmod	_
 2	nēsisa	nēsisa	ADV	_	_	3	advmod	3:advmod	_
-3	sī	sī	AUX	_	_	0	root	0:root	_
+3	sī	sī	VERB	_	Voice=Act	0	root	0:root	_
 4-5	tsîts	_	_	_	_	_	_	_	_
 4	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 5	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
 6	ga	ga	AUX	POT	Mood=Pot	14	aux	14:aux	_
-7	sī	sī	AUX	_	_	14	aux	14:aux	_
+7	sī	sī	VERB	_	Voice=Act	14	compound:svc	14:compound:svc	_
 8	ten	ten	ADP	_	Foreign=Yes	9	case	9:case	_
 9	minste	minste	NOUN	_	Foreign=Yes	14	obl	14:obl	_
 10-11	ǀūts	_	_	_	_	_	_	_	_
@@ -12254,7 +12254,7 @@
 10	mâpa	mâpa	ADV	_	PronType=Int	14	advmod	14:advmod	_
 11	u	u	ADP	_	_	10	case	10:case	_
 12	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
-13	sī	sī	AUX	_	_	14	aux	14:aux	_
+13	sī	sī	VERB	_	Voice=Act	14	compound:svc	14:compound:svc	_
 14	ǃkharu	ǃkharu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_167
@@ -12436,7 +12436,7 @@
 9	tsî	tsî	CCONJ	_	_	16	cc	16:cc	_
 10	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 11	ôaba	ôa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obj	16:obj	_
-12	sī	sī	AUX	_	_	16	aux	16:aux	_
+12	sī	sī	VERB	_	Voice=Act	16	compound:svc	16:compound:svc	_
 13	ǁgammi	ǁgam	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	obl	16:obl	_
 14	ǃnâ	ǃnâ	ADP	_	_	13	case	13:case	_
 15	a	a	AUX	_	Aspect=Punct	16	aux	16:aux	_
@@ -12469,7 +12469,7 @@
 1	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-4	sī	sī	AUX	_	_	5	aux	5:aux	_
+4	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
 5	ǂnan	ǂnan	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_180
@@ -12486,14 +12486,14 @@
 2	"	"	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
 3	ja	ja	INTJ	_	Foreign=Yes|Polarity=Pos	11	discourse	11:discourse	_
 4-5	sīts	_	_	_	_	_	_	_	_
-4	sī	sī	AUX	_	_	11	advcl	11:advcl	_
+4	sī	sī	VERB	_	Voice=Act	11	advcl	11:advcl	_
 5	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 6	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	4	aux	4:aux	_
 7-8	ots	_	_	_	_	_	_	_	_
 7	o	o	ADV	_	_	11	advmod	11:advmod	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
 9	ti	ti	ADV	_	_	11	advmod	11:advmod	_
-10	sī	sī	AUX	_	_	11	aux	11:aux	_
+10	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
 11	tsû	tsû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	ccomp	17:ccomp	SpaceAfter=No
 12	"	"	PUNCT	_	_	11	punct	11:punct	_
 13	ti	ti	PART	QUOT	_	11	mark	11:mark	_
@@ -12599,7 +12599,7 @@
 4	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	5	det	5:det	_
 5	garage	garage	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
 6	ǃnâ	ǃnâ	ADP	_	_	5	case	5:case	_
-7	sī	sī	AUX	_	_	8	aux	8:aux	_
+7	sī	sī	VERB	_	Voice=Act	8	compound:svc	8:compound:svc	_
 8	ǂgâ	ǂgâ	VERB	_	Voice=Act	0	root	0:root	_
 9	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
 10	nau	nau	ADV	DIST.CONTR	Deixis=Contr|PronType=Dem	11	advmod	11:advmod	_
@@ -12610,7 +12610,7 @@
 14	se	se	SCONJ	MANNER	_	11	mark	11:mark	_
 15	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	16	det	16:det	_
 16	maukunatga	maukunat	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	19	obj	19:obj	_
-17	sī	sī	AUX	_	_	19	aux	19:aux	_
+17	sī	sī	VERB	_	Voice=Act	19	compound:svc	19:compound:svc	_
 18	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
 19	sîsenǂam	sîsenǂam	VERB	_	Voice=Act	8	conj	8:conj	SpacesAfter=\n
 
@@ -12654,11 +12654,11 @@
 3	tsîna	tsîn	ADV	_	Case=Acc	2	fixed	2:fixed	_
 4	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
 5	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	12	aux	12:aux	_
-6	sī	sī	AUX	_	_	12	aux	12:aux	_
+6	sī	sī	VERB	_	Voice=Act	12	compound:svc	12:compound:svc	_
 7	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	8	det	8:det	_
 8	ǀkhāgu	ǀkhā	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obl	12:obl	_
 9	ai	ai	ADP	_	_	8	case	8:case	_
-10	sī	sī	AUX	_	_	12	aux	12:aux	_
+10	sī	sī	VERB	_	Voice=Act	12	compound:svc	12:compound:svc	_
 11	hâ	hâ	AUX	PFV	Aspect=Perf	12	aux	12:aux	_
 12	ūhe	ū	VERB	_	Voice=Pass	0	root	0:root	_
 13	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	14	det	14:det	_
@@ -12867,7 +12867,7 @@
 12	mûdi	mû	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	16	obl	16:obl	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ge	ge	AUX	_	Tense=Past	16	aux	16:aux	_
-15	sī	sī	AUX	_	_	16	aux	16:aux	_
+15	sī	sī	VERB	_	Voice=Act	16	compound:svc	16:compound:svc	_
 16	ǁgâiro	ǁgâi	VERB	_	Degree=Dim|Voice=Act	9	conj	9:conj	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_207
@@ -13072,7 +13072,7 @@
 4	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 5	hâ-â	hâ-â	INTJ	_	Polarity=Neg	8	discourse	8:discourse	_
 6	ǃkhairosa	ǃkhai	NOUN	_	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	8	obj	8:obj	_
-7	sī	sī	AUX	_	_	8	aux	8:aux	_
+7	sī	sī	VERB	_	Voice=Act	8	compound:svc	8:compound:svc	_
 8	kuru	kuru	VERB	_	Voice=Act	0	root	0:root	_
 9	[	[	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 10	kaikhoen	kaikhoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	13	reparandum	13:reparandum	_
@@ -13093,7 +13093,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 4	ega	ega	ADV	_	_	7	advmod	7:advmod	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-6	sī	sī	AUX	_	_	7	aux	7:aux	_
+6	sī	sī	VERB	_	Voice=Act	7	compound:svc	7:compound:svc	_
 7	mîhe	mî	VERB	_	Voice=Pass	0	root	0:root	_
 8	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 9	hâ-â	hâ-â	INTJ	_	Polarity=Neg	10	discourse	10:discourse	_
@@ -13451,7 +13451,7 @@
 5	o	o	SCONJ	_	_	4	mark	4:mark	_
 6	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	_
 7	tsîna	tsîn	ADV	_	Case=Acc	6	advmod:emph	6:advmod:emph	_
-8	sī	sī	AUX	_	_	9	aux	9:aux	_
+8	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 9	ǃnari	ǃnari	VERB	_	Voice=Act	0	root	0:root	_
 10	tsî	tsî	CCONJ	_	_	11	cc	11:cc	_
 11	sâu	sâu	VERB	_	Voice=Act	9	conj	9:conj	_
@@ -13566,7 +13566,7 @@
 # text = nē-e sī nēpa daisi [nēro] nēro-e mâ tama hâ-e ǀgaib ǃnâ ǀao-amǃnâro
 # english = Gave this milk this side and forcefully gave milk to the little ones that could not stand and so on
 1	nē-e	nē	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	_
-2	sī	sī	AUX	_	_	4	aux	4:aux	_
+2	sī	sī	VERB	_	Voice=Act	4	compound:svc	4:compound:svc	_
 3	nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	4	advmod	4:advmod	_
 4	daisi	daisi	VERB	_	Voice=Act	0	root	0:root	_
 5	[	[	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
@@ -13853,7 +13853,7 @@
 1	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-4	sī	sī	AUX	_	_	5	aux	5:aux	_
+4	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
 5	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	_
 6	i	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast	5	aux	5:aux	SpacesAfter=\n
 
@@ -14170,7 +14170,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 4	ǀnîtsē	ǀnîtsē	ADV	_	_	8	advmod	8:advmod	_
 5	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
-6	sī	sī	AUX	_	_	8	aux	8:aux	_
+6	sī	sī	VERB	_	Voice=Act	8	compound:svc	8:compound:svc	_
 7	hou	hou	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
 8	ǁoa	ǁoa	VERB	_	Voice=Act	0	root	0:root	_
 9	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
@@ -14313,7 +14313,7 @@
 9	ǂnauhe	ǂnau	VERB	_	Voice=Pass	0	root	0:root	_
 10	tsî	tsî	CCONJ	_	_	13	cc	13:cc	_
 11	naupa	naupa	ADV	_	Deixis=Remt|PronType=Dem	13	advmod	13:advmod	_
-12	sī	sī	AUX	_	_	13	aux	13:aux	_
+12	sī	sī	VERB	_	Voice=Act	13	compound:svc	13:compound:svc	_
 13	ǂnauhe	ǂnau	VERB	_	Voice=Pass	9	conj	9:conj	_
 14	tsî	tsî	CCONJ	_	_	15	cc	15:cc	_
 15	mîbahe	mîba	VERB	_	Voice=Pass	9	conj	9:conj	SpacesAfter=\n
@@ -14523,7 +14523,7 @@
 18	man	ma	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	19	nmod:poss	19:nmod:poss	_
 19	farms	farm	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	22	obl	22:obl	OrigLang=en
 20	ǁga	ǁga	ADP	_	_	19	case	19:case	_
-21	sī	sī	AUX	_	_	22	aux	22:aux	_
+21	sī	sī	VERB	_	Voice=Act	22	compound:svc	22:compound:svc	_
 22	bel	bel	VERB	_	Voice=Act	10	conj	10:conj	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_337
@@ -15948,7 +15948,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux|16:aux	_
 4	ǁhoas	ǁhoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	7:obl	_
 5	ǃna	ǃna	ADP	_	_	4	case	4:case	_
-6	sī	sī	AUX	_	_	7	aux	7:aux	_
+6	sī	sī	VERB	_	Voice=Act	7	compound:svc	7:compound:svc	_
 7	ǁan	ǁan	VERB	_	Voice=Act	0	root	0:root	_
 8	tsî	tsî	CCONJ	_	_	16	cc	16:cc	_
 9	tsēgorobe	tsēgorobe	ADJ	_	_	12	amod	12:amod	_
@@ -16221,7 +16221,7 @@
 5	aoba	ao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
 6	ǃgarob	ǃgaro	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
 7	ǃna	ǃna	ADP	_	_	6	case	6:case	_
-8	sī	sī	AUX	_	_	11	aux	11:aux	_
+8	sī	sī	VERB	_	Voice=Act	11	compound:svc	11:compound:svc	_
 9	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	11	aux	11:aux	CorrectSpaceAfter=No
 10	re	_	X	_	_	9	goeswith	9:goeswith	_
 11	ǃgûma	ǃgûma	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No

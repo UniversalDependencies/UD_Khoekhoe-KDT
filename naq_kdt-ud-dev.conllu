@@ -206,9 +206,9 @@
 3	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
 4	re	re	AUX	PDIR	Mood=Imp	3	aux	3:aux	_
 5	î	î	SCONJ	_	_	9	mark	9:mark	_
-6	sī	sī	AUX	_	_	9	aux	9:aux	_
+6	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 7	audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	9:obj	_
-8	sī	sī	AUX	_	_	9	aux	9:aux	_
+8	sī	sī	VERB	_	Voice=Act	9	compound:svc	9:compound:svc	_
 9	ǃnarimâi	ǃnarimâi	VERB	_	Voice=Act	3	advcl	3:advcl	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -1553,7 +1553,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	koffie-e	koffie	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	_
-5	sī	sī	AUX	_	_	7	aux	7:aux	_
+5	sī	sī	VERB	_	Voice=Act	7	compound:svc	7:compound:svc	_
 6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
 7	ū	ū	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
@@ -2564,7 +2564,7 @@
 4	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	0	root	0:root	_
 5	axaba	axa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
 6	nî	nî	AUX	FUT	Tense=Fut	8	aux	8:aux	_
-7	sī	sī	AUX	_	_	8	aux	8:aux	_
+7	sī	sī	VERB	_	Voice=Act	8	compound:svc	8:compound:svc	_
 8	ôa	ôa	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
 9	e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	nsubj	3:ref|8:nsubj	SpacesAfter=\n
 
@@ -2747,7 +2747,7 @@
 # english = when you come on Thursday, …
 1	Donertaxtsēs	Donertaxtsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	5:obl	OrigLang=af
 2-3	sīts	_	_	_	_	_	_	_	_
-2	sī	sī	AUX	_	_	5	aux	5:aux	_
+2	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
 3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 4	ga	ga	AUX	POT	Mood=Pot	5	aux	5:aux	_
 5	sī	sī	VERB	_	Voice=Act	11	advcl	11:advcl	_
