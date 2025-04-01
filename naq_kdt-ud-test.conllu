@@ -12527,7 +12527,7 @@
 7	ǂoa	ǂoa	VERB	_	Voice=Act	0	root	0:root	_
 8	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
 9	[	[	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-10	ǀnowa	ǀnowa	VERB	_	Voice=Act	12	reparandum	12:reparandum	SpaceAfter=No
+10	ǀnowa	ǀnowa	X	_	_	12	reparandum	12:reparandum	SpaceAfter=No
 11	]	]	PUNCT	_	_	10	punct	10:punct	_
 12	ǀnowasao	ǀnowasao	VERB	_	Voice=Act	7	conj	7:conj	_
 13	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	7:nsubj|12:nsubj	_
