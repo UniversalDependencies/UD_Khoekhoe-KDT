@@ -237,7 +237,7 @@
 # text = ǀAwaǃnamtse dawasen ǁkhāts a?
 # english = Colonel, would you turn around, please?
 1	ǀAwaǃnamtse	ǀawaǃnam	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	3	vocative	3:vocative	_
-2	dawasen	dawa	VERB	_	Voice=Refl	3	xcomp	3:xcomp	_
+2	dawasen	dawa	VERB	_	Voice=Rfl	3	xcomp	3:xcomp	_
 3-4	ǁkhāts	_	_	_	_	_	_	_	_
 3	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
 4	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	2:nsubj:xsubj|3:nsubj	_
@@ -1959,7 +1959,7 @@
 4	Nuremberg	Nuremberg	PROPN	_	_	7	obl	7:obl	_
 5	tawa	tawa	ADP	_	_	4	case	4:case	_
 6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-7	ǁgauǂuisen	ǁgauǂui	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+7	ǁgauǂuisen	ǁgauǂui	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_137

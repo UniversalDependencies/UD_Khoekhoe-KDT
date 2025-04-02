@@ -1071,7 +1071,7 @@
 11	ī	ī	VERB	_	Voice=Act	12	acl:relcl	12:acl:relcl	_
 12	khoena	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	15	obl	11:nsubj|15:obl	_
 13	xu	xu	ADP	_	_	12	case	12:case	_
-14	sâusen	sâu	VERB	_	Voice=Refl	15	xcomp	15:xcomp	_
+14	sâusen	sâu	VERB	_	Voice=Rfl	15	xcomp	15:xcomp	_
 15	ǁkhā	ǁkhā	VERB	_	Voice=Act	5	advcl	5:advcl	_
 16	ga	ga	AUX	POT	Mood=Pot	15	aux	15:aux	SpaceAfter=No
 17	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -1237,7 +1237,7 @@
 1	Oh	oh	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	aitsama	aitsama	ADV	_	_	4	advmod	4:advmod	_
-4	ǃgâsen	ǃgâ	VERB	_	Voice=Refl	0	root	0:root	_
+4	ǃgâsen	ǃgâ	VERB	_	Voice=Rfl	0	root	0:root	_
 5	re	re	AUX	PDIR	Mood=Imp	4	aux	4:aux	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -1261,7 +1261,7 @@
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	ǂhomisen	ǂhomi	VERB	_	Voice=Refl	0	root	0:root	SpacesAfter=\n
+5	ǂhomisen	ǂhomi	VERB	_	Voice=Rfl	0	root	0:root	SpacesAfter=\n
 
 # sent_id = film_Bridge_200
 # text = Sats ge go mî o ǁî-i ǂamats ge ǂâis ǀguisa ra hî.
@@ -4428,7 +4428,7 @@
 11	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 12	tā	tā	AUX	PROH	Mood=Prh	14	aux	14:aux	_
 13	ǁnāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	14	advmod	14:advmod	_
-14	dīsen	dī	VERB	_	Voice=Refl	10	conj	10:conj	_
+14	dīsen	dī	VERB	_	Voice=Rfl	10	conj	10:conj	_
 15	re	re	AUX	PDIR	Mood=Imp	10	aux	10:aux	SpaceAfter=No
 16	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
@@ -4577,7 +4577,7 @@
 1	ǁGā	ǁgā	ADP	_	_	4	xcomp	4:xcomp	_
 2	khama	khama	ADP	_	_	1	case	1:case	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
-4	mûsen	mû	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+4	mûsen	mû	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_470
@@ -5136,7 +5136,7 @@
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	nî	nî	AUX	FUT	Tense=Fut	5	aux	5:aux	_
-5	ūǂuibasen	ūǂui	VERB	_	Voice=ApplRefl	0	root	0:root	SpaceAfter=No
+5	ūǂuibasen	ūǂui	VERB	_	Voice=ApplRfl	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_518
@@ -5341,7 +5341,7 @@
 4	Berti	Bert	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
 5	khami	khami	ADP	_	_	4	case	4:case	_
 6	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	7	aux	7:aux	_
-7	sâusen	sâu	VERB	_	Voice=Refl	13	advcl	13:advcl	_
+7	sâusen	sâu	VERB	_	Voice=Rfl	13	advcl	13:advcl	_
 8	o	o	SCONJ	_	_	7	mark	7:mark	SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	7:punct	_
 10-11	ots	_	_	_	_	_	_	_	_
@@ -7005,7 +7005,7 @@
 14	sada	sa	PRON	_	Clusivity=In|Gender=Neut|Number=Plur|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
 15	huiose	huiose	ADV	_	_	17	advmod	17:advmod	_
 16	ra	ra	AUX	IPFV	Aspect=Imp	17	aux	17:aux	_
-17	mâisen	mâi	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+17	mâisen	mâi	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	17:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_664
@@ -7557,7 +7557,7 @@
 6	hoaǁae	hoaǁae	ADV	_	PronType=Tot	9	advmod	9:advmod	_
 7	ǀgaisase	ǀgaisase	ADV	_	_	9	advmod	9:advmod	_
 8	nî	nî	AUX	FUT	Tense=Fut	9	aux	9:aux	_
-9	ǁgausen	ǁgau	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+9	ǁgausen	ǁgau	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_714
@@ -7959,7 +7959,7 @@
 # english = Upstairs!
 1	ǀGawi	ǀgawi	ADJ	_	_	2	acl	2:acl	_
 2	dao-amdāǃharodi	dao-amdāǃharo	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
-3	!	!	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_750
 # text = Hoadu a ǃgâi?
@@ -10240,7 +10240,7 @@
 7-8	aits	_	_	_	_	_	_	_	_
 7	ai	ai	ADP	_	_	5	case	5:case	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj|23:nsubj	_
-9	ǃgîbasen	ǃgî	VERB	_	Voice=ApplRefl	4	ccomp	4:ccomp	_
+9	ǃgîbasen	ǃgî	VERB	_	Voice=ApplRfl	4	ccomp	4:ccomp	_
 10-11	titesa	_	_	_	_	_	_	_	_
 10	tite	tite	AUX	FUT.NEG	Polarity=Neg|Tense=Fut	9	aux	9:aux	_
 11	s	s	SCONJ	NMLZ	Case=Nom	9	mark	9:mark	_
@@ -10584,7 +10584,7 @@
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	dadab	dada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-4	ǀgawiǁkhāǁkhāsen	ǀgawiǁkhāǁkhā	VERB	_	Voice=Refl	5	acl	5:acl	_
+4	ǀgawiǁkhāǁkhāsen	ǀgawiǁkhāǁkhā	VERB	_	Voice=Rfl	5	acl	5:acl	_
 5	ǃkhaiba	ǃkhai	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
 6	ǃoa	ǃoa	ADP	_	_	5	case	5:case	_
 7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
@@ -11018,7 +11018,7 @@
 9	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 10	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
 11-12	ǃkhōbasen-e	_	_	_	_	_	_	_	SpaceAfter=No
-11	ǃkhōbasen	ǃkhō	VERB	_	Voice=ApplRefl	1	acl	1:acl	_
+11	ǃkhōbasen	ǃkhō	VERB	_	Voice=ApplRfl	1	acl	1:acl	_
 12	-e	_	PRON	REL	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	11	obl	11:obl	_
 13	.	.	PUNCT	_	_	3	punct	3:punct	_
 
@@ -11267,7 +11267,7 @@
 5	î	î	SCONJ	_	_	8	mark	8:mark	_
 6	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 7	ǁuisâuǁkhāsiba	ǁuisâuǁkhāsi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	8:obj	_
-8	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Refl	4	advcl	4:advcl	SpaceAfter=No
+8	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	4	advcl	4:advcl	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1028
@@ -11857,7 +11857,7 @@
 5	o	o	SCONJ	_	_	4	mark	4:mark	_
 6	xa	xa	ADP	_	_	4	case	4:case	_
 7	ǁnātikōse	ǁnātikōse	ADV	_	_	8	advmod	8:advmod	_
-8	ǂâiǂhansen	ǂâiǂhan	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+8	ǂâiǂhansen	ǂâiǂhan	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1092
@@ -12126,7 +12126,7 @@
 # text = Amase ǃâubasen rase kaise ǃgâise hâ.
 # english = As good as can be expected.
 1	Amase	amase	ADV	_	_	2	advmod	2:advmod	_
-2	ǃâubasen	ǃâu	VERB	_	Voice=ApplRefl	6	advcl	6:advcl	_
+2	ǃâubasen	ǃâu	VERB	_	Voice=ApplRfl	6	advcl	6:advcl	_
 3-4	rase	_	_	_	_	_	_	_	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	_
 4	se	se	SCONJ	MANNER	_	2	mark	2:mark	_
@@ -13871,7 +13871,7 @@
 # text = American ǁkhāǁkhāsen ra ǀgôaba da ge Russianni ǀkha nî māǃkhuni.
 # english = The exchange on offer is a Russian at the end of his life for an American student at the start of his.
 1	American	American	ADJ	_	_	4	amod	4:amod	_
-2	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Refl	4	acl:relcl	4:acl:relcl	_
+2	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	4	acl:relcl	4:acl:relcl	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	_
 4	ǀgôaba	ǀgôa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obj	10:obj	_
 5	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
@@ -14369,7 +14369,7 @@
 # english = He didn't kill himself and he let the commies parade him on television.
 1	ǁÎb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	3	aux	3:aux	_
-3	ǃgamsen	ǃgam	VERB	_	Voice=Refl	0	root	0:root	_
+3	ǃgamsen	ǃgam	VERB	_	Voice=Rfl	0	root	0:root	_
 4	tama	tama	PART	NEG	Polarity=Neg	3	advmod	3:advmod	_
 5	ge	ge	AUX	_	Tense=Past	3	aux	3:aux	_
 6	i	i	AUX	NEG.AUX	_	3	aux	3:aux	_
@@ -14385,7 +14385,7 @@
 14	taotaohe	taotao	VERB	_	Voice=Pass	17	xcomp	17:xcomp	_
 15	sa	s	SCONJ	NMLZ	Case=Acc	14	mark	14:mark	_
 16	ge	ge	AUX	_	Tense=Past	17	aux	17:aux	_
-17	mā-amsen	mā-am	VERB	_	Voice=Refl	3	conj	3:conj	SpaceAfter=No
+17	mā-amsen	mā-am	VERB	_	Voice=Rfl	3	conj	3:conj	SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1341
@@ -16251,7 +16251,7 @@
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 4	nî	nî	AUX	FUT	Tense=Fut	5	aux	5:aux	_
-5	ǂanbasen	ǂanbasen	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+5	ǂanbasen	ǂanbasen	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1504
@@ -16350,7 +16350,7 @@
 7	hoa-e	hoa	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Tot	6	det	6:det	_
 8	xu	xu	ADP	_	_	6	case	6:case	_
 9	a	a	AUX	STAT.PRS	Tense=Pres	11	aux	11:aux	_
-10	ǃhoaǂuisen	ǃhoaǂui	VERB	_	Voice=Refl	11	xcomp	11:xcomp	_
+10	ǃhoaǂuisen	ǃhoaǂui	VERB	_	Voice=Rfl	11	xcomp	11:xcomp	_
 11	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
@@ -16825,7 +16825,7 @@
 # sent_id = film_Bridge_1559
 # text = ǂHomisen toa da ge go.
 # english = We're set.
-1	ǂHomisen	ǂhomi	VERB	_	Voice=Refl	2	xcomp	2:xcomp	_
+1	ǂHomisen	ǂhomi	VERB	_	Voice=Rfl	2	xcomp	2:xcomp	_
 2	toa	toa	VERB	_	Voice=Act	0	root	0:root	_
 3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	2	aux	2:aux	_
@@ -17293,7 +17293,7 @@
 7	māǃkhunisa	māǃkhuni	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obl	10:obl	_
 8	ǃoa	ǃoa	ADP	_	_	7	case	7:case	_
 9	ra	ra	AUX	IPFV	Aspect=Imp	10	aux	10:aux	_
-10	māǁnâsen	māǁnâ	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+10	māǁnâsen	māǁnâ	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1599
@@ -17786,7 +17786,7 @@
 25	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	obl	24:nsubj|28:obl	_
 26	khama	khama	ADP	_	_	25	case	25:case	_
 27	ra	ra	AUX	IPFV	Aspect=Imp	28	aux	28:aux	_
-28	mûsen	mû	VERB	_	Voice=Refl	9	conj	9:conj	SpaceAfter=No
+28	mûsen	mû	VERB	_	Voice=Rfl	9	conj	9:conj	SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1646
@@ -19209,7 +19209,7 @@
 3	ǃnans	ǃnan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
 4	khama	khama	ADP	_	_	3	case	3:case	_
 5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	mûsen	mû	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+6	mûsen	mû	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1779
@@ -19371,7 +19371,7 @@
 10	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
 11	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
 12	ge	ge	AUX	_	Tense=Past	13	aux	13:aux	_
-13	tanisen	tani	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+13	tanisen	tani	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	13:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1794
@@ -20659,7 +20659,7 @@
 2	dairo-i	dairo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl	_
 3	ǀkha	ǀkha	ADP	_	_	2	case	2:case	_
 4	nēsisa	nēsisa	ADV	_	_	5	advmod	5:advmod	_
-5	besighousen	besighou	VERB	_	Voice=Refl	0	root	0:root	_
+5	besighousen	besighou	VERB	_	Voice=Rfl	0	root	0:root	_
 6	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
 7	dairo-e	dai	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	_
 8	ǃkhawe	ǃkhawe	VERB	_	Voice=Act	9	xcomp	9:xcomp	_
@@ -21028,7 +21028,7 @@
 11	go	go	AUX	_	Tense=RecPast	14	aux	14:aux	_
 12	Coronasa	Corona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obl	14:obl	OrigLang=en
 13	sī	sī	VERB	_	Voice=Act	14	compound:svc	14:compound:svc	_
-14	spuitsen	spuit	VERB	_	Voice=Refl	0	root	0:root	OrigLang=af|SpacesAfter=\n
+14	spuitsen	spuit	VERB	_	Voice=Rfl	0	root	0:root	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_441
 # text = ǀūts a
@@ -21049,7 +21049,7 @@
 5	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	9	det	9:det	_
 6	Coronas	Corona	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	OrigLang=en
 7-8	spuitsens	_	_	_	_	_	_	_	_
-7	spuitsen	spuit	VERB	_	Voice=Refl	9	acl	9:acl	_
+7	spuitsen	spuit	VERB	_	Voice=Rfl	9	acl	9:acl	_
 8	s	s	SCONJ	NMLZ	Case=Nom	7	mark	7:mark	_
 9	kaartjiehân	kaartjie	NOUN	_	Assoc=Yes|Case=Nom|Gender=Neut|Number=Plur|Person=3	12	obl	13:obl	OrigLang=af
 10	ǀkha	ǀkha	ADP	_	_	9	case	9:case	_
@@ -21511,7 +21511,7 @@
 7	ta	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
 8	mî	mî	VERB	_	Voice=Act	10	advcl	10:advcl	_
 9	hina	hina	SCONJ	_	_	8	mark	8:mark	_
-10	draaisen	draai	VERB	_	Voice=Refl	0	root	0:root	OrigLang=af|SpacesAfter=\n
+10	draaisen	draai	VERB	_	Voice=Rfl	0	root	0:root	OrigLang=af|SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_482
 # text = tsîta nau aupaba nau ǂares ai nau rekkers ǀkha "ǃkhoa" ti ǂnoa
@@ -22417,14 +22417,14 @@
 1	[	[	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	aah	aah	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
-4	huisen	hui	VERB	_	Voice=Refl	0	root	0:root	_
+4	huisen	hui	VERB	_	Voice=Rfl	0	root	0:root	_
 5	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 6	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_569
 # text = huisen ta ge
 # english = I helped myself
-1	huisen	hui	VERB	_	Voice=Refl	0	root	0:root	_
+1	huisen	hui	VERB	_	Voice=Rfl	0	root	0:root	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	SpacesAfter=\n
 
@@ -22434,7 +22434,7 @@
 1	aitsama	aitsama	ADV	_	_	4	advmod	4:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-4	huisen	hui	VERB	_	Voice=Refl	0	root	0:root	SpacesAfter=\n
+4	huisen	hui	VERB	_	Voice=Rfl	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_571
 # text = [ah] nēsi ta ge mî ǁkhā sîsen-e ta ūhâ tama
@@ -23428,7 +23428,7 @@
 1	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
 2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	go	go	AUX	_	Tense=RecPast	4	aux	4:aux	_
-4	amiǁguisen	amiǁgui	VERB	_	Voice=Refl	0	root	0:root	SpacesAfter=\n
+4	amiǁguisen	amiǁgui	VERB	_	Voice=Rfl	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_648
 # text = ǁnā ǃkhaim ta sem ge ǁgoeǂkhai
@@ -23998,14 +23998,14 @@
 4	oa-ūhe	oa-ū	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_689
-# text = ǁîra ǃkhamsa ta ge tita ge  …
+# text = ǁîra ǃkhamsa ta ge tita ge …
 # english = in their fight I was …
 1	ǁîra	ǁî	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǃkhamsa	ǃkham	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
 3	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	expl	5:expl	_
 4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 5	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-6	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	SpacesAfter=\s\s
+6	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 7	…	…	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_690
@@ -24585,7 +24585,7 @@
 12	ǀguri	ǀguri	ADV	_	_	14	advmod	14:advmod	_
 13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
 14	hâ	hâ	VERB	_	Voice=Act	0	root	0:root	_
-15	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Refl	16	xcomp	16:xcomp	_
+15	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	16	xcomp	16:xcomp	_
 16-17	ǂgaob	_	_	_	_	_	_	_	_
 16	ǂgao	ǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	advcl	14:advcl	_
 17	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	15:nsubj:xsubj|16:nsubj	_
@@ -24661,7 +24661,7 @@
 8	khaoǃgâ	khaoǃgâ	ADP	_	_	7	case	7:case	_
 9	aibe	aibe	ADV	_	_	11	advmod	11:advmod	_
 10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Refl	0	root	0:root	SpaceAfter=No
+11	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
 # sent_id = book_Khomai_25_6
