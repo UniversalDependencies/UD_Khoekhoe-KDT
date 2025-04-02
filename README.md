@@ -1,6 +1,6 @@
 # Summary
 
-UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe language. The annotation was performed manually based on glosses, ensuring high linguistic accuracy. This treebank includes texts from various sources, covering different genres such as fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
+UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe language. The annotation was performed manually based on glosses. This treebank includes texts from various sources: fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
 
 - **Training set**: 15k tokens
 - **Development set**: 2k tokens
@@ -10,8 +10,8 @@ UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe lang
 
 The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe by native speakers, then glossed and annotated. The included texts are:
 
-- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus]\([https://github.com/UniversalDependencies/cairo/blob/master/translations.txt](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt))
-- **grammar\_BivalTyp**: [BivalTyp]\(https\://www\.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
+- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt))
+- **grammar\_BivalTyp**: [BivalTyp](https\://www\.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
 - **film\_Bridge**: Subtitles from *Bridge of Spies* (2015).
 - **film\_Titanic**: A section of subtitles from *Titanic* (1997).
 - **book\_Khomai**: Chapters from the school book *Khomai* (1971), with shuffled sentences.
