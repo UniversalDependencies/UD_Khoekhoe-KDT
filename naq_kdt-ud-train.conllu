@@ -209,7 +209,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
 4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǁamabasen	ǁama	VERB	_	Voice=ApplRefl	0	root	0:root	_
+5	ǁamabasen	ǁama	VERB	_	Voice=ApplRfl	0	root	0:root	_
 6	xawe	xawe	CCONJ	_	_	8	cc	8:cc	_
 7	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	ǃgâba	ǃgâba	NOUN	_	_	5	conj	5:conj	_
