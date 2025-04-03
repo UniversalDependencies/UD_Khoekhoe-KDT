@@ -7521,7 +7521,7 @@
 14	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	8	parataxis	8:parataxis	_
 15	ǁkhawa	ǁkhawa	ADV	_	_	14	advmod	14:advmod	_
 16-17	ǀkhomas	_	_	_	_	_	_	_	_
-16	ǀkhoma	ǀkhoma	VERB	_	Voice=Act	14	obl	14:obl	_
+16	ǀkhoma	ǀkhoma	VERB	_	Voice=Act	14	advcl	14:advcl	_
 17	s	s	SCONJ	NMLZ	Case=Nom	16	mark	16:mark	_
 18	ǃaroma	ǃaroma	ADP	_	_	16	case	16:case	SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
@@ -8904,7 +8904,7 @@
 # text = Māǃkharusa ǀari?
 # english = Transfer switch off.
 1-2	Māǃkharusa	_	_	_	_	_	_	_	_
-1	Māǃkharu	māǃkharu	VERB	_	Voice=Act	3	nsubj	3:nsubj	_
+1	Māǃkharu	māǃkharu	VERB	_	Voice=Act	3	csubj	3:csubj	_
 2	sa	s	SCONJ	NMLZ	Case=Acc	1	mark	1:mark	_
 3	ǀari	ǀari	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n

@@ -10345,14 +10345,12 @@
 # sent_id = conversation_Windhoek5_20
 # text = nēsis di ǀgôa-i ge "hâ-â
 # english = nowadays children be like "no
-1-2	nēsis	_	_	_	_	_	_	_	_
-1	nēsi	nēs	ADV	_	_	4	advmod	4:advmod	_
-2	s	s	SCONJ	NMLZ	Case=Nom	1	mark	1:mark	_
-3	di	di	ADP	POSS	_	1	case	1:case	_
-4	ǀgôa-i	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj:outer	7:nsubj:outer	_
-5	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-6	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
-7	hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpacesAfter=\n
+1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	advmod	3:advmod	_
+2	di	di	ADP	POSS	_	1	case	1:case	_
+3	ǀgôa-i	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj:outer	6:nsubj:outer	_
+4	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+5	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+6	hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_21
 # text = tsîm ge ǀnîtsē skoli ge ǂoa o aumas a ǀkhai hina
