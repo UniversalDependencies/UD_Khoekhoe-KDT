@@ -10345,7 +10345,7 @@
 # sent_id = conversation_Windhoek5_20
 # text = nēsis di ǀgôa-i ge "hâ-â
 # english = nowadays children be like "no
-1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	advmod	3:advmod	_
+1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	obl	3:obl	_
 2	di	di	ADP	POSS	_	1	case	1:case	_
 3	ǀgôa-i	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj:outer	6:nsubj:outer	_
 4	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
