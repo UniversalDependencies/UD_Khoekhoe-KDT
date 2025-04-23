@@ -1,3 +1,867 @@
+# newdoc id = book_Khomai_2
+# sent_id = book_Khomai_2_1
+# text = ǀGoan tsîn ge ǀnai haidi ǁga ra ǀgāǃgû.
+# english = The children are also already taking cover under the trees.
+1	ǀGoan	ǀgoa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
+2	tsîn	tsîn	ADV	_	Case=Nom	1	advmod:emph	1:advmod:emph	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+4	ǀnai	ǀnai	ADV	_	_	8	advmod	8:advmod	_
+5	haidi	hai	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	obl	8:obl	_
+6	ǁga	ǁga	ADP	_	_	5	case	5:case	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	ǀgāǃgû	ǀgāǃgû	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_2
+# text = Nē ǀnanus ge ǃnawe tama da hâse nî hā hō da.
+# english = This rain will catch us unexpectedly (lit. while we are not expecting) [ǃnawe tama = unexpectedly, fixed expression!]
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+2	ǀnanus	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	10:nsubj:xsubj|11:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+4	ǃnawe	ǃnawe	VERB	_	Voice=Act	11	advcl	11:advcl	_
+5	tama	tama	PART	NEG	Polarity=Neg	4	advmod	4:advmod	_
+6	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+7-8	hâse	_	_	_	_	_	_	_	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	_
+8	se	se	SCONJ	MANNER	_	4	mark	4:mark	_
+9	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
+10	hā	hā	VERB	_	Voice=Act	11	xcomp	11:xcomp	_
+11	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
+12	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	11	obj	11:obj	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_3
+# text = Mamas ge ǁāsaran âsa ru ūǁnā.
+# english = Mother is taking down her laundry.
+1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁāsaran	ǁāsara	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	_
+4	âsa	â	PRON	ASSOC	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+5	ru	ra	AUX	_	Aspect=Imp	6	aux	6:aux	_
+6	ūǁnā	ūǁnā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_4
+# text = ǀNanudi ge ama îxase ra ǁgau.
+# english = The clouds are really looking good (promising rain).
+1	ǀNanudi	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ama	ama	ADV	_	_	4	advmod	4:advmod	_
+4	îxase	îxase	ADV	_	_	6	advmod	6:advmod	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǁgau	ǁgau	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_5
+# text = Sida ge nētsē ama gawuxa-ai tsēsa ūhâ.
+# english = Today, we are having a really cloudy day.
+1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	nētsē	nētsē	ADV	_	_	7	advmod	7:advmod	_
+4	ama	ama	ADV	_	_	5	advmod	5:advmod	_
+5	gawuxa-ai	gawuxa-ai	ADJ	_	_	6	amod	6:amod	_
+6	tsēsa	tsē	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
+7	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_6
+# text = ǀAse i ge ama ǀgaisase nî ǀawi.
+# english = Soon it will rain really hard.
+1	ǀAse	ǀase	ADV	_	_	2	advmod	2:advmod	_
+2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+4	ama	ama	ADV	_	_	5	advmod	5:advmod	_
+5	ǀgaisase	ǀgaisase	ADV	_	_	7	advmod	7:advmod	_
+6	nî	nî	AUX	FUT	Tense=Fut	7	aux	7:aux	_
+7	ǀawi	ǀawi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_7
+# text = Aiǂoas ǃna-i ge ǀnai go ǀawi tsoatsoa.
+# english = In the east it has already started raining.
+1	Aiǂoas	aiǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
+2-3	ǃna-i	_	_	_	_	_	_	_	_
+2	ǃna	ǃna	ADP	_	_	1	case	1:case	_
+3	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	7:nsubj:xsubj|8:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+5	ǀnai	ǀnai	ADV	_	_	8	advmod	8:advmod	_
+6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+7	ǀawi	ǀawi	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
+8	tsoatsoa	tsoatsoa	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_8
+# text = Kō re, ama ǀawiǀnanudi ge nēde.
+# english = Look! These are really rain coulds.
+1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
+2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	7:punct	_
+4	ama	ama	ADV	_	_	7	advmod	7:advmod	_
+5	ǀawiǀnanudi	ǀawiǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	nsubj	7:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+7	nēde	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Fem|Number=Plur|Person=3|PronType=Dem	1	ccomp	1:ccomp	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_9
+# text = ǂOab ge ǁîde nē ǂnamipeb ǃoa ra ǃgomhau.
+# english = The wind is blowing them to this side.
+1	ǂOab	ǂoa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîde	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	8	obj	8:obj	_
+4	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
+5	ǂnamipeb	ǂnamipe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
+6	ǃoa	ǃoa	ADP	_	_	5	case	5:case	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	ǃgomhau	ǃgomhau	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_10
+# text = Saras tsî Maras tsî ǃgâgura ge ra hui si.
+# english = The sisters Sara and Mara are helping her.
+1	Saras	Sara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
+3	Maras	Mara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	1:conj|8:nsubj	_
+4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
+5	ǃgâgura	ǃgâgu	NOUN	_	Case=Nom|Gender=Fem|Number=Dual|Person=3	1	conj	1:conj|8:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	hui	hui	VERB	_	Voice=Act	0	root	0:root	_
+9	si	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_11
+# text = ǀAwiǀnanudi.
+# english = Rain clouds
+1	ǀAwiǀnanudi	ǀAwiǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_12
+# text = Ama ǀgaisa ǀnanus ge nēba ǀgūse ǃgoaxa.
+# english = A really strong rain is coming close to here.
+1	Ama	ama	ADV	_	_	2	advmod	2:advmod	_
+2	ǀgaisa	ǀgaisa	ADJ	_	_	3	amod	3:amod	_
+3	ǀnanus	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+5	nēba	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	obj	7:obj	_
+6	ǀgūse	ǀgūse	ADV	_	_	7	advmod	7:advmod	_
+7	ǃgoaxa	ǃgoaxa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_2_13
+# text = ǃGurub tsî nawab tsîkha ge aiǃâb ǁga ǀgui ra ǀgai.
+# english = The thunder and lightning are getting more stronger.
+1	ǃGurub	ǃguru	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
+2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
+3	nawab	nawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	conj	1:conj|11:nsubj	_
+4-5	tsîkha	_	_	_	_	_	_	_	_
+4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
+5	kha	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=3	1	conj	1:conj|11:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+7	aiǃâb	aiǃâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
+8	ǁga	ǁga	ADP	_	_	7	case	7:case	_
+9	ǀgui	ǀgui	ADV	_	_	11	advmod	11:advmod	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	ǀgai	ǀgai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# newdoc id = book_Khomai_7
+# sent_id = book_Khomai_7_1
+# text = ǁîn ge ǁhōgu ǃna ra ǀhaoǀhaohe.
+# english = They are collcted in bags.
+1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁhōgu	ǁhō	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obl	6:obl	_
+4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǀhaoǀhaohe	ǀhaoǀhao	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_2
+# text = Kaikhoen ge ǃhūb di aoseni ti ra mî în.
+# english = The elders call them "the sweat of the ground".
+1	Kaikhoen	kaikhoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǃhūb	ǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	5:POSS	_	3	case	3:case	_
+5	aoseni	aoseni	ADV	_	_	9	iobj	9:iobj	_
+6	ti	ti	PART	QUOT	_	5	case	5:case	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
+9	în	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Typo=Yes	8	obj	8:obj	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_3
+# text = ǁHawan ge ǃaian khama ī tsî ǃaian khami ǃhūb ǃnaga ra ǁhoa.
+# english = The truffles look like potatos and they grow under the ground like potatos.
+1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nsubj	5:nsubj|12:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǃaian	ǃaia	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	obl	5:obl	_
+4	khama	khama	ADP	_	_	3	case	3:case	_
+5	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
+6	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
+7	ǃaian	ǃaia	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	obl	12:obl	_
+8	khami	khami	ADP	_	_	7	case	7:case	_
+9	ǃhūb	ǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	12:obl	_
+10	ǃnaga	ǃnāka	ADP	_	Typo=Yes	9	case	9:case	_
+11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
+12	ǁhoa	ǁhoa	VERB	_	Voice=Act	5	conj	5:conj	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	5:punct|12:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_4
+# text = ǁîn on ge ǁgan-i khami tsâ.
+# english = And they also taste like meat.
+1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
+2	on	on	ADV	_	Case=Nom	1	advmod	1:advmod	_
+3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+4	ǁgan-i	ǁgan	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
+5	khami	khami	ADP	_	_	4	case	4:case	_
+6	tsâ	tsâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_5
+# text = ǁHawan
+# english = truffles
+1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_6
+# text = ǁîn ge ǂawa hâ ǃhūkhuworodi ai ǀgui ra hōhe.
+# english = They can only be found on cracked soils.
+1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	9:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
+3	ǂawa	ǂawa	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
+4	hâ	hâ	AUX	PFV	Aspect=Perf	3	aux	3:aux	_
+5	ǃhūkhuworodi	ǃhūkhuwo	NOUN	_	Case=Nom|Degree=Dim|Gender=Fem|Number=Plur|Person=3	9	obl	3:nsubj|9:obl	_
+6	ai	ai	ADP	_	_	5	case	5:case	_
+7	ǀgui	ǀgui	ADV	_	_	5	advmod	5:advmod	_
+8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
+9	hōhe	hō	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_7
+# text = ǁHawana ǃhamis ge amase a ǃgom.
+# english = It's really difficult to forage/collect them (truffles).
+1	ǁHawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	2	nmod:poss	2:nmod:poss	_
+2	ǃhamis	ǃhami	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+4	amase	amase	ADV	_	_	6	advmod	6:advmod	_
+5	a	a	AUX	COP.PRS	Tense=Pres	6	cop	6:cop	_
+6	ǃgom	ǃgom	ADJ	_	_	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_8
+# text = ǁîn ge ǀgowaǃhūb ǃna ra hōhe.
+# english = They can be found in the desert.
+1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǀgowaǃhūb	ǀgowaǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	hōhe	hō	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_9
+# text = Mamas ge ǁhawana ǁanǁan tsî ǁhaos ai ra ǃā.
+# english = My mother cooks the truffles (as a prepeartion for drying) and hangs them on the roof.
+1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj|9:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|9:aux	_
+3	ǁhawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	obj	4:obj|9:obj	_
+4	ǁanǁan	ǁanǁan	VERB	_	Voice=Act	0	root	0:root	_
+5	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
+6	ǁhaos	ǁhao	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	9:obl	_
+7	ai	ai	ADP	_	_	6	case	6:case	_
+8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	4:aux|9:aux	_
+9	ǃā	ǃā	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_7_10
+# text = ǁHawana ǂan du a ǃgaroǂûna?
+# english = Do you know the veld food truffles?
+1	ǁHawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	2	obj	2:obj	_
+2	ǂan	ǂan	VERB	STAT	Voice=Act	0	root	0:root	_
+3	du	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+4	a	a	AUX	STAT.PRS	Tense=Pres	2	aux	2:aux	_
+5	ǃgaroǂûna	ǃgaroǂû	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	1	appos	1:appos	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = book_Khomai_7_11
+# text = ǁHawan ge ǁhaob ǃna ǀgui ra hâ.
+# english = There are truffles only during the rainy seasons.
+1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	ǁhaob	ǁhao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
+4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
+5	ǀgui	ǀgui	ADV	_	_	7	advmod	7:advmod	_
+6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+7	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# newdoc id = book_Khomai_15
+# sent_id = book_Khomai_15_1
+# text = ǁîdi ge hoa ǀgam ǁkhûikha ǁkhadi go ǃgaoǂgā.
+# english = They also cut both shoulders (of the ox).
+1	ǁîdi	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	hoa	hoa	DET	_	PronType=Tot	5	det	5:det	_
+4	ǀgam	ǀgam	NUM	_	NumType=Card	5	nummod	5:nummod	_
+5	ǁkhûikha	ǁkhûi	NOUN	_	Case=Acc|Gender=Masc|Number=Dual|Person=3	8	obj	8:obj	_
+6	ǁkhadi	ǁkhāti	ADV	_	Typo=Yes	5	advmod	5:advmod	_
+7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+8	ǃgaoǂgā	ǃgaoǂgā	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_2
+# text = Tsuxub ǃna da ge ganube ama ǁkhoaxase ge re ǁnae.
+# english = In the night we were still singing very happily.
+1	Tsuxub	tsuxu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
+2	ǃna	ǃna	ADP	_	_	1	case	1:case	_
+3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
+5	ganube	ganube	ADV	_	_	10	advmod	10:advmod	_
+6	ama	ama	ADV	_	_	7	advmod	7:advmod	_
+7	ǁkhoaxase	ǁkhoaxase	ADV	_	_	10	advmod	10:advmod	_
+8	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	10	aux	10:aux	CorrectSpaceAfter=No
+9	re	_	X	_	_	8	goeswith	8:goeswith	_
+10	ǁnae	ǁnae	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_3
+# text = Sida oms tawas ge nētsē ǁguibasa hâ.
+# english = There is a party at our house today.
+1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
+3-4	tawas	_	_	_	_	_	_	_	_
+3	tawa	tawa	ADP	_	_	2	case	2:case	_
+4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	expl	8:expl	_
+5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+6	nētsē	nētsē	ADV	_	_	8	advmod	8:advmod	_
+7	ǁguibasa	ǁguiba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+8	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_4
+# text = Karab ais ge ǂûǁaesa ge tsoatsoa.
+# english = In the afternoon, the feast began.
+1	Karab	kara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
+2-3	ais	_	_	_	_	_	_	_	_
+2	ai	ai	ADP	_	_	1	case	1:case	_
+3	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	7	expl	7:expl	_
+4	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+5	ǂûǁaesa	ǂûǁae	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
+7	tsoatsoa	tsoatsoa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_5
+# text = ǀGôaron ge ǂkhōnxūna ǂhûihe tsî kaise ge re ǃgâiaǂgao.
+# english = The young children were given sweets and they were very happy.
+1	ǀGôaron	ǀgôa	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Plur|Person=3	4	nsubj:pass	4:nsubj:pass|9:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|9:aux	_
+3	ǂkhōnxūna	ǂkhōnxū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	obj	4:obj	_
+4	ǂhûihe	ǂhûi	VERB	_	Voice=Pass	0	root	0:root	_
+5	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
+6	kaise	kaise	ADV	_	_	9	advmod	9:advmod	_
+7	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	9	aux	4:aux|9:aux	CorrectSpaceAfter=No
+8	re	_	X	_	_	7	goeswith	7:goeswith	_
+9	ǃgâiaǂgao	ǃgâiaǂgao	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_6
+# text = ǁAnǁare-aon ge nētsē sida oms tawa kai ǃgâiaǂgaob ǃna ǀhû hâ.
+# english = The neighbours are gathering today at our house with great happiness.
+1	ǁAnǁare-aon	ǁanǁare-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	10	nsubj	10:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
+3	nētsē	nētsē	ADV	_	_	10	advmod	10:advmod	_
+4	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	10:obl	_
+6	tawa	tawa	ADP	_	_	5	case	5:case	_
+7	kai	kai	ADJ	_	_	8	amod	8:amod	_
+8	ǃgâiaǂgaob	ǃgâiaǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
+9	ǃna	ǃna	ADP	_	_	8	case	8:case	_
+10	ǀhû	ǀhû	VERB	_	Voice=Act	0	root	0:root	_
+11	hâ	hâ	AUX	PFV	Aspect=Perf	10	aux	10:aux	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_7
+# text = Amob ge go ǀgamdisi ǀguiǀā kurixa.
+# english = Amos is already 21 years old.
+1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+4	ǀgamdisi	ǀgamdīsi	NUM	_	NumType=Card|Typo=Yes	6	nummod	6:nummod	_
+5	ǀguiǀā	ǀgui	NUM	_	NumType=Card	4	flat:num	4:flat:num	_
+6	kurixa	kurixa	ADJ	_	_	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_8
+# text = Amob di ǃnaetsēs.
+# english = Amos' birthday.
+1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
+2	di	di	ADP	POSS	_	1	case	1:case	_
+3	ǃnaetsēs	ǃnaetsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_9
+# text = Dadab ge kausa tsaugomaba go ǃgûiba da.
+# english = Father slaughtered a fat ox for us.
+1	Dadab	dada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	kausa	kausa	ADJ	_	_	4	amod	4:amod	_
+4	tsaugomaba	tsaugoma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǃgûiba	ǃgûi	VERB	STAT	Voice=Appl	0	root	0:root	_
+7	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	6	iobj:appl	6:iobj:appl	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_10
+# text = ǂÛs khaoǃgâ gu ge aoga ǂauxûiba ǃnâ-omi ǃna ge re ā.
+# english = After eating, the men were drinking wine in the interior room.
+1	ǂÛs	ǂû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
+2	khaoǃgâ	khaoǃgâ	ADP	_	_	1	case	1:case	_
+3	gu	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	expl	11:expl	_
+4	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+5	aoga	ao	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nsubj	11:nsubj	_
+6	ǂauxûiba	ǂauxûi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obj	11:obj	_
+7	ǃnâ-omi	ǃnâ-om	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
+8	ǃna	ǃna	ADP	_	_	7	case	7:case	_
+9	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	11	aux	11:aux	CorrectSpaceAfter=No
+10	re	_	X	_	_	9	goeswith	9:goeswith	_
+11	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_11
+# text = Maras tsî Saras tsîra on ge ǁî de ra huî.
+# english = Mara and Sara are helping them too.
+1	Maras	Mara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	11:nsubj	_
+2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
+3	Saras	Sara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	1:conj|11:nsubj	_
+4-5	tsîra	_	_	_	_	_	_	_	_
+4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
+5	ra	_	PRON	_	Case=Nom|Gender=Fem|Number=Dual|Person=3|PronType=Prs	1	conj	1:conj|11:nsubj	_
+6	on	on	ADV	_	Case=Nom	1	advmod	1:advmod|3:advmod|5:advmod	_
+7	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+8	ǁî	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Typo=Yes	11	obj	11:obj	_
+9	de	_	X	_	_	8	goeswith	8:goeswith	CorrectSpaceAfter=No
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	huî	huî	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_12
+# text = Mamas tsî ǁîs horesadi on ge ra ǂûdi.
+# english = Mother and her friends are also cooking.
+1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
+3	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	horesadi	horesa	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	conj	1:conj|8:nsubj	_
+5	on	on	ADV	_	Case=Nom	1	advmod	1:advmod|3:advmod	_
+6	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	ǂûdi	ǂûdi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_15_13
+# text = Taradi ge ǀgûisa ǃanu tsî danas tsî ǃūgu tsîna go ro ǁkhao.
+# english = Women were cleaning the intestines, and also were scraping the head and the cannon/shin.
+1	Taradi	tara	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	4	nsubj	4:nsubj|12:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|12:aux	_
+3	ǀgûisa	ǀgûi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǃanu	ǃanu	VERB	_	Voice=Act	0	root	0:root	_
+5	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
+6	danas	dana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obj	12:obj	_
+7	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
+8	ǃūgu	ǃū	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	conj	6:conj|12:obj	_
+9	tsîna	tsîn	ADV	_	Case=Acc	6	advmod:emph	6:advmod:emph|8:advmod:emph	_
+10	go	goro	AUX	RPST.IPFV	Aspect=Imp|Tense=RecPast|Typo=Yes	12	aux	4:aux|12:aux	CorrectSpaceAfter=No
+11	ro	_	X	_	_	10	goeswith	10:goeswith	_
+12	ǁkhao	ǁkhao	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+
+# newdoc id = book_Khomai_25
+# sent_id = book_Khomai_25_1
+# text = Nau ǀgôan di ǂkhuwib ǃgâiba bi tama, amagab ge ǀguri ra hâ ǁkhāǁkhāsen ǂgaob kao.
+# english = The noice of the other children is not good for him (ǃgâiba be good for him!) therefore he stays alone when he wants to learn.
+1	Nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
+2	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod:poss	4:nmod:poss	_
+3	di	di	ADP	POSS	_	2	case	2:case	_
+4	ǂkhuwib	ǂkhuwi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+5	ǃgâiba	ǃgâi	VERB	_	Voice=Appl	14	advcl	14:advcl	_
+6	bi	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	5	obj:appl	5:obj:appl	_
+7	tama	tama	PART	NEG	Polarity=Neg	5	advmod	5:advmod	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	5:punct	_
+9-10	amagab	_	_	_	_	_	_	_	_
+9	amaga	amaga	SCONJ	_	_	5	mark	5:mark	_
+10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+11	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
+12	ǀguri	ǀguri	ADV	_	_	14	advmod	14:advmod	_
+13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
+14	hâ	hâ	VERB	_	Voice=Act	0	root	0:root	_
+15	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	16	xcomp	16:xcomp	_
+16-17	ǂgaob	_	_	_	_	_	_	_	_
+16	ǂgao	ǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	advcl	14:advcl	_
+17	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	15:nsubj:xsubj|16:nsubj	_
+18-19	kao	_	_	_	_	_	_	_	SpaceAfter=No
+18	ka	ga	AUX	POT	Mood=Pot	16	aux	16:aux	_
+19	o	o	SCONJ	_	_	16	mark	16:mark	_
+20	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_2
+# text = ǀAsa ǀawa ǂkhanis ge nēsa.
+# english = This is a new red book.
+1	ǀAsa	ǀasa	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	amod	3:amod	_
+2	ǀawa	ǀawa	ADJ	_	_	3	amod	3:amod	_
+3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+5	nēsa	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_3
+# text = Petrub ge ǂkhanis âba ǀkhuwi, tsēs aib ge Amoba ge ǁom ǁoa ī.
+# english = On the day Petrus borrowed his book, Amos could not sleep.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	âba	â	PRON	ASSOC	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+5	ǀkhuwi	ǀkhuwi	VERB	_	Voice=Act	7	acl	7:acl	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	tsēs	tsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	obl	14:obl	_
+8-9	aib	_	_	_	_	_	_	_	_
+8	ai	ai	ADP	_	_	7	case	7:case	_
+9	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	14:expl	_
+10	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
+11	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nsubj	13:nsubj:xsubj|14:nsubj	_
+12	ge	ge	AUX	_	Tense=Past	14	aux	14:aux	_
+13	ǁom	ǁom	VERB	_	Voice=Act	14	xcomp	14:xcomp	_
+14	ǁoa	ǁoa	VERB	STAT	Voice=Act	0	root	0:root	_
+15	ī	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast|Typo=Yes	14	aux	14:aux	SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_4
+# text = ǁGoagab ga khâi, ob ge aibe ǂkhanisa ra ūǂui, ǁkhāǁkhāsens ǃaroma.
+# english = When he wakes up in the morning, then he first takes out the book for learning.
+1-2	ǁGoagab	_	_	_	_	_	_	_	_
+1	ǁGoaga	ǁgoaga	ADV	_	_	4	advmod	4:advmod	_
+2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+3	ga	ga	AUX	POT	Mood=Pot	4	aux	4:aux	_
+4	khâi	khâi	VERB	_	Voice=Act	12	advcl	12:advcl	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
+6-7	ob	_	_	_	_	_	_	_	_
+6	o	o	ADV	_	_	12	advmod	12:advmod	_
+7	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+8	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
+9	aibe	aibe	ADV	_	_	12	advmod	12:advmod	_
+10	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obj	12:obj	_
+11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
+12	ūǂui	ūǂui	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	14:punct	_
+14	ǁkhāǁkhāsens	ǁkhāǁkhāsen	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obl	12:obl	_
+15	ǃaroma	ǃaroma	ADP	_	_	14	case	14:case	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_5
+# text = Skoli ka ǂoa ob ge ǂûs khaoǃgâ aibe ra ǁkhāǁkhāsen.
+# english = After school (lit. when the school is over), after eating he first learns.
+1	Skoli	skol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	3:nsubj	_
+2	ka	ga	AUX	POT	Mood=Pot	3	aux	3:aux	_
+3	ǂoa	ǂoa	VERB	_	Voice=Act	11	advcl	11:advcl	_
+4-5	ob	_	_	_	_	_	_	_	_
+4	o	o	ADV	_	_	11	advmod	11:advmod	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+7	ǂûs	ǂû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
+8	khaoǃgâ	khaoǃgâ	ADP	_	_	7	case	7:case	_
+9	aibe	aibe	ADV	_	_	11	advmod	11:advmod	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_6
+# text = Amob di ǂkhanis.
+# english = The book of Amos.
+1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
+2	di	di	ADP	POSS	_	1	case	1:case	_
+3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_7
+# text = Sadu ona Amob khami ī ǂgoa tama hâ?
+# english = Don't you also want to be like Amos?
+1	Sadu	sa	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
+2	ona	on	ADV	_	Case=Acc	1	advmod	1:advmod	_
+3	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	5:obl	_
+4	khami	khami	ADP	_	_	3	case	3:case	_
+5	ī	ī	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
+6	ǂgoa	ǂgoa	VERB	_	Voice=Act	0	root	0:root	_
+7	tama	tama	PART	NEG	Polarity=Neg	6	advmod	6:advmod	_
+8	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_8
+# text = ǁNāǁaeb ai ǀguib ge Amoba ge ǁom ǁkhā.
+# english = Only then Amos could sleep.
+1	ǁNā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem|Typo=Yes	2	det	2:det	SpaceAfter=No|CorrectSpaceAfter=Yes
+2	ǁaeb	ǁae	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
+3	ai	ai	ADP	_	_	1	case	1:case	_
+4-5	ǀguib	_	_	_	_	_	_	_	_
+4	ǀgui	ǀgui	ADV	_	_	2	advmod	2:advmod	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	10:expl	_
+6	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
+7	Amoba	Amo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nsubj	9:nsubj:xsubj|10:nsubj	_
+8	ge	ge	AUX	_	Tense=Past	10	aux	10:aux	_
+9	ǁom	ǁom	VERB	_	Voice=Act	10	xcomp	10:xcomp	_
+10	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_9
+# text = ǁNāǁaeb ais ge ǁgûsa ge ū bi, tsîra ge Petrub tawa ǂkhanisa sī ge ū.
+# english = At that time the mother took him and they went to get the book from Petrus.
+1	ǁNā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem|Typo=Yes	2	det	2:det	SpaceAfter=No|CorrectSpaceAfter=Yes
+2	ǁaeb	ǁae	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
+3-4	ais	_	_	_	_	_	_	_	_
+3	ai	ai	ADP	_	_	2	case	2:case	_
+4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	expl	8:expl	_
+5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+6	ǁgûsa	ǁgû	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
+8	ū	ū	VERB	_	Voice=Act	0	root	0:root	_
+9	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	8:punct	_
+11-12	tsîra	_	_	_	_	_	_	_	_
+11	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
+12	ra	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=3|PronType=Prs	19	nsubj	19:nsubj	_
+13	ge	ge	AUX	DECL	Mood=Ind	19	aux	19:aux	_
+14	Petrub	Petrub	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	obl	19:obl	_
+15	tawa	tawa	ADP	_	_	14	case	14:case	_
+16	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	19:obj	_
+17	sī	sī	VERB	_	Voice=Act	19	compound:svc	19:compound:svc	_
+18	ge	ge	AUX	_	Tense=Past	19	aux	19:aux	_
+19	ū	ū	VERB	_	Voice=Act	8	conj	8:conj	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_10
+# text = Ôasaseb ta ǁkhāǁkhāsen, xui-aob ge ǁnaosaba ǁnā ǂkhanisa ge ǁamaba bi.
+# english = Because he is learning diligently/eagerly, the uncle baught him this book.
+1-2	Ôasaseb	_	_	_	_	_	_	_	_
+1	Ôasase	ôasase	ADV	_	_	4	advmod	4:advmod	_
+2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+3	ta	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
+4	ǁkhāǁkhāsen	ǁkhāǁkhāsen	VERB	_	Voice=Act	13	advcl	13:advcl	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
+6-7	xui-aob	_	_	_	_	_	_	_	_
+6	xui-aob	xui-ao	SCONJ	_	_	4	mark	4:mark	_
+7	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	13:expl	_
+8	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
+9	ǁnaosaba	ǁnaosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nsubj	13:nsubj	_
+10	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	11	det	11:det	_
+11	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obj	13:obj	_
+12	ge	ge	AUX	_	Tense=Past	13	aux	13:aux	_
+13	ǁamaba	ǁama	VERB	_	Voice=Appl	0	root	0:root	_
+14	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj:appl	13:iobj:appl	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	13:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_11
+# text = Amob ge ǂkhanisa ra khomai.
+# english = Amos is reading a book.
+1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_12
+# text = ǂKharirob ga xaweb ge Amoba ǀnai ǃgâise ra khomai.
+# english = Although he is little, Amos already reads well.
+1-2	ǂKharirob	_	_	_	_	_	_	_	_
+1	ǂKhariro	ǂkhari	ADJ	_	Degree=Dim	11	advcl	11:advcl	_
+2	b	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	1	nsubj	1:nsubj	_
+3	ga	ga	AUX	POT	Mood=Pot	1	aux	1:aux	_
+4-5	xaweb	_	_	_	_	_	_	_	_
+4	xawe	xawe	CCONJ	_	_	11	cc	11:cc	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
+6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+7	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
+8	ǀnai	ǀnai	ADV	_	_	11	advmod	11:advmod	_
+9	ǃgâise	ǃgâise	ADV	_	_	11	advmod	11:advmod	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_13
+# text = Ob ge: "Hîî, Petrub ge ti ǂkhanisa go ǀkhuwi tsî ta ge ǂomsa a hō ǁoa", ti ge mî.
+# english = No Petrus borrowed my book and I cannot fall asleep.
+1-2	Ob	_	_	_	_	_	_	_	_
+1	O	o	ADV	_	_	25	advmod	25:advmod	_
+2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	25:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	25	aux	25:aux	SpaceAfter=No
+4	:	:	PUNCT	_	_	13	punct	13:punct	_
+5	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
+6	Hîî	hî-î	INTJ	_	Polarity=Neg|Typo=Yes	13	discourse	13:discourse	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	6:punct	_
+8	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	13:nsubj	_
+9	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
+10	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obj	13:obj	_
+12	go	go	AUX	_	Tense=RecPast	13	aux	13:aux	_
+13	ǀkhuwi	ǀkhuwi	VERB	_	Voice=Act	25	ccomp	25:ccomp	_
+14	tsî	tsî	CCONJ	_	_	20	cc	20:cc	_
+15	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	19:nsubj:xsubj|20:nsubj	_
+16	ge	ge	AUX	DECL	Mood=Ind	20	aux	20:aux	_
+17	ǂomsa	ǂom	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	19:obj	_
+18	a	a	AUX	STAT.PRS	Tense=Pres	20	aux	20:aux	_
+19	hō	hō	VERB	_	Voice=Act	20	xcomp	20:xcomp	_
+20	ǁoa	ǁoa	VERB	STAT	Voice=Act	13	conj	13:conj	SpaceAfter=No
+21	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
+22	,	,	PUNCT	_	_	13	punct	13:punct	_
+23	ti	ti	PART	QUOT	_	13	case	13:case	_
+24	ge	ge	AUX	_	Tense=Past	25	aux	25:aux	_
+25	mî	mî	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+26	.	.	PUNCT	_	_	25	punct	25:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_14
+# text = ǂKhanisa a ǀnam khoe-i ge ǃhaese ra gâ-ai.
+# english = A book lover quickly becomes clever
+1	ǂKhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	3:obj	_
+2	a	a	AUX	STAT.PRS	Tense=Pres	3	aux	3:aux	_
+3	ǀnam	ǀnam	VERB	STAT	Voice=Act	4	amod	4:amod	_
+4	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+6	ǃhaese	ǃhaese	ADV	_	_	8	advmod	8:advmod	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
+8	gâ-ai	gâ-ai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_15
+# text = Tsî ǁgûrab ka hui toa, o ǀguib ge nau ǀgôan ǀkha ra ǀhuru.
+# english = Only when he is done helping his parents, he plays with the other children.
+1	Tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
+2-3	ǁgûrab	_	_	_	_	_	_	_	_
+2	ǁgûra	ǁgû	NOUN	_	Gender=Neut|Number=Dual|Person=3	5	obj	5:obj	_
+3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
+4	ka	ga	AUX	POT	Mood=Pot	6	aux	6:aux	_
+5	hui	hui	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
+6	toa	toa	VERB	_	Voice=Act	16	advcl	16:advcl	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	6:punct	_
+8	o	o	ADV	_	_	16	advmod	16:advmod	_
+9-10	ǀguib	_	_	_	_	_	_	_	_
+9	ǀgui	ǀgui	ADV	_	_	16	advmod	16:advmod	_
+10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
+11	ge	ge	AUX	DECL	Mood=Ind	16	aux	16:aux	_
+12	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	13	det	13:det	_
+13	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	16	obl	16:obl	_
+14	ǀkha	ǀkha	ADP	_	_	13	case	13:case	_
+15	ra	ra	AUX	IPFV	Aspect=Imp	16	aux	16:aux	_
+16	ǀhuru	ǀhuru	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	16:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_16
+# text = ǁGoeb ka ob ge ǂkhanisa ǂkhawis ǃnaga ra sâu, kās tide ga.
+# english = When he lies down/goes to sleep, he hides the book under the pillow, so that it does not get lost.
+1-2	ǁGoeb	_	_	_	_	_	_	_	_
+1	ǁGoe	ǁgoe	VERB	_	Voice=Act	11	advcl	11:advcl	_
+2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	_
+3	ka	ga	AUX	POT	Mood=Pot	1	aux	1:aux	_
+4-5	ob	_	_	_	_	_	_	_	_
+4	o	o	ADV	_	_	11	advmod	11:advmod	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
+7	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obj	11:obj	_
+8	ǂkhawis	ǂkhawi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
+9	ǃnaga	ǃnāka	ADP	_	Typo=Yes	8	case	8:case	_
+10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
+11	sâu	sâu	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	13:punct	_
+13-14	kās	_	_	_	_	_	_	_	_
+13	kā	kā	VERB	_	Voice=Act	11	advcl	11:advcl	_
+14	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	13	nsubj	13:nsubj	_
+15	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	13	aux	13:aux	_
+16	ga	ga	AUX	POT	Mood=Pot	13	aux	13:aux	SpaceAfter=No
+17	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_17
+# text = ǂGui ǀgôan ge ǀnai Amob di aiǁgausa ra sao.
+# english = Many children already follow the example of Amos.
+1	ǂGui	ǂgui	DET	_	PronType=Ind	2	det	2:det	_
+2	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	9	nsubj	9:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
+4	ǀnai	ǀnai	ADV	_	_	9	advmod	9:advmod	_
+5	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
+6	di	di	ADP	POSS	_	5	case	5:case	_
+7	aiǁgausa	aiǁgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	9:obj	_
+8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
+9	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_18
+# text = Amase mûǃāsa a ǃkhaes ge Amob ǀguitsē kaise nîra gā-aisa.
+# english = It is very clear that one day Amos will be very clever
+1	Amase	amase	ADV	_	_	2	advmod	2:advmod	_
+2	mûǃāsa	mûǃāsa	ADJ	_	_	10	csubj:outer	10:csubj:outer	_
+3	a	a	AUX	COP.PRS	Tense=Pres	2	cop	2:cop	_
+4	ǃkhaes	ǃkhais	SCONJ	_	Case=Nom|Typo=Yes	2	mark	2:mark	CorrectForm=ǃkhais
+5	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
+6	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	10:nsubj	_
+7	ǀguitsē	ǀguitsē	ADV	_	_	10	advmod	10:advmod	_
+8	kaise	kaise	ADV	_	_	10	advmod	10:advmod	_
+9	nîra	nîra	AUX	FUT.IPFV	Aspect=Imp|Tense=Fut	10	aux	10:aux	_
+10-11	gā-aisa	_	_	_	_	_	_	_	SpaceAfter=No
+10	gā-ai	gā-ai	VERB	_	Voice=Act	0	root	0:root	_
+11	sa	s	SCONJ	NMLZ	Case=Acc	10	mark	10:mark	_
+12	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_19
+# text = ǁGûs ge ega tsûb ta ǃkhaesa ge tî bi.
+# english = Later the mother asked him whether he is having pain, then he told he:
+1	ǁGûs	ǁgû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	9:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
+3	ega	ega	ADV	_	_	9	advmod	9:advmod	_
+4-5	tsûb	_	_	_	_	_	_	_	_
+4	tsû	tsû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	ccomp	9:ccomp	_
+5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+6	ta	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
+7	ǃkhaesa	ǃkhais	SCONJ	COMPL	Case=Acc|Typo=Yes	4	mark	4:mark	CorrectForm=ǃkhaisa
+8	ge	ge	AUX	_	Tense=Past	9	aux	9:aux	_
+9	tî	dî	VERB	_	Typo=Yes|Voice=Act	0	root	0:root	_
+10	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	9:iobj	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_20
+# text = Mâ tsēs hoasab ge Amoba ǁîb di ǁgauǃna-oab xa ra koahe, ǃgâiseb ta ǁkhāǁkhāsen amaga.
+# english = Each and every day Amos is being praiswed by his teacher because he learning well.
+1	Mâ	mâ	DET	_	PronType=Tot	2	det	2:det	_
+2	tsēs	tsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obl	12:obl	_
+3-4	hoasab	_	_	_	_	_	_	_	_
+3	hoasa	hoa	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Tot	2	det	2:det	_
+4	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	_
+5	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
+6	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nsubj:pass	12:nsubj:pass	_
+7	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	di	di	ADP	POSS	_	7	case	7:case	_
+9	ǁgauǃna-oab	ǁgauǃna-oa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl:agent	12:obl:agent	_
+10	xa	xa	ADP	_	_	9	case	9:case	_
+11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
+12	koahe	koa	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	17:punct	_
+14-15	ǃgâiseb	_	_	_	_	_	_	_	_
+14	ǃgâise	ǃgâise	ADV	_	_	17	advmod	17:advmod	_
+15	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+16	ta	ra	AUX	IPFV	Aspect=Imp	17	aux	17:aux	_
+17	ǁkhāǁkhāsen	ǁkhāǁkhāsen	VERB	_	Voice=Act	12	advcl	12:advcl	_
+18	amaga	amāka	SCONJ	_	Typo=Yes	17	mark	17:mark	SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+
+# sent_id = book_Khomai_25_21
+# text = Kō re matib ǂkhanis ǀkha ǂnôa ǀgausa.
+# english = Look at the way/how he is sitting with the book.
+1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
+2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
+3-4	matib	_	_	_	_	_	_	_	_
+3	mati	mati	ADV	_	PronType=Int	8	advmod	8:advmod	_
+4	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+5	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	7:obl	_
+6	ǀkha	ǀkha	ADP	_	_	4	case	4:case	_
+7	ǂnôa	ǂnôa	VERB	_	Voice=Act	8	acl	8:acl	_
+8	ǀgausa	ǀgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	1:obj	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+
 # newdoc id = grammar_Cairo
 # sent_id = grammar_Cairo_1
 # text = Axas ge ǁîs ǀhōsa ǃoa sîǂkhanisa go xoa.
@@ -305,610 +1169,6 @@
 9	di	di	ADP	POSS	_	8	case	8:case	_
 10	danakaiǃāsa	danakaiǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	appos	3:appos	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# newdoc id = grammar_BivalTyp
-# sent_id = grammar_BivalTyp_71
-# text = Petrub ge dai-e ge ā
-# english = (P. was given a glass of milk by his mother.) P. drank the milk.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_72
-# text = Petrub ge ǀhaiǀuriba ge tsunitsuni
-# english = P. melted a piece of lead.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǀhaiǀuriba	ǀhaiǀuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	tsunitsuni	tsunitsuni	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_73
-# text = Nē bands ge ti rokhoes ǀkha ra ǀgau
-# english = (A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’
-1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
-2	bands	band	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-4	ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	rokhoes	rokhoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
-6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	ǀgau	ǀgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_74
-# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
-# english = P. left his native city.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	ǃnae	ǃnae	ADJ	_	_	6	amod	6:amod	_
-6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
-7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
-8	ǁnāxū	ǁnāxū	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_75
-# text = Mats ge hoa ǂaiǂgawaba ra ǃgū-ai
-# english = The carpet covers the whole floor.
-1	Mats	mat	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	hoa	hoa	DET	_	PronType=Tot	4	det	4:det	_
-4	ǂaiǂgawaba	ǂaiǂgawa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǃgū-ai	ǃgū-ai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_76
-# text = Petrub ge omsa ǃamkuse ra ǂâihō
-# english = P. remembers the house (where he grew up) well.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	omsa	om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-4	ǃamkuse	ǃamkuse	ADV	_	_	6	advmod	6:advmod	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǂâihō	ǂâihō	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_77
-# text = Petrub ge Mariasa ge hui
-# english = (M. didn’t manage to do her homework by herself.) P. helped M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	hui	hui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_78
-# text = Petrub ge Hereroba ra ǁnâuǃā
-# english = P. understands Herero.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Hereroba	Herero	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_79
-# text = Nawab ge omsa go ǂnau
-# english = Lightning hit / struck the house.
-1	Nawab	nawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	omsa	om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǂnau	ǂnau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_80
-# text = Petrub ge ǂkhomgôas ǀkha go ǃgaosen
-# english = P. cut himself with a razor.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǂkhomgôas	ǂkhomgôa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǃgaosen	ǃgaosen	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_81
-# text = Xlas ge tāb ai go ǁhaumâ
-# english = (The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.
-1	Xlas	xla	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
-4	ai	ai	ADP	_	_	3	case	3:case	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǁhaumâ	ǁhaumâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_82
-# text = Petrub ge Marias ǃoa go ǂnai
-# english = (P. played chess with M.) P. lost to M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǃoa	ǃoa	ADP	_	_	3	case	3:case	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǂnai	ǂnai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_83
-# text = Petrub ge sîǂkhanis ǃgao ge ǃgâiaǂgao
-# english = (P. received a letter from M.) P. was glad about the letter.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	sîǂkhanis	sîǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǃgao	ǃgao	ADP	_	_	3	case	3:case	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	ǃgâiaǂgao	ǃgâiaǂgao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_84
-# text = Petrub ge Marias ǀkha ra ǃhoa
-# english = (I am looking for P. When I enter the room I see that) P. is speaking with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǃhoa	ǃhoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_85
-# text = Marias ge aore axaba go ǁora
-# english = M. gave birth to a son.
-1	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	aore	aore	ADJ	_	_	4	amod	4:amod	_
-4	axaba	axa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǁora	ǁora	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_86
-# text = Petrub ge xlasa go ǃgau
-# english = P. dropped the glass.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	xlasa	xla	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǃgau	ǃgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_87
-# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
-# english = P. runs our town.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǂgaeǂgui	ǂgaeǂgui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_88
-# text = Petrub ge Mariasa go ǁkhore
-# english = P. misses M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǁkhore	ǁkhore	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_89
-# text = Petrub ge Mariasa ra sao
-# english = P. follows M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_90
-# text = Petrub ge hāba xu go ǁgôaxa
-# english = P. got down from the horse.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
-4	xu	xu	ADP	_	_	3	case	3:case	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǁgôaxa	ǁgôaxa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_91
-# text = Petrub ge ǂhôaǂgaresa ra ǃgâ
-# english = (What is P. doing?) P. is listening to radio.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǂhôaǂgaresa	ǂhôaǂgare	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǃgâ	ǃgâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_92
-# text = Petrub ge hoaǁae ǁîb mamasa ra ǁnâuǀnam
-# english = (M. is a mischievous boy, but) P. always listens to / obeys his mother.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	hoaǁae	hoaǁae	ADV	_	PronType=Tot	7	advmod	7:advmod	_
-4	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	7:nmod:poss	_
-5	mamasa	mama	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
-6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-7	ǁnâuǀnam	ǁnâuǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_93
-# text = Petrub ge ǀō-e ra ǁnâu
-# english = P. hears the music.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǀō-e	ǀō	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǁnâu	ǁnâu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_94
-# text = Dani-i ge dai-i ǀkha go hawa
-# english = (Some honey was put in a jar of milk and stirred.) The honey got mixed with the milk.
-1	Dani-i	Dani	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	dai-i	dai	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	hawa	hawa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_95
-# text = Petrub ge ǃâude ra kō
-# english = P. is looking at the clouds (trying to determine if it will rain).
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǃâude	ǃâu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	kō	kō	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_96
-# text = Petrub ge ǁîb di hemsa ge ǁhû
-# english = P. took off his shirt.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	hemsa	hem	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
-6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-7	ǁhû	ǁhû	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_97
-# text = Petrub ge Mariasa xa ra ǁhapo
-# english = (P. sleeps) P. dreams about M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	xa	xa	ADP	_	_	3	case	3:case	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǁhapo	ǁhapo	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_98
-# text = Petrub ge Mariasa ge ǃkhō-am
-# english = (M. told P. that their son should learn Irish.) P. agreed with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	ǃkhō-am	ǃkhō-am	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_99
-# text = Petrub ge Marias ǀkha ge ǂkhawa
-# english = P. had a quarrel with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	ǂkhawa	ǂkhawa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_100
-# text = Nē ǁhoes ge ǀgui euroba ra ǂgan
-# english = This cup costs 1 euro.
-1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
-2	ǁhoes	ǁhoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-4	ǀgui	ǀgui	NUM	_	NumType=Card	5	nummod	5:nummod	_
-5	euroba	euro	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	7:obj	_
-6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-7	ǂgan	ǂgan	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_101
-# text = Petrub ge anisa go ǂnoa
-# english = P. shot at the bird. (He missed.)
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	anisa	ani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǂnoa	ǂnoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_102
-# text = Petrub ge dai-e go tsoro
-# english = P. poured the sugar (into the cup).
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	tsoro	tsoro	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_103
-# text = Petrub ge ǁîb ǁkhowaamgu go gāxūhe
-# english = P. lost his keys.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	ǁkhowaamgu	ǁkhowa	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obj	6:obj	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	gāxūhe	gāxū	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_104
-# text = Haiǃgaob ge ǁgam-i ǃnâ ge tsōǂgâ
-# english = (This tree has very heavy wood. I threw a log in the river.) The log sank in the water.
-1	Haiǃgaob	haiǃgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁgam-i	ǁgam	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
-5	ge	ge	AUX	PAST	Tense=Past	6	aux	6:aux	_
-6	tsōǂgâ	tsōǂgâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_105
-# text = Petrub ge Mariasa ge ǃgam
-# english = P. killed M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	ǃgam	ǃgam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_106
-# text = Petrub ge Mariasa go ǂnau
-# english = P. hit M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǂnau	ǂnau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_107
-# text = Petrub ge Mariasa go ǁoa
-# english = P. kissed M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǁoa	ǁoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_108
-# text = Petrub ge gaxu ǂkhanisa ge khomai
-# english = P. read a long book.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	gaxu	gaxu	ADJ	_	_	4	amod	4:amod	_
-4	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_109
-# text = Petrub ge ǁîb ǀkhunuba go gongon
-# english = P. moved his finger.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	ǀkhunuba	ǀkhunu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	gongon	gongon	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_110
-# text = Petrub ge Mariasa ǃgôa hâ
-# english = P. respects M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
-4	ǃgôa	ǃgôa	VERB	_	Voice=Act	0	root	0:root	_
-5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_111
-# text = Petrub ge ǀurixa xawan xa a sauaǃnâxa
-# english = P. is squeamish about dirty dishes.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	ǀurixa	ǀurixa	ADJ	_	_	4	amod	4:amod	_
-4	xawan	xawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl	_
-5	xa	xa	ADP	_	_	4	case	4:case	_
-6	a	a	AUX	COP.PRS	Tense=Pres	7	cop	7:cop	_
-7	sauaǃnâxa	sauaǃnâxa	ADJ	_	_	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_112
-# text = Petrub ge ǁîb di ǀgôab ǀkha a ǂkhîǂâixa
-# english = (P.’s son does well at school.) P. is OK/content/satisfied with his son.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	ǀgôab	ǀgôa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
-6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
-7	a	a	AUX	STAT.PRS	Tense=Pres	8	aux	8:aux	_
-8	ǂkhîǂâixa	ǂkhîǂâixa	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_113
-# text = Petrub ge Mariasa ge ǀnam
-# english = P. fell in love with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	ǀnam	ǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_114
-# text = Petrub ge Mariasa ǂgomǃgâ hâ
-# english = (P. and M. have a happy family. M. never deceives P.) P. trusts M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
-4	ǂgomǃgâ	ǂgomǃgâ	VERB	_	Voice=Act	0	root	0:root	_
-5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_115
-# text = Petrub ge mamasa ra tsâbaǁhao
-# english = (P.’s mother is very ill.) P. sympathises with his mother.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	mamasa	mama	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	tsâbaǁhao	tsâbaǁhao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_116
-# text = Petrub ge Mariasa ra suri
-# english = (M. has a car, and P. doesn't). P. envies M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	suri	suri	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_117
-# text = Petrub ge Marias ǀkha ǁaixa hâ
-# english = P. is angry with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	5:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	_
-6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_118
-# text = Petrub ge nē ǀkhaexū-i xa ge buru
-# english = (M. made P. an expensive gift.) P. was surprised at this gift.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
-4	ǀkhaexū-i	ǀkhaexū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	_
-5	xa	xa	ADP	_	_	4	case	4:case	_
-6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-7	buru	buru	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_119
-# text = Petrub ge dai-e a ǀnam
-# english = P. loves milk.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
-4	a	a	AUX	STAT.PRS	Tense=Pres	5	aux	5:aux	_
-5	ǀnam	ǀnam	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_120
-# text = Petrub ge ǀgamsa tē-i xa a ǃgâibahe
-# english = (After being in cold water) P. enjoys hot tea.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	7:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	ǀgamsa	ǀgam	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	amod	4:amod	_
-4	tē-i	tē	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl:agent	7:obl:agent	_
-5	xa	xa	ADP	_	_	4	case	4:case	_
-6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	7:aux	_
-7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_121
-# text = Petrub ge ǀasa ǁâǁawaba ǂhâba hâ
-# english = P. wants a new mobile phone.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǀasa	ǀasa	ADJ	_	_	4	amod	4:amod	_
-4	ǁâǁawaba	ǁâǁawa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-5	ǂhâba	ǂhâba	VERB	_	Voice=Act	0	root	0:root	_
-6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_122
-# text = Petrub ge Marias ǃoagu sunuba ūhâ
-# english = (Why doesn’t P. speak with M.?) P. has a grudge against M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	6:nmod	_
-4	ǃoagu	ǃoagu	ADP	_	_	3	case	3:case	_
-5	sunuba	sunu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-6	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_123_1
-# text = Petrub ge Marias xa ge mîǁamhe
-# english = (M. called P. an idiot.) P. took offence at M. = P got cross with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl:agent	6:obl:agent	_
-4	xa	xa	ADP	_	_	3	case	3:case	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	mîǁamhe	mîǁam	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_123_2
-# text = Petrub ge Marias ǀkha ge ǁaixa
-# english = P. is angry with M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_124
-# text = Petrub ge buruxase Mariasa ge ǁaixa kai
-# english = P. greatly upset M. (He told her that he had spent all the money.)
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	buruxase	buruxase	ADV	_	_	7	advmod	7:advmod	_
-4	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	6:nsubj:xsubj|7:obj	_
-5	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-6	ǁaixa	ǁaixa	ADJ	_	_	7	xcomp	7:xcomp	_
-7	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_125
-# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
-# english = (P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj:pass	7:nsubj:xsubj|8:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
-4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
-5	xa	xa	ADP	_	_	4	case	4:case	_
-6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
-7	buruǂgâ	buruǂgâ	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
-8	kaihe	kai	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_126
-# text = Petrub ge Mariasa ǃharaxū
-# english = P. despises M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
-4	ǃharaxū	ǃharaxū	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_127
-# text = Petrub ge ǁîb di ǀgôab ǀkha go ǁaixa
-# english = (P.’s son got bad marks in school once again.) P. got upset with his son. = P. got upset because of his son.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	ǀgôab	ǀgôa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
-6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
-7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
-8	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_128
-# text = Petrub ge ǁîb di ǀgôas xa ra ǀhū kaihe
-# english = (P. has a very bad disposition. Look, once again) P. is getting irritated with his daughter.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj:pass	8:nsubj:xsubj|9:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	ǀgôas	ǀgôa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl:agent	8:obl:agent	_
-6	xa	xa	ADP	_	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
-8	ǀhū	ǀhū	VERB	_	Voice=Act	9	xcomp	9:xcomp	_
-9	kaihe	kai	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_129
-# text = Petrub ge Mariasa ǀnam
-# english = P. is fond of M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
-4	ǀnam	ǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_130
-# text = Petrub ge ǁîb gaxusiba ra tao
-# english = (P. is the smallest in his class.) P. is shy / embarrassed about his height.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	gaxusiba	gaxusi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	tao	tao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # newdoc id = film_Bridge
 # sent_id = film_Bridge_173
@@ -24089,867 +24349,607 @@
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	kuru	kuru	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# newdoc id = book_Khomai_2
-# sent_id = book_Khomai_2_1
-# text = ǀGoan tsîn ge ǀnai haidi ǁga ra ǀgāǃgû.
-# english = The children are also already taking cover under the trees.
-1	ǀGoan	ǀgoa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
-2	tsîn	tsîn	ADV	_	Case=Nom	1	advmod:emph	1:advmod:emph	_
-3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-4	ǀnai	ǀnai	ADV	_	_	8	advmod	8:advmod	_
-5	haidi	hai	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	obl	8:obl	_
-6	ǁga	ǁga	ADP	_	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	ǀgāǃgû	ǀgāǃgû	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_2
-# text = Nē ǀnanus ge ǃnawe tama da hâse nî hā hō da.
-# english = This rain will catch us unexpectedly (lit. while we are not expecting) [ǃnawe tama = unexpectedly, fixed expression!]
-1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
-2	ǀnanus	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	10:nsubj:xsubj|11:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-4	ǃnawe	ǃnawe	VERB	_	Voice=Act	11	advcl	11:advcl	_
-5	tama	tama	PART	NEG	Polarity=Neg	4	advmod	4:advmod	_
-6	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-7-8	hâse	_	_	_	_	_	_	_	_
-7	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	_
-8	se	se	SCONJ	MANNER	_	4	mark	4:mark	_
-9	nî	nî	AUX	FUT	Tense=Fut	11	aux	11:aux	_
-10	hā	hā	VERB	_	Voice=Act	11	xcomp	11:xcomp	_
-11	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
-12	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	11	obj	11:obj	SpaceAfter=No
-13	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_3
-# text = Mamas ge ǁāsaran âsa ru ūǁnā.
-# english = Mother is taking down her laundry.
-1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁāsaran	ǁāsara	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	_
-4	âsa	â	PRON	ASSOC	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-5	ru	ra	AUX	_	Aspect=Imp	6	aux	6:aux	_
-6	ūǁnā	ūǁnā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_4
-# text = ǀNanudi ge ama îxase ra ǁgau.
-# english = The clouds are really looking good (promising rain).
-1	ǀNanudi	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ama	ama	ADV	_	_	4	advmod	4:advmod	_
-4	îxase	îxase	ADV	_	_	6	advmod	6:advmod	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǁgau	ǁgau	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_5
-# text = Sida ge nētsē ama gawuxa-ai tsēsa ūhâ.
-# english = Today, we are having a really cloudy day.
-1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	nētsē	nētsē	ADV	_	_	7	advmod	7:advmod	_
-4	ama	ama	ADV	_	_	5	advmod	5:advmod	_
-5	gawuxa-ai	gawuxa-ai	ADJ	_	_	6	amod	6:amod	_
-6	tsēsa	tsē	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
-7	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_6
-# text = ǀAse i ge ama ǀgaisase nî ǀawi.
-# english = Soon it will rain really hard.
-1	ǀAse	ǀase	ADV	_	_	2	advmod	2:advmod	_
-2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-4	ama	ama	ADV	_	_	5	advmod	5:advmod	_
-5	ǀgaisase	ǀgaisase	ADV	_	_	7	advmod	7:advmod	_
-6	nî	nî	AUX	FUT	Tense=Fut	7	aux	7:aux	_
-7	ǀawi	ǀawi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_7
-# text = Aiǂoas ǃna-i ge ǀnai go ǀawi tsoatsoa.
-# english = In the east it has already started raining.
-1	Aiǂoas	aiǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
-2-3	ǃna-i	_	_	_	_	_	_	_	_
-2	ǃna	ǃna	ADP	_	_	1	case	1:case	_
-3	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	7:nsubj:xsubj|8:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-5	ǀnai	ǀnai	ADV	_	_	8	advmod	8:advmod	_
-6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
-7	ǀawi	ǀawi	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
-8	tsoatsoa	tsoatsoa	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_8
-# text = Kō re, ama ǀawiǀnanudi ge nēde.
-# english = Look! These are really rain coulds.
-1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
-2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
-3	,	,	PUNCT	_	_	7	punct	7:punct	_
-4	ama	ama	ADV	_	_	7	advmod	7:advmod	_
-5	ǀawiǀnanudi	ǀawiǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	nsubj	7:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-7	nēde	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Fem|Number=Plur|Person=3|PronType=Dem	1	ccomp	1:ccomp	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_9
-# text = ǂOab ge ǁîde nē ǂnamipeb ǃoa ra ǃgomhau.
-# english = The wind is blowing them to this side.
-1	ǂOab	ǂoa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǁîde	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	8	obj	8:obj	_
-4	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
-5	ǂnamipeb	ǂnamipe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
-6	ǃoa	ǃoa	ADP	_	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	ǃgomhau	ǃgomhau	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_10
-# text = Saras tsî Maras tsî ǃgâgura ge ra hui si.
-# english = The sisters Sara and Mara are helping her.
-1	Saras	Sara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
-3	Maras	Mara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	1:conj|8:nsubj	_
-4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
-5	ǃgâgura	ǃgâgu	NOUN	_	Case=Nom|Gender=Fem|Number=Dual|Person=3	1	conj	1:conj|8:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	hui	hui	VERB	_	Voice=Act	0	root	0:root	_
-9	si	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_11
-# text = ǀAwiǀnanudi.
-# english = Rain clouds
-1	ǀAwiǀnanudi	ǀAwiǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_12
-# text = Ama ǀgaisa ǀnanus ge nēba ǀgūse ǃgoaxa.
-# english = A really strong rain is coming close to here.
-1	Ama	ama	ADV	_	_	2	advmod	2:advmod	_
-2	ǀgaisa	ǀgaisa	ADJ	_	_	3	amod	3:amod	_
-3	ǀnanus	ǀnanu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-5	nēba	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	obj	7:obj	_
-6	ǀgūse	ǀgūse	ADV	_	_	7	advmod	7:advmod	_
-7	ǃgoaxa	ǃgoaxa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_2_13
-# text = ǃGurub tsî nawab tsîkha ge aiǃâb ǁga ǀgui ra ǀgai.
-# english = The thunder and lightning are getting more stronger.
-1	ǃGurub	ǃguru	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
-3	nawab	nawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	conj	1:conj|11:nsubj	_
-4-5	tsîkha	_	_	_	_	_	_	_	_
-4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
-5	kha	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=3	1	conj	1:conj|11:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	aiǃâb	aiǃâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
-8	ǁga	ǁga	ADP	_	_	7	case	7:case	_
-9	ǀgui	ǀgui	ADV	_	_	11	advmod	11:advmod	_
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	ǀgai	ǀgai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
-
-# newdoc id = book_Khomai_7
-# sent_id = book_Khomai_7_1
-# text = ǁîn ge ǁhōgu ǃna ra ǀhaoǀhaohe.
-# english = They are collcted in bags.
-1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǁhōgu	ǁhō	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obl	6:obl	_
-4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	ǀhaoǀhaohe	ǀhaoǀhao	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_2
-# text = Kaikhoen ge ǃhūb di aoseni ti ra mî în.
-# english = The elders call them "the sweat of the ground".
-1	Kaikhoen	kaikhoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǃhūb	ǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	5:POSS	_	3	case	3:case	_
-5	aoseni	aoseni	ADV	_	_	9	iobj	9:iobj	_
-6	ti	ti	PART	QUOT	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
-9	în	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Typo=Yes	8	obj	8:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_3
-# text = ǁHawan ge ǃaian khama ī tsî ǃaian khami ǃhūb ǃnaga ra ǁhoa.
-# english = The truffles look like potatos and they grow under the ground like potatos.
-1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nsubj	5:nsubj|12:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǃaian	ǃaia	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	obl	5:obl	_
-4	khama	khama	ADP	_	_	3	case	3:case	_
-5	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
-6	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
-7	ǃaian	ǃaia	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	obl	12:obl	_
-8	khami	khami	ADP	_	_	7	case	7:case	_
-9	ǃhūb	ǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	12:obl	_
-10	ǃnaga	ǃnāka	ADP	_	Typo=Yes	9	case	9:case	_
-11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-12	ǁhoa	ǁhoa	VERB	_	Voice=Act	5	conj	5:conj	SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	5:punct|12:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_4
-# text = ǁîn on ge ǁgan-i khami tsâ.
-# english = And they also taste like meat.
-1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-2	on	on	ADV	_	Case=Nom	1	advmod	1:advmod	_
-3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-4	ǁgan-i	ǁgan	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
-5	khami	khami	ADP	_	_	4	case	4:case	_
-6	tsâ	tsâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_5
-# text = ǁHawan
-# english = truffles
-1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_6
-# text = ǁîn ge ǂawa hâ ǃhūkhuworodi ai ǀgui ra hōhe.
-# english = They can only be found on cracked soils.
-1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	9:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-3	ǂawa	ǂawa	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
-4	hâ	hâ	AUX	PFV	Aspect=Perf	3	aux	3:aux	_
-5	ǃhūkhuworodi	ǃhūkhuwo	NOUN	_	Case=Nom|Degree=Dim|Gender=Fem|Number=Plur|Person=3	9	obl	3:nsubj|9:obl	_
-6	ai	ai	ADP	_	_	5	case	5:case	_
-7	ǀgui	ǀgui	ADV	_	_	5	advmod	5:advmod	_
-8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
-9	hōhe	hō	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_7
-# text = ǁHawana ǃhamis ge amase a ǃgom.
-# english = It's really difficult to forage/collect them (truffles).
-1	ǁHawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	2	nmod:poss	2:nmod:poss	_
-2	ǃhamis	ǃhami	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-4	amase	amase	ADV	_	_	6	advmod	6:advmod	_
-5	a	a	AUX	COP.PRS	Tense=Pres	6	cop	6:cop	_
-6	ǃgom	ǃgom	ADJ	_	_	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_8
-# text = ǁîn ge ǀgowaǃhūb ǃna ra hōhe.
-# english = They can be found in the desert.
-1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	ǀgowaǃhūb	ǀgowaǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
-4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
-5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
-6	hōhe	hō	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_9
-# text = Mamas ge ǁhawana ǁanǁan tsî ǁhaos ai ra ǃā.
-# english = My mother cooks the truffles (as a prepeartion for drying) and hangs them on the roof.
-1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj|9:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|9:aux	_
-3	ǁhawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	obj	4:obj|9:obj	_
-4	ǁanǁan	ǁanǁan	VERB	_	Voice=Act	0	root	0:root	_
-5	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
-6	ǁhaos	ǁhao	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	9:obl	_
-7	ai	ai	ADP	_	_	6	case	6:case	_
-8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	4:aux|9:aux	_
-9	ǃā	ǃā	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_7_10
-# text = ǁHawana ǂan du a ǃgaroǂûna?
-# english = Do you know the veld food truffles?
-1	ǁHawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	2	obj	2:obj	_
-2	ǂan	ǂan	VERB	STAT	Voice=Act	0	root	0:root	_
-3	du	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-4	a	a	AUX	STAT.PRS	Tense=Pres	2	aux	2:aux	_
-5	ǃgaroǂûna	ǃgaroǂû	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	1	appos	1:appos	SpaceAfter=No
-6	?	?	PUNCT	_	_	2	punct	2:punct	_
-
-# sent_id = book_Khomai_7_11
-# text = ǁHawan ge ǁhaob ǃna ǀgui ra hâ.
-# english = There are truffles only during the rainy seasons.
-1	ǁHawan	ǁhawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	ǁhaob	ǁhao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
-4	ǃna	ǃna	ADP	_	_	3	case	3:case	_
-5	ǀgui	ǀgui	ADV	_	_	7	advmod	7:advmod	_
-6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-7	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
-
-# newdoc id = book_Khomai_15
-# sent_id = book_Khomai_15_1
-# text = ǁîdi ge hoa ǀgam ǁkhûikha ǁkhadi go ǃgaoǂgā.
-# english = They also cut both shoulders (of the ox).
-1	ǁîdi	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	hoa	hoa	DET	_	PronType=Tot	5	det	5:det	_
-4	ǀgam	ǀgam	NUM	_	NumType=Card	5	nummod	5:nummod	_
-5	ǁkhûikha	ǁkhûi	NOUN	_	Case=Acc|Gender=Masc|Number=Dual|Person=3	8	obj	8:obj	_
-6	ǁkhadi	ǁkhāti	ADV	_	Typo=Yes	5	advmod	5:advmod	_
-7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
-8	ǃgaoǂgā	ǃgaoǂgā	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_2
-# text = Tsuxub ǃna da ge ganube ama ǁkhoaxase ge re ǁnae.
-# english = In the night we were still singing very happily.
-1	Tsuxub	tsuxu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
-2	ǃna	ǃna	ADP	_	_	1	case	1:case	_
-3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-5	ganube	ganube	ADV	_	_	10	advmod	10:advmod	_
-6	ama	ama	ADV	_	_	7	advmod	7:advmod	_
-7	ǁkhoaxase	ǁkhoaxase	ADV	_	_	10	advmod	10:advmod	_
-8	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	10	aux	10:aux	CorrectSpaceAfter=No
-9	re	_	X	_	_	8	goeswith	8:goeswith	_
-10	ǁnae	ǁnae	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_3
-# text = Sida oms tawas ge nētsē ǁguibasa hâ.
-# english = There is a party at our house today.
-1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
-3-4	tawas	_	_	_	_	_	_	_	_
-3	tawa	tawa	ADP	_	_	2	case	2:case	_
-4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	expl	8:expl	_
-5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-6	nētsē	nētsē	ADV	_	_	8	advmod	8:advmod	_
-7	ǁguibasa	ǁguiba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-8	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_4
-# text = Karab ais ge ǂûǁaesa ge tsoatsoa.
-# english = In the afternoon, the feast began.
-1	Karab	kara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
-2-3	ais	_	_	_	_	_	_	_	_
-2	ai	ai	ADP	_	_	1	case	1:case	_
-3	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	7	expl	7:expl	_
-4	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-5	ǂûǁaesa	ǂûǁae	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-7	tsoatsoa	tsoatsoa	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_5
-# text = ǀGôaron ge ǂkhōnxūna ǂhûihe tsî kaise ge re ǃgâiaǂgao.
-# english = The young children were given sweets and they were very happy.
-1	ǀGôaron	ǀgôa	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Plur|Person=3	4	nsubj:pass	4:nsubj:pass|9:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|9:aux	_
-3	ǂkhōnxūna	ǂkhōnxū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	obj	4:obj	_
-4	ǂhûihe	ǂhûi	VERB	_	Voice=Pass	0	root	0:root	_
-5	tsî	tsî	CCONJ	_	_	9	cc	9:cc	_
-6	kaise	kaise	ADV	_	_	9	advmod	9:advmod	_
-7	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	9	aux	4:aux|9:aux	CorrectSpaceAfter=No
-8	re	_	X	_	_	7	goeswith	7:goeswith	_
-9	ǃgâiaǂgao	ǃgâiaǂgao	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_6
-# text = ǁAnǁare-aon ge nētsē sida oms tawa kai ǃgâiaǂgaob ǃna ǀhû hâ.
-# english = The neighbours are gathering today at our house with great happiness.
-1	ǁAnǁare-aon	ǁanǁare-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	10	nsubj	10:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-3	nētsē	nētsē	ADV	_	_	10	advmod	10:advmod	_
-4	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	oms	om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	10:obl	_
-6	tawa	tawa	ADP	_	_	5	case	5:case	_
-7	kai	kai	ADJ	_	_	8	amod	8:amod	_
-8	ǃgâiaǂgaob	ǃgâiaǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
-9	ǃna	ǃna	ADP	_	_	8	case	8:case	_
-10	ǀhû	ǀhû	VERB	_	Voice=Act	0	root	0:root	_
-11	hâ	hâ	AUX	PFV	Aspect=Perf	10	aux	10:aux	SpaceAfter=No
-12	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_7
-# text = Amob ge go ǀgamdisi ǀguiǀā kurixa.
-# english = Amos is already 21 years old.
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-4	ǀgamdisi	ǀgamdīsi	NUM	_	NumType=Card|Typo=Yes	6	nummod	6:nummod	_
-5	ǀguiǀā	ǀgui	NUM	_	NumType=Card	4	flat:num	4:flat:num	_
-6	kurixa	kurixa	ADJ	_	_	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_8
-# text = Amob di ǃnaetsēs.
-# english = Amos' birthday.
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
-2	di	di	ADP	POSS	_	1	case	1:case	_
-3	ǃnaetsēs	ǃnaetsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_9
-# text = Dadab ge kausa tsaugomaba go ǃgûiba da.
-# english = Father slaughtered a fat ox for us.
-1	Dadab	dada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	kausa	kausa	ADJ	_	_	4	amod	4:amod	_
-4	tsaugomaba	tsaugoma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
-5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-6	ǃgûiba	ǃgûi	VERB	STAT	Voice=Appl	0	root	0:root	_
-7	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	6	iobj:appl	6:iobj:appl	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_10
-# text = ǂÛs khaoǃgâ gu ge aoga ǂauxûiba ǃnâ-omi ǃna ge re ā.
-# english = After eating, the men were drinking wine in the interior room.
-1	ǂÛs	ǂû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
-2	khaoǃgâ	khaoǃgâ	ADP	_	_	1	case	1:case	_
-3	gu	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	expl	11:expl	_
-4	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-5	aoga	ao	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nsubj	11:nsubj	_
-6	ǂauxûiba	ǂauxûi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obj	11:obj	_
-7	ǃnâ-omi	ǃnâ-om	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	_
-8	ǃna	ǃna	ADP	_	_	7	case	7:case	_
-9	ge	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past|Typo=Yes	11	aux	11:aux	CorrectSpaceAfter=No
-10	re	_	X	_	_	9	goeswith	9:goeswith	_
-11	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_11
-# text = Maras tsî Saras tsîra on ge ǁî de ra huî.
-# english = Mara and Sara are helping them too.
-1	Maras	Mara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-2	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
-3	Saras	Sara	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	conj	1:conj|11:nsubj	_
-4-5	tsîra	_	_	_	_	_	_	_	_
-4	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
-5	ra	_	PRON	_	Case=Nom|Gender=Fem|Number=Dual|Person=3|PronType=Prs	1	conj	1:conj|11:nsubj	_
-6	on	on	ADV	_	Case=Nom	1	advmod	1:advmod|3:advmod|5:advmod	_
-7	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-8	ǁî	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Typo=Yes	11	obj	11:obj	_
-9	de	_	X	_	_	8	goeswith	8:goeswith	CorrectSpaceAfter=No
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	huî	huî	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_12
-# text = Mamas tsî ǁîs horesadi on ge ra ǂûdi.
-# english = Mother and her friends are also cooking.
-1	Mamas	mama	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-2	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
-3	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
-4	horesadi	horesa	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	1	conj	1:conj|8:nsubj	_
-5	on	on	ADV	_	Case=Nom	1	advmod	1:advmod|3:advmod	_
-6	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	ǂûdi	ǂûdi	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_15_13
-# text = Taradi ge ǀgûisa ǃanu tsî danas tsî ǃūgu tsîna go ro ǁkhao.
-# english = Women were cleaning the intestines, and also were scraping the head and the cannon/shin.
-1	Taradi	tara	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	4	nsubj	4:nsubj|12:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux|12:aux	_
-3	ǀgûisa	ǀgûi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
-4	ǃanu	ǃanu	VERB	_	Voice=Act	0	root	0:root	_
-5	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
-6	danas	dana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obj	12:obj	_
-7	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
-8	ǃūgu	ǃū	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	conj	6:conj|12:obj	_
-9	tsîna	tsîn	ADV	_	Case=Acc	6	advmod:emph	6:advmod:emph|8:advmod:emph	_
-10	go	goro	AUX	RPST.IPFV	Aspect=Imp|Tense=RecPast|Typo=Yes	12	aux	4:aux|12:aux	CorrectSpaceAfter=No
-11	ro	_	X	_	_	10	goeswith	10:goeswith	_
-12	ǁkhao	ǁkhao	VERB	_	Voice=Act	4	conj	4:conj	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
-
-# newdoc id = book_Khomai_25
-# sent_id = book_Khomai_25_1
-# text = Nau ǀgôan di ǂkhuwib ǃgâiba bi tama, amagab ge ǀguri ra hâ ǁkhāǁkhāsen ǂgaob kao.
-# english = The noice of the other children is not good for him (ǃgâiba be good for him!) therefore he stays alone when he wants to learn.
-1	Nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
-2	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod:poss	4:nmod:poss	_
-3	di	di	ADP	POSS	_	2	case	2:case	_
-4	ǂkhuwib	ǂkhuwi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-5	ǃgâiba	ǃgâi	VERB	_	Voice=Appl	14	advcl	14:advcl	_
-6	bi	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	5	obj:appl	5:obj:appl	_
-7	tama	tama	PART	NEG	Polarity=Neg	5	advmod	5:advmod	SpaceAfter=No
-8	,	,	PUNCT	_	_	5	punct	5:punct	_
-9-10	amagab	_	_	_	_	_	_	_	_
-9	amaga	amaga	SCONJ	_	_	5	mark	5:mark	_
-10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
-11	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
-12	ǀguri	ǀguri	ADV	_	_	14	advmod	14:advmod	_
-13	ra	ra	AUX	IPFV	Aspect=Imp	14	aux	14:aux	_
-14	hâ	hâ	VERB	_	Voice=Act	0	root	0:root	_
-15	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	16	xcomp	16:xcomp	_
-16-17	ǂgaob	_	_	_	_	_	_	_	_
-16	ǂgao	ǂgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	advcl	14:advcl	_
-17	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	15:nsubj:xsubj|16:nsubj	_
-18-19	kao	_	_	_	_	_	_	_	SpaceAfter=No
-18	ka	ga	AUX	POT	Mood=Pot	16	aux	16:aux	_
-19	o	o	SCONJ	_	_	16	mark	16:mark	_
-20	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_2
-# text = ǀAsa ǀawa ǂkhanis ge nēsa.
-# english = This is a new red book.
-1	ǀAsa	ǀasa	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	amod	3:amod	_
-2	ǀawa	ǀawa	ADJ	_	_	3	amod	3:amod	_
-3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	nēsa	nē	PRON	PROX	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_3
-# text = Petrub ge ǂkhanis âba ǀkhuwi, tsēs aib ge Amoba ge ǁom ǁoa ī.
-# english = On the day Petrus borrowed his book, Amos could not sleep.
+# newdoc id = grammar_BivalTyp
+# sent_id = grammar_BivalTyp_71
+# text = Petrub ge dai-e ge ā
+# english = (P. was given a glass of milk by his mother.) P. drank the milk.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	âba	â	PRON	ASSOC	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-5	ǀkhuwi	ǀkhuwi	VERB	_	Voice=Act	7	acl	7:acl	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	5:punct	_
-7	tsēs	tsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	obl	14:obl	_
-8-9	aib	_	_	_	_	_	_	_	_
-8	ai	ai	ADP	_	_	7	case	7:case	_
-9	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	14:expl	_
-10	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux	_
-11	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nsubj	13:nsubj:xsubj|14:nsubj	_
-12	ge	ge	AUX	_	Tense=Past	14	aux	14:aux	_
-13	ǁom	ǁom	VERB	_	Voice=Act	14	xcomp	14:xcomp	_
-14	ǁoa	ǁoa	VERB	STAT	Voice=Act	0	root	0:root	_
-15	ī	i	AUX	STAT.NPRS	Tense=Fut,Past,RecPast|Typo=Yes	14	aux	14:aux	SpaceAfter=No
-16	.	.	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_4
-# text = ǁGoagab ga khâi, ob ge aibe ǂkhanisa ra ūǂui, ǁkhāǁkhāsens ǃaroma.
-# english = When he wakes up in the morning, then he first takes out the book for learning.
-1-2	ǁGoagab	_	_	_	_	_	_	_	_
-1	ǁGoaga	ǁgoaga	ADV	_	_	4	advmod	4:advmod	_
-2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-3	ga	ga	AUX	POT	Mood=Pot	4	aux	4:aux	_
-4	khâi	khâi	VERB	_	Voice=Act	12	advcl	12:advcl	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	4:punct	_
-6-7	ob	_	_	_	_	_	_	_	_
-6	o	o	ADV	_	_	12	advmod	12:advmod	_
-7	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
-8	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-9	aibe	aibe	ADV	_	_	12	advmod	12:advmod	_
-10	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obj	12:obj	_
-11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-12	ūǂui	ūǂui	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	14:punct	_
-14	ǁkhāǁkhāsens	ǁkhāǁkhāsen	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obl	12:obl	_
-15	ǃaroma	ǃaroma	ADP	_	_	14	case	14:case	SpaceAfter=No
-16	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_5
-# text = Skoli ka ǂoa ob ge ǂûs khaoǃgâ aibe ra ǁkhāǁkhāsen.
-# english = After school (lit. when the school is over), after eating he first learns.
-1	Skoli	skol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	3:nsubj	_
-2	ka	ga	AUX	POT	Mood=Pot	3	aux	3:aux	_
-3	ǂoa	ǂoa	VERB	_	Voice=Act	11	advcl	11:advcl	_
-4-5	ob	_	_	_	_	_	_	_	_
-4	o	o	ADV	_	_	11	advmod	11:advmod	_
-5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	ǂûs	ǂû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
-8	khaoǃgâ	khaoǃgâ	ADP	_	_	7	case	7:case	_
-9	aibe	aibe	ADV	_	_	11	advmod	11:advmod	_
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	ǁkhāǁkhāsen	ǁkhāǁkhā	VERB	_	Voice=Rfl	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_6
-# text = Amob di ǂkhanis.
-# english = The book of Amos.
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
-2	di	di	ADP	POSS	_	1	case	1:case	_
-3	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_7
-# text = Sadu ona Amob khami ī ǂgoa tama hâ?
-# english = Don't you also want to be like Amos?
-1	Sadu	sa	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
-2	ona	on	ADV	_	Case=Acc	1	advmod	1:advmod	_
-3	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	5:obl	_
-4	khami	khami	ADP	_	_	3	case	3:case	_
-5	ī	ī	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
-6	ǂgoa	ǂgoa	VERB	_	Voice=Act	0	root	0:root	_
-7	tama	tama	PART	NEG	Polarity=Neg	6	advmod	6:advmod	_
-8	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpaceAfter=No
-9	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_8
-# text = ǁNāǁaeb ai ǀguib ge Amoba ge ǁom ǁkhā.
-# english = Only then Amos could sleep.
-1	ǁNā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem|Typo=Yes	2	det	2:det	SpaceAfter=No|CorrectSpaceAfter=Yes
-2	ǁaeb	ǁae	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	_
-3	ai	ai	ADP	_	_	1	case	1:case	_
-4-5	ǀguib	_	_	_	_	_	_	_	_
-4	ǀgui	ǀgui	ADV	_	_	2	advmod	2:advmod	_
-5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	10:expl	_
-6	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-7	Amoba	Amo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nsubj	9:nsubj:xsubj|10:nsubj	_
-8	ge	ge	AUX	_	Tense=Past	10	aux	10:aux	_
-9	ǁom	ǁom	VERB	_	Voice=Act	10	xcomp	10:xcomp	_
-10	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_9
-# text = ǁNāǁaeb ais ge ǁgûsa ge ū bi, tsîra ge Petrub tawa ǂkhanisa sī ge ū.
-# english = At that time the mother took him and they went to get the book from Petrus.
-1	ǁNā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem|Typo=Yes	2	det	2:det	SpaceAfter=No|CorrectSpaceAfter=Yes
-2	ǁaeb	ǁae	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
-3-4	ais	_	_	_	_	_	_	_	_
-3	ai	ai	ADP	_	_	2	case	2:case	_
-4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	expl	8:expl	_
-5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-6	ǁgûsa	ǁgû	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
-8	ū	ū	VERB	_	Voice=Act	0	root	0:root	_
-9	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	SpaceAfter=No
-10	,	,	PUNCT	_	_	8	punct	8:punct	_
-11-12	tsîra	_	_	_	_	_	_	_	_
-11	tsî	tsî	CCONJ	_	_	19	cc	19:cc	_
-12	ra	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=3|PronType=Prs	19	nsubj	19:nsubj	_
-13	ge	ge	AUX	DECL	Mood=Ind	19	aux	19:aux	_
-14	Petrub	Petrub	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	obl	19:obl	_
-15	tawa	tawa	ADP	_	_	14	case	14:case	_
-16	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	19:obj	_
-17	sī	sī	VERB	_	Voice=Act	19	compound:svc	19:compound:svc	_
-18	ge	ge	AUX	_	Tense=Past	19	aux	19:aux	_
-19	ū	ū	VERB	_	Voice=Act	8	conj	8:conj	SpaceAfter=No
-20	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_10
-# text = Ôasaseb ta ǁkhāǁkhāsen, xui-aob ge ǁnaosaba ǁnā ǂkhanisa ge ǁamaba bi.
-# english = Because he is learning diligently/eagerly, the uncle baught him this book.
-1-2	Ôasaseb	_	_	_	_	_	_	_	_
-1	Ôasase	ôasase	ADV	_	_	4	advmod	4:advmod	_
-2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-3	ta	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
-4	ǁkhāǁkhāsen	ǁkhāǁkhāsen	VERB	_	Voice=Act	13	advcl	13:advcl	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	4:punct	_
-6-7	xui-aob	_	_	_	_	_	_	_	_
-6	xui-aob	xui-ao	SCONJ	_	_	4	mark	4:mark	_
-7	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	13:expl	_
-8	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
-9	ǁnaosaba	ǁnaosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nsubj	13:nsubj	_
-10	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	11	det	11:det	_
-11	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obj	13:obj	_
-12	ge	ge	AUX	_	Tense=Past	13	aux	13:aux	_
-13	ǁamaba	ǁama	VERB	_	Voice=Appl	0	root	0:root	_
-14	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj:appl	13:iobj:appl	SpaceAfter=No
-15	.	.	PUNCT	_	_	13	punct	13:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_11
-# text = Amob ge ǂkhanisa ra khomai.
-# english = Amos is reading a book.
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+5	ā	ā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_12
-# text = ǂKharirob ga xaweb ge Amoba ǀnai ǃgâise ra khomai.
-# english = Although he is little, Amos already reads well.
-1-2	ǂKharirob	_	_	_	_	_	_	_	_
-1	ǂKhariro	ǂkhari	ADJ	_	Degree=Dim	11	advcl	11:advcl	_
-2	b	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	1	nsubj	1:nsubj	_
-3	ga	ga	AUX	POT	Mood=Pot	1	aux	1:aux	_
-4-5	xaweb	_	_	_	_	_	_	_	_
-4	xawe	xawe	CCONJ	_	_	11	cc	11:cc	_
-5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
-6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-8	ǀnai	ǀnai	ADV	_	_	11	advmod	11:advmod	_
-9	ǃgâise	ǃgâise	ADV	_	_	11	advmod	11:advmod	_
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_72
+# text = Petrub ge ǀhaiǀuriba ge tsunitsuni
+# english = P. melted a piece of lead.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǀhaiǀuriba	ǀhaiǀuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	tsunitsuni	tsunitsuni	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_13
-# text = Ob ge: "Hîî, Petrub ge ti ǂkhanisa go ǀkhuwi tsî ta ge ǂomsa a hō ǁoa", ti ge mî.
-# english = No Petrus borrowed my book and I cannot fall asleep.
-1-2	Ob	_	_	_	_	_	_	_	_
-1	O	o	ADV	_	_	25	advmod	25:advmod	_
-2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	25:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	25	aux	25:aux	SpaceAfter=No
-4	:	:	PUNCT	_	_	13	punct	13:punct	_
-5	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-6	Hîî	hî-î	INTJ	_	Polarity=Neg|Typo=Yes	13	discourse	13:discourse	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	6:punct	_
-8	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	13:nsubj	_
-9	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
-10	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
-11	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obj	13:obj	_
-12	go	go	AUX	_	Tense=RecPast	13	aux	13:aux	_
-13	ǀkhuwi	ǀkhuwi	VERB	_	Voice=Act	25	ccomp	25:ccomp	_
-14	tsî	tsî	CCONJ	_	_	20	cc	20:cc	_
-15	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	19:nsubj:xsubj|20:nsubj	_
-16	ge	ge	AUX	DECL	Mood=Ind	20	aux	20:aux	_
-17	ǂomsa	ǂom	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	19:obj	_
-18	a	a	AUX	STAT.PRS	Tense=Pres	20	aux	20:aux	_
-19	hō	hō	VERB	_	Voice=Act	20	xcomp	20:xcomp	_
-20	ǁoa	ǁoa	VERB	STAT	Voice=Act	13	conj	13:conj	SpaceAfter=No
-21	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-22	,	,	PUNCT	_	_	13	punct	13:punct	_
-23	ti	ti	PART	QUOT	_	13	case	13:case	_
-24	ge	ge	AUX	_	Tense=Past	25	aux	25:aux	_
-25	mî	mî	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-26	.	.	PUNCT	_	_	25	punct	25:punct	SpacesAfter=\n
-
-# sent_id = book_Khomai_25_14
-# text = ǂKhanisa a ǀnam khoe-i ge ǃhaese ra gâ-ai.
-# english = A book lover quickly becomes clever
-1	ǂKhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	3:obj	_
-2	a	a	AUX	STAT.PRS	Tense=Pres	3	aux	3:aux	_
-3	ǀnam	ǀnam	VERB	STAT	Voice=Act	4	amod	4:amod	_
-4	khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-6	ǃhaese	ǃhaese	ADV	_	_	8	advmod	8:advmod	_
+# sent_id = grammar_BivalTyp_73
+# text = Nē bands ge ti rokhoes ǀkha ra ǀgau
+# english = (A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+2	bands	band	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+4	ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	rokhoes	rokhoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	8:obl	_
+6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
 7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	gâ-ai	gâ-ai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+8	ǀgau	ǀgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_15
-# text = Tsî ǁgûrab ka hui toa, o ǀguib ge nau ǀgôan ǀkha ra ǀhuru.
-# english = Only when he is done helping his parents, he plays with the other children.
-1	Tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
-2-3	ǁgûrab	_	_	_	_	_	_	_	_
-2	ǁgûra	ǁgû	NOUN	_	Gender=Neut|Number=Dual|Person=3	5	obj	5:obj	_
-3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	_
-4	ka	ga	AUX	POT	Mood=Pot	6	aux	6:aux	_
-5	hui	hui	VERB	_	Voice=Act	6	xcomp	6:xcomp	_
-6	toa	toa	VERB	_	Voice=Act	16	advcl	16:advcl	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	6:punct	_
-8	o	o	ADV	_	_	16	advmod	16:advmod	_
-9-10	ǀguib	_	_	_	_	_	_	_	_
-9	ǀgui	ǀgui	ADV	_	_	16	advmod	16:advmod	_
-10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
-11	ge	ge	AUX	DECL	Mood=Ind	16	aux	16:aux	_
-12	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	13	det	13:det	_
-13	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	16	obl	16:obl	_
-14	ǀkha	ǀkha	ADP	_	_	13	case	13:case	_
-15	ra	ra	AUX	IPFV	Aspect=Imp	16	aux	16:aux	_
-16	ǀhuru	ǀhuru	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	16:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_74
+# text = Petrub ge ǁîb di ǃnae ǃāsa ge ǁnāxū
+# english = P. left his native city.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	POSS	_	3	case	3:case	_
+5	ǃnae	ǃnae	ADJ	_	_	6	amod	6:amod	_
+6	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
+7	ge	ge	AUX	_	Tense=Past	8	aux	8:aux	_
+8	ǁnāxū	ǁnāxū	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_16
-# text = ǁGoeb ka ob ge ǂkhanisa ǂkhawis ǃnaga ra sâu, kās tide ga.
-# english = When he lies down/goes to sleep, he hides the book under the pillow, so that it does not get lost.
-1-2	ǁGoeb	_	_	_	_	_	_	_	_
-1	ǁGoe	ǁgoe	VERB	_	Voice=Act	11	advcl	11:advcl	_
-2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	_
-3	ka	ga	AUX	POT	Mood=Pot	1	aux	1:aux	_
-4-5	ob	_	_	_	_	_	_	_	_
-4	o	o	ADV	_	_	11	advmod	11:advmod	_
-5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obj	11:obj	_
-8	ǂkhawis	ǂkhawi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
-9	ǃnaga	ǃnāka	ADP	_	Typo=Yes	8	case	8:case	_
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	sâu	sâu	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	13:punct	_
-13-14	kās	_	_	_	_	_	_	_	_
-13	kā	kā	VERB	_	Voice=Act	11	advcl	11:advcl	_
-14	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	13	nsubj	13:nsubj	_
-15	tide	tite	AUX	NEG.FUT	Polarity=Neg|Tense=Fut	13	aux	13:aux	_
-16	ga	ga	AUX	POT	Mood=Pot	13	aux	13:aux	SpaceAfter=No
-17	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_75
+# text = Mats ge hoa ǂaiǂgawaba ra ǃgū-ai
+# english = The carpet covers the whole floor.
+1	Mats	mat	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	hoa	hoa	DET	_	PronType=Tot	4	det	4:det	_
+4	ǂaiǂgawaba	ǂaiǂgawa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǃgū-ai	ǃgū-ai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_17
-# text = ǂGui ǀgôan ge ǀnai Amob di aiǁgausa ra sao.
-# english = Many children already follow the example of Amos.
-1	ǂGui	ǂgui	DET	_	PronType=Ind	2	det	2:det	_
-2	ǀgôan	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	9	nsubj	9:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-4	ǀnai	ǀnai	ADV	_	_	9	advmod	9:advmod	_
-5	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
-6	di	di	ADP	POSS	_	5	case	5:case	_
-7	aiǁgausa	aiǁgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	9:obj	_
-8	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
-9	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_76
+# text = Petrub ge omsa ǃamkuse ra ǂâihō
+# english = P. remembers the house (where he grew up) well.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	omsa	om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
+4	ǃamkuse	ǃamkuse	ADV	_	_	6	advmod	6:advmod	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǂâihō	ǂâihō	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_18
-# text = Amase mûǃāsa a ǃkhaes ge Amob ǀguitsē kaise nîra gā-aisa.
-# english = It is very clear that one day Amos will be very clever
-1	Amase	amase	ADV	_	_	2	advmod	2:advmod	_
-2	mûǃāsa	mûǃāsa	ADJ	_	_	10	csubj:outer	10:csubj:outer	_
-3	a	a	AUX	COP.PRS	Tense=Pres	2	cop	2:cop	_
-4	ǃkhaes	ǃkhais	SCONJ	_	Case=Nom|Typo=Yes	2	mark	2:mark	CorrectForm=ǃkhais
-5	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-6	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	10:nsubj	_
-7	ǀguitsē	ǀguitsē	ADV	_	_	10	advmod	10:advmod	_
-8	kaise	kaise	ADV	_	_	10	advmod	10:advmod	_
-9	nîra	nîra	AUX	FUT.IPFV	Aspect=Imp|Tense=Fut	10	aux	10:aux	_
-10-11	gā-aisa	_	_	_	_	_	_	_	SpaceAfter=No
-10	gā-ai	gā-ai	VERB	_	Voice=Act	0	root	0:root	_
-11	sa	s	SCONJ	NMLZ	Case=Acc	10	mark	10:mark	_
-12	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_77
+# text = Petrub ge Mariasa ge hui
+# english = (M. didn’t manage to do her homework by herself.) P. helped M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	hui	hui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_19
-# text = ǁGûs ge ega tsûb ta ǃkhaesa ge tî bi.
-# english = Later the mother asked him whether he is having pain, then he told he:
-1	ǁGûs	ǁgû	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	9:nsubj	_
+# sent_id = grammar_BivalTyp_78
+# text = Petrub ge Hereroba ra ǁnâuǃā
+# english = P. understands Herero.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Hereroba	Herero	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	ǁnâuǃā	ǁnâuǃā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_79
+# text = Nawab ge omsa go ǂnau
+# english = Lightning hit / struck the house.
+1	Nawab	nawa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	omsa	om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǂnau	ǂnau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_80
+# text = Petrub ge ǂkhomgôas ǀkha go ǃgaosen
+# english = P. cut himself with a razor.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǂkhomgôas	ǂkhomgôa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǃgaosen	ǃgaosen	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_81
+# text = Xlas ge tāb ai go ǁhaumâ
+# english = (The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.
+1	Xlas	xla	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	tāb	tā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
+4	ai	ai	ADP	_	_	3	case	3:case	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǁhaumâ	ǁhaumâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_82
+# text = Petrub ge Marias ǃoa go ǂnai
+# english = (P. played chess with M.) P. lost to M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃoa	ǃoa	ADP	_	_	3	case	3:case	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǂnai	ǂnai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_83
+# text = Petrub ge sîǂkhanis ǃgao ge ǃgâiaǂgao
+# english = (P. received a letter from M.) P. was glad about the letter.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	sîǂkhanis	sîǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃgao	ǃgao	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	ǃgâiaǂgao	ǃgâiaǂgao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_84
+# text = Petrub ge Marias ǀkha ra ǃhoa
+# english = (I am looking for P. When I enter the room I see that) P. is speaking with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǃhoa	ǃhoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_85
+# text = Marias ge aore axaba go ǁora
+# english = M. gave birth to a son.
+1	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	aore	aore	ADJ	_	_	4	amod	4:amod	_
+4	axaba	axa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǁora	ǁora	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_86
+# text = Petrub ge xlasa go ǃgau
+# english = P. dropped the glass.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	xlasa	xla	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǃgau	ǃgau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_87
+# text = Petrub ge sida ǃāsa ra ǂgaeǂgui
+# english = P. runs our town.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	ǃāsa	ǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǂgaeǂgui	ǂgaeǂgui	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_88
+# text = Petrub ge Mariasa go ǁkhore
+# english = P. misses M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǁkhore	ǁkhore	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_89
+# text = Petrub ge Mariasa ra sao
+# english = P. follows M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_90
+# text = Petrub ge hāba xu go ǁgôaxa
+# english = P. got down from the horse.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	hāba	hā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
+4	xu	xu	ADP	_	_	3	case	3:case	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	ǁgôaxa	ǁgôaxa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_91
+# text = Petrub ge ǂhôaǂgaresa ra ǃgâ
+# english = (What is P. doing?) P. is listening to radio.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǂhôaǂgaresa	ǂhôaǂgare	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	ǃgâ	ǃgâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_92
+# text = Petrub ge hoaǁae ǁîb mamasa ra ǁnâuǀnam
+# english = (M. is a mischievous boy, but) P. always listens to / obeys his mother.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	hoaǁae	hoaǁae	ADV	_	PronType=Tot	7	advmod	7:advmod	_
+4	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+5	mamasa	mama	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
+6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+7	ǁnâuǀnam	ǁnâuǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_93
+# text = Petrub ge ǀō-e ra ǁnâu
+# english = P. hears the music.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǀō-e	ǀō	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	ǁnâu	ǁnâu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_94
+# text = Dani-i ge dai-i ǀkha go hawa
+# english = (Some honey was put in a jar of milk and stirred.) The honey got mixed with the milk.
+1	Dani-i	Dani	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	dai-i	dai	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	hawa	hawa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_95
+# text = Petrub ge ǃâude ra kō
+# english = P. is looking at the clouds (trying to determine if it will rain).
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǃâude	ǃâu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	kō	kō	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_96
+# text = Petrub ge ǁîb di hemsa ge ǁhû
+# english = P. took off his shirt.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	POSS	_	3	case	3:case	_
+5	hemsa	hem	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj	_
+6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
+7	ǁhû	ǁhû	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_97
+# text = Petrub ge Mariasa xa ra ǁhapo
+# english = (P. sleeps) P. dreams about M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	xa	xa	ADP	_	_	3	case	3:case	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	ǁhapo	ǁhapo	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_98
+# text = Petrub ge Mariasa ge ǃkhō-am
+# english = (M. told P. that their son should learn Irish.) P. agreed with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	ǃkhō-am	ǃkhō-am	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_99
+# text = Petrub ge Marias ǀkha ge ǂkhawa
+# english = P. had a quarrel with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	ǂkhawa	ǂkhawa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_100
+# text = Nē ǁhoes ge ǀgui euroba ra ǂgan
+# english = This cup costs 1 euro.
+1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
+2	ǁhoes	ǁhoe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+4	ǀgui	ǀgui	NUM	_	NumType=Card	5	nummod	5:nummod	_
+5	euroba	euro	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	7:obj	_
+6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+7	ǂgan	ǂgan	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_101
+# text = Petrub ge anisa go ǂnoa
+# english = P. shot at the bird. (He missed.)
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	anisa	ani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǂnoa	ǂnoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_102
+# text = Petrub ge dai-e go tsoro
+# english = P. poured the sugar (into the cup).
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	tsoro	tsoro	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_103
+# text = Petrub ge ǁîb ǁkhowaamgu go gāxūhe
+# english = P. lost his keys.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	ǁkhowaamgu	ǁkhowa	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obj	6:obj	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	gāxūhe	gāxū	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_104
+# text = Haiǃgaob ge ǁgam-i ǃnâ ge tsōǂgâ
+# english = (This tree has very heavy wood. I threw a log in the river.) The log sank in the water.
+1	Haiǃgaob	haiǃgao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁgam-i	ǁgam	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	PAST	Tense=Past	6	aux	6:aux	_
+6	tsōǂgâ	tsōǂgâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_105
+# text = Petrub ge Mariasa ge ǃgam
+# english = P. killed M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	ǃgam	ǃgam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_106
+# text = Petrub ge Mariasa go ǂnau
+# english = P. hit M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǂnau	ǂnau	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_107
+# text = Petrub ge Mariasa go ǁoa
+# english = P. kissed M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǁoa	ǁoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_108
+# text = Petrub ge gaxu ǂkhanisa ge khomai
+# english = P. read a long book.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	gaxu	gaxu	ADJ	_	_	4	amod	4:amod	_
+4	ǂkhanisa	ǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	khomai	khomai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_109
+# text = Petrub ge ǁîb ǀkhunuba go gongon
+# english = P. moved his finger.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	ǀkhunuba	ǀkhunu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+6	gongon	gongon	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_110
+# text = Petrub ge Mariasa ǃgôa hâ
+# english = P. respects M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǃgôa	ǃgôa	VERB	_	Voice=Act	0	root	0:root	_
+5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_111
+# text = Petrub ge ǀurixa xawan xa a sauaǃnâxa
+# english = P. is squeamish about dirty dishes.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	ǀurixa	ǀurixa	ADJ	_	_	4	amod	4:amod	_
+4	xawan	xawa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	a	a	AUX	COP.PRS	Tense=Pres	7	cop	7:cop	_
+7	sauaǃnâxa	sauaǃnâxa	ADJ	_	_	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_112
+# text = Petrub ge ǁîb di ǀgôab ǀkha a ǂkhîǂâixa
+# english = (P.’s son does well at school.) P. is OK/content/satisfied with his son.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	POSS	_	3	case	3:case	_
+5	ǀgôab	ǀgôa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
+6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
+7	a	a	AUX	STAT.PRS	Tense=Pres	8	aux	8:aux	_
+8	ǂkhîǂâixa	ǂkhîǂâixa	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_113
+# text = Petrub ge Mariasa ge ǀnam
+# english = P. fell in love with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	ǀnam	ǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_114
+# text = Petrub ge Mariasa ǂgomǃgâ hâ
+# english = (P. and M. have a happy family. M. never deceives P.) P. trusts M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǂgomǃgâ	ǂgomǃgâ	VERB	_	Voice=Act	0	root	0:root	_
+5	hâ	hâ	AUX	PFV	Aspect=Perf	4	aux	4:aux	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_115
+# text = Petrub ge mamasa ra tsâbaǁhao
+# english = (P.’s mother is very ill.) P. sympathises with his mother.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	mamasa	mama	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	tsâbaǁhao	tsâbaǁhao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_116
+# text = Petrub ge Mariasa ra suri
+# english = (M. has a car, and P. doesn't). P. envies M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	suri	suri	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_117
+# text = Petrub ge Marias ǀkha ǁaixa hâ
+# english = P. is angry with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	5:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	_
+6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_118
+# text = Petrub ge nē ǀkhaexū-i xa ge buru
+# english = (M. made P. an expensive gift.) P. was surprised at this gift.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
+4	ǀkhaexū-i	ǀkhaexū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+7	buru	buru	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_119
+# text = Petrub ge dai-e a ǀnam
+# english = P. loves milk.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	dai-e	dai	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	_
+4	a	a	AUX	STAT.PRS	Tense=Pres	5	aux	5:aux	_
+5	ǀnam	ǀnam	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_120
+# text = Petrub ge ǀgamsa tē-i xa a ǃgâibahe
+# english = (After being in cold water) P. enjoys hot tea.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	7:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	ǀgamsa	ǀgam	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	amod	4:amod	_
+4	tē-i	tē	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl:agent	7:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	a	a	AUX	STAT.PRS	Tense=Pres	7	aux	7:aux	_
+7	ǃgâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_121
+# text = Petrub ge ǀasa ǁâǁawaba ǂhâba hâ
+# english = P. wants a new mobile phone.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǀasa	ǀasa	ADJ	_	_	4	amod	4:amod	_
+4	ǁâǁawaba	ǁâǁawa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+5	ǂhâba	ǂhâba	VERB	_	Voice=Act	0	root	0:root	_
+6	hâ	hâ	AUX	PFV	Aspect=Perf	5	aux	5:aux	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_122
+# text = Petrub ge Marias ǃoagu sunuba ūhâ
+# english = (Why doesn’t P. speak with M.?) P. has a grudge against M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	6:nmod	_
+4	ǃoagu	ǃoagu	ADP	_	_	3	case	3:case	_
+5	sunuba	sunu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+6	ūhâ	ūhâ	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_123_1
+# text = Petrub ge Marias xa ge mîǁamhe
+# english = (M. called P. an idiot.) P. took offence at M. = P got cross with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl:agent	6:obl:agent	_
+4	xa	xa	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	mîǁamhe	mîǁam	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_123_2
+# text = Petrub ge Marias ǀkha ge ǁaixa
+# english = P. is angry with M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǀkha	ǀkha	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_124
+# text = Petrub ge buruxase Mariasa ge ǁaixa kai
+# english = P. greatly upset M. (He told her that he had spent all the money.)
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	buruxase	buruxase	ADV	_	_	7	advmod	7:advmod	_
+4	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	6:nsubj:xsubj|7:obj	_
+5	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
+6	ǁaixa	ǁaixa	ADJ	_	_	7	xcomp	7:xcomp	_
+7	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_125
+# text = Petrub ge nē ǃās xa go buruǂgâ kaihe
+# english = (P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj:pass	7:nsubj:xsubj|8:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
+4	ǃās	ǃā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl:agent	7:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+7	buruǂgâ	buruǂgâ	VERB	_	Voice=Act	8	xcomp	8:xcomp	_
+8	kaihe	kai	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_126
+# text = Petrub ge Mariasa ǃharaxū
+# english = P. despises M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǃharaxū	ǃharaxū	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_127
+# text = Petrub ge ǁîb di ǀgôab ǀkha go ǁaixa
+# english = (P.’s son got bad marks in school once again.) P. got upset with his son. = P. got upset because of his son.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	POSS	_	3	case	3:case	_
+5	ǀgôab	ǀgôa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
+6	ǀkha	ǀkha	ADP	_	_	5	case	5:case	_
+7	go	go	AUX	_	Tense=RecPast	8	aux	8:aux	_
+8	ǁaixa	ǁaixa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_128
+# text = Petrub ge ǁîb di ǀgôas xa ra ǀhū kaihe
+# english = (P. has a very bad disposition. Look, once again) P. is getting irritated with his daughter.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj:pass	8:nsubj:xsubj|9:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
-3	ega	ega	ADV	_	_	9	advmod	9:advmod	_
-4-5	tsûb	_	_	_	_	_	_	_	_
-4	tsû	tsû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	ccomp	9:ccomp	_
-5	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-6	ta	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
-7	ǃkhaesa	ǃkhais	SCONJ	COMPL	Case=Acc|Typo=Yes	4	mark	4:mark	CorrectForm=ǃkhaisa
-8	ge	ge	AUX	_	Tense=Past	9	aux	9:aux	_
-9	tî	dî	VERB	_	Typo=Yes|Voice=Act	0	root	0:root	_
-10	bi	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	9:iobj	SpaceAfter=No
-11	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	di	di	ADP	POSS	_	3	case	3:case	_
+5	ǀgôas	ǀgôa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl:agent	8:obl:agent	_
+6	xa	xa	ADP	_	_	5	case	5:case	_
+7	ra	ra	AUX	IPFV	Aspect=Imp	9	aux	9:aux	_
+8	ǀhū	ǀhū	VERB	_	Voice=Act	9	xcomp	9:xcomp	_
+9	kaihe	kai	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_20
-# text = Mâ tsēs hoasab ge Amoba ǁîb di ǁgauǃna-oab xa ra koahe, ǃgâiseb ta ǁkhāǁkhāsen amaga.
-# english = Each and every day Amos is being praiswed by his teacher because he learning well.
-1	Mâ	mâ	DET	_	PronType=Tot	2	det	2:det	_
-2	tsēs	tsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	obl	12:obl	_
-3-4	hoasab	_	_	_	_	_	_	_	_
-3	hoasa	hoa	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Tot	2	det	2:det	_
-4	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	_
-5	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-6	Amoba	Amo	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nsubj:pass	12:nsubj:pass	_
-7	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod:poss	9:nmod:poss	_
-8	di	di	ADP	POSS	_	7	case	7:case	_
-9	ǁgauǃna-oab	ǁgauǃna-oa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl:agent	12:obl:agent	_
-10	xa	xa	ADP	_	_	9	case	9:case	_
-11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-12	koahe	koa	VERB	_	Voice=Pass	0	root	0:root	SpaceAfter=No
-13	,	,	PUNCT	_	_	17	punct	17:punct	_
-14-15	ǃgâiseb	_	_	_	_	_	_	_	_
-14	ǃgâise	ǃgâise	ADV	_	_	17	advmod	17:advmod	_
-15	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
-16	ta	ra	AUX	IPFV	Aspect=Imp	17	aux	17:aux	_
-17	ǁkhāǁkhāsen	ǁkhāǁkhāsen	VERB	_	Voice=Act	12	advcl	12:advcl	_
-18	amaga	amāka	SCONJ	_	Typo=Yes	17	mark	17:mark	SpaceAfter=No
-19	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_129
+# text = Petrub ge Mariasa ǀnam
+# english = P. is fond of M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
+3	Mariasa	Maria	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
+4	ǀnam	ǀnam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
-# sent_id = book_Khomai_25_21
-# text = Kō re matib ǂkhanis ǀkha ǂnôa ǀgausa.
-# english = Look at the way/how he is sitting with the book.
-1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
-2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
-3-4	matib	_	_	_	_	_	_	_	_
-3	mati	mati	ADV	_	PronType=Int	8	advmod	8:advmod	_
-4	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
-5	ǂkhanis	ǂkhani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	7:obl	_
-6	ǀkha	ǀkha	ADP	_	_	4	case	4:case	_
-7	ǂnôa	ǂnôa	VERB	_	Voice=Act	8	acl	8:acl	_
-8	ǀgausa	ǀgau	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	1:obj	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
+# sent_id = grammar_BivalTyp_130
+# text = Petrub ge ǁîb gaxusiba ra tao
+# english = (P. is the smallest in his class.) P. is shy / embarrassed about his height.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	gaxusiba	gaxusi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+5	ra	ra	AUX	IPFV	Aspect=Imp	6	aux	6:aux	_
+6	tao	tao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 

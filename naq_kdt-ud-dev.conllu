@@ -1,105 +1,3 @@
-# newdoc id = grammar_BivalTyp
-# sent_id = grammar_BivalTyp_61
-# text = Petrub ge dīsi eurogu xa ǃgaubahe hâ
-# english = (P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
-4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
-5	xa	xa	ADP	_	_	4	case	4:case	_
-6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
-7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_62
-# text = Petrub ge ǁgauǃnâ-aosa go ǃeream
-# english = (The teacher asked P. what his parents’ names are.) P. answered the teacher.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǁgauǃnâ-aosa	ǁgauǃnâ-ao	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǃeream	ǃeream	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_63
-# text = Perub ge dōba go ǁkhowaam
-# english = P. opened a can.
-1	Perub	Peru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	dōba	dō	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
-5	ǁkhowaam	ǁkhowaam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_64
-# text = Ti hems ge sasa xu a ǀkhara
-# english = (M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’
-1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	hems	hem	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-4-5	sasa	_	_	_	_	_	_	_	_
-4	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	sa	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	obl	8:obl	_
-6	xu	xu	ADP	_	_	5	case	5:case	_
-7	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
-8	ǀkhara	ǀkhara	ADJ	_	_	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_65
-# text = Petrub ge Marias ǃgâb ai ge ǁnā
-# english = (P. and M. started out to school together, but) P. fell behind M.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
-4	ǃgâb	ǃgâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
-5	ai	ai	ADP	_	_	4	case	4:case	_
-6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
-7	ǁnā	ǁnā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_66
-# text = Petrub ge ǃhanaba ra ǃhūǃgao
-# english = P. is ploughing the field.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	ǃhanaba	ǃhana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǃhūǃgao	ǃhūǃgao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_67
-# text = Ti ǃomdi ge petrol-i khami ra ham
-# english = (I was mending my car.) My hands smell like / smell of gasoline.
-1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	ǃomdi	ǃom	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	nsubj	7:nsubj	_
-3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
-4	petrol-i	petrol	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl	7:obl	_
-5	khami	khami	ADP	_	_	4	case	4:case	_
-6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
-7	ham	ham	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_68
-# text = Petrub ge daoba ge ǃgâu
-# english = (P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
-5	ǃgâu	ǃgâu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_69
-# text = Petrub ge îxa amsa ge ǁnae
-# english = P. sang a beautiful song.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	îxa	îxa	ADJ	_	_	4	amod	4:amod	_
-4	amsa	am	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
-6	ǁnae	ǁnae	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
-# sent_id = grammar_BivalTyp_70
-# text = Petrub ge sîǂkhanisa ge xoa
-# english = P. wrote a letter.
-1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-3	sîǂkhanisa	sîǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
-4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
-5	xoa	xoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
-
 # newdoc id = film_Bridge
 # sent_id = film_Bridge_1
 # text = Sao ra mâǃkhaisa ǂhawa ǃganni ǃnâ.
@@ -1940,7 +1838,7 @@
 # english = It's like riding a bike, isn't it?
 1	ǀUrihāba	ǀurihā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	obj	2:obj	_
 2-3	ǃgawis	_	_	_	_	_	_	_	_
-2	ǃgawi	ǃgawi	NOUN	_	_	5	advcl	5:advcl	_
+2	ǃgawi	ǃgawi	VERB	_	Voice=Act	5	advcl	5:advcl	_
 3	s	s	SCONJ	NMLZ	Case=Nom	2	mark	2:mark	_
 4	khama	khama	ADP	_	_	2	case	2:case	_
 5	tsâ	tsâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -3071,4 +2969,106 @@
 11	ge	ge	AUX	DECL	Mood=Ind	13	aux	13:aux	_
 12	nî	nî	AUX	FUT	Tense=Fut	13	aux	13:aux	_
 13	ǀkhī	ǀkhī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# newdoc id = grammar_BivalTyp
+# sent_id = grammar_BivalTyp_61
+# text = Petrub ge dīsi eurogu xa ǃgaubahe hâ
+# english = (P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
+4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_62
+# text = Petrub ge ǁgauǃnâ-aosa go ǃeream
+# english = (The teacher asked P. what his parents’ names are.) P. answered the teacher.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǁgauǃnâ-aosa	ǁgauǃnâ-ao	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǃeream	ǃeream	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_63
+# text = Perub ge dōba go ǁkhowaam
+# english = P. opened a can.
+1	Perub	Peru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	dōba	dō	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+4	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
+5	ǁkhowaam	ǁkhowaam	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_64
+# text = Ti hems ge sasa xu a ǀkhara
+# english = (M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’
+1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	hems	hem	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+4-5	sasa	_	_	_	_	_	_	_	_
+4	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	sa	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	obl	8:obl	_
+6	xu	xu	ADP	_	_	5	case	5:case	_
+7	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
+8	ǀkhara	ǀkhara	ADJ	_	_	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_65
+# text = Petrub ge Marias ǃgâb ai ge ǁnā
+# english = (P. and M. started out to school together, but) P. fell behind M.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
+4	ǃgâb	ǃgâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	7:obl	_
+5	ai	ai	ADP	_	_	4	case	4:case	_
+6	ge	ge	AUX	_	Tense=Past	7	aux	7:aux	_
+7	ǁnā	ǁnā	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_66
+# text = Petrub ge ǃhanaba ra ǃhūǃgao
+# english = P. is ploughing the field.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	ǃhanaba	ǃhana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
+5	ǃhūǃgao	ǃhūǃgao	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_67
+# text = Ti ǃomdi ge petrol-i khami ra ham
+# english = (I was mending my car.) My hands smell like / smell of gasoline.
+1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	ǃomdi	ǃom	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	nsubj	7:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
+4	petrol-i	petrol	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl	7:obl	_
+5	khami	khami	ADP	_	_	4	case	4:case	_
+6	ra	ra	AUX	IPFV	Aspect=Imp	7	aux	7:aux	_
+7	ham	ham	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_68
+# text = Petrub ge daoba ge ǃgâu
+# english = (P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
+5	ǃgâu	ǃgâu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_69
+# text = Petrub ge îxa amsa ge ǁnae
+# english = P. sang a beautiful song.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	îxa	îxa	ADJ	_	_	4	amod	4:amod	_
+4	amsa	am	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	ǁnae	ǁnae	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
+
+# sent_id = grammar_BivalTyp_70
+# text = Petrub ge sîǂkhanisa ge xoa
+# english = P. wrote a letter.
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+3	sîǂkhanisa	sîǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
+4	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
+5	xoa	xoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
