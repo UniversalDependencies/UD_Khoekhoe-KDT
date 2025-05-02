@@ -54,7 +54,7 @@ UPOS: manual native
 XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Michael Hahn
+Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Hahn, Michael
 Contributing: here
 Contact: kira.tulchynska@mail.huji.ac.il, witzlack@gmail.com
 ===============================================================================
