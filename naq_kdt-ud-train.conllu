@@ -1133,7 +1133,7 @@
 9	xu	xu	ADP	_	_	8	case	8:case	_
 10	ǁnâu	ǁnâu	VERB	_	Voice=Act	0	root	0:root	_
 11	ǃhoab	ǃhoa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obj	10:obj	_
-12	ǀguiba	ǀgui	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	11:obl	SpacesAfter=\n
+12	ǀguiba	ǀgui	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obl	10:obl	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_421
 # text = tsîta ge nē ta ge nē ǃās ǃnâ ǀkhīo ta nē hā hâ struglen ǃnâ ta ge ǀgam khoera ǀkha
