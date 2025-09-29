@@ -158,7 +158,7 @@
 # sent_id = book_Khomai_5_2
 # text = ǀUigu ai i ge gorose ra ǂhuwi.
 # english = On the mountains it is still burning.
-1	ǀUigu	ǀui	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	obl	3:obl	_
+1	ǀUigu	ǀui	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	obl	7:obl	_
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -2020,7 +2020,7 @@
 10	ǀnai	ǀnai	ADV	_	_	19	advmod	19:advmod	_
 11	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	13	det	13:det	_
 12	mâ	mâ	VERB	_	Voice=Act	13	acl:relcl	13:acl:relcl	_
-13	kerkhe-oms	kerkhe-om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	obl	12:nsubj|17:obl	_
+13	kerkhe-oms	kerkhe-om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	obl	12:nsubj|15:obl	_
 14	khama	khama	ADP	_	_	13	case	13:case	SpaceAfter=No
 15	kō	kō	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
 16	kai	kai	ADJ	_	_	17	amod	17:amod	_
@@ -2286,7 +2286,7 @@
 # sent_id = conversation_Windhoek5_20
 # text = nēsis di ǀgôa-i ge "hâ-â
 # english = nowadays children be like "no
-1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	obl	3:obl	_
+1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nmod	3:nmod	_
 2	di	di	ADP	POSS	_	1	case	1:case	_
 3	ǀgôa-i	ǀgôa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj:outer	6:nsubj:outer	_
 4	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
