@@ -2905,7 +2905,7 @@
 # text = ti pa kaise a au" ti
 # english = father, it is bitter"
 1	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-2	pa	pa	ADV	_	Deixis=Prox|PronType=Dem	5	vocative	5:vocative	_
+2	pa	pa	NOUN	_	_	5	vocative	5:vocative	_
 3	kaise	kaise	ADV	_	_	5	advmod	5:advmod	_
 4	a	a	AUX	COP.PRS	Tense=Pres	5	cop	5:cop	_
 5	au	au	ADJ	_	_	0	root	0:root	SpaceAfter=No
@@ -3091,7 +3091,7 @@
 7-8	ǂnause	_	_	_	_	_	_	_	_
 7	ǂnau	ǂnau	VERB	_	Voice=Act	11	advcl	11:advcl	_
 8	se	se	SCONJ	MANNER	_	7	mark	7:mark	_
-9	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+9	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
 10	ga	ga	AUX	POT	Mood=Pot	11	aux	11:aux	_
 11-12	īo	_	_	_	_	_	_	_	_
 11	ī	ī	VERB	_	Voice=Act	19	advcl	19:advcl	_
@@ -3570,7 +3570,7 @@
 # english = after being given Panado [painkiller],
 1-2	Panadots	_	_	_	_	_	_	_	_
 1	Panado	Panado	PROPN	_	_	5	obj	5:obj	_
-2	ts	ts	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	5:nsubj:pass	_
+2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	5:nsubj:pass	_
 3	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	māhe	mā	VERB	_	Voice=Pass	0	root	0:root	_
@@ -5311,7 +5311,7 @@
 4	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	_
 5	ti	ti	ADV	_	_	1	advmod	1:advmod	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	8:punct	_
-7	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+7	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 8	ī	ī	VERB	_	Voice=Act	1	parataxis	1:parataxis	_
 9	tama	tama	PART	NEG	Polarity=Neg	8	advmod	8:advmod	SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
@@ -5521,7 +5521,7 @@
 15	ǃkhōhe	ǃkhō	VERB	_	Voice=Pass	23	advcl	23:advcl	_
 16	hâ	hâ	AUX	PFV	Aspect=Perf	15	aux	15:aux	_
 17-18	isa	_	_	_	_	_	_	_	_
-17	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	15:obl	_
+17	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	15:obl	_
 18	sa	s	SCONJ	NMLZ	Case=Acc	15	mark	15:mark	_
 19	xu	xu	ADP	_	_	15	case	15:case	_
 20-21	mâpats	_	_	_	_	_	_	_	_
@@ -6770,7 +6770,7 @@
 16	nēsi	nēsi	ADV	_	_	18	advmod	18:advmod	_
 17	nî	nî	AUX	FUT	Tense=Fut	18	aux	18:aux	_
 18	mîba	mî	VERB	_	Voice=Appl	9	acl:relcl	9:acl:relcl	_
-19	go	go	PRON	REL	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel	18	iobj:appl	9:ref|18:iobj:appl	SpacesAfter=\n
+19	go	_	PRON	REL	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel	18	iobj:appl	9:ref|18:iobj:appl	SpacesAfter=\n
 
 # sent_id = film_Bridge_346
 # text = Sago hoago ge ǀnî ǃhariga sīǃnâ tama hâ.
@@ -8926,7 +8926,7 @@
 11	hā	hā	VERB	_	Voice=Act	6	acl:relcl	6:acl:relcl	_
 12	s	_	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	11	nsubj	6:ref|11:nsubj	_
 13	tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
-14	naus	nau	DET	DIST.CONTR	Case=Nom|Deixis=Contr|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	conj	2:appos|6:conj|19:nsubj	_
+14	naus	nau	PRON	DIST.CONTR	Case=Nom|Deixis=Contr|Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	conj	2:appos|6:conj|19:nsubj	_
 15	hîa	hîa	SCONJ	REL	_	19	mark	19:mark	_
 16	ǃkhâikhoms	ǃkhâikhom	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	obl	19:obl	_
 17	ose	ose	ADP	_	_	16	case	16:case	_
@@ -10979,7 +10979,7 @@
 7-8	its	_	_	_	_	_	_	_	_
 7	i	i	AUX	INTi	Mood=Int	6	aux	6:aux	_
 8	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-9	a	a	AUX	COP.PRS	Aspect=Imp	6	cop	6:cop	SpaceAfter=No
+9	a	a	AUX	COP.PRS	Tense=Pres	6	cop	6:cop	SpaceAfter=No
 10	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_703
@@ -11305,7 +11305,7 @@
 6	kōǃnâ	kōǃnâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	6:punct	_
 8	īse	īse	SCONJ	_	_	12	mark	12:mark	_
-9	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	_
+9	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	_
 10	ǀnîsi	ǀnîsi	ADV	_	_	12	advmod	12:advmod	_
 11	ǃkhōǁnâ-ūda-e	ǃkhōǁnâ-ūda	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	nsubj	12:nsubj	_
 12	ǀkhai	ǀkhai	VERB	NEG.COP.LOC	Voice=Act	14	ccomp	14:ccomp	_
@@ -14879,7 +14879,7 @@
 # english = Wait a minute.
 1	ǁNam	ǁnam	NOUN	_	_	0	root	0:root	_
 2	aibe	aibe	ADV	_	_	1	advmod	1:advmod	_
-3	o	o	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
+3	o	o	SCONJ	_	_	1	mark	1:mark	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_1035
@@ -15520,7 +15520,7 @@
 4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
 5	ǂgan	ǂgan	VERB	_	Voice=Act	0	root	0:root	_
 6	ǀnîsi	ǀnîsi	ADV	_	_	12	advmod	12:advmod	_
-7	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl:impers	12:expl:impers	_
+7	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl:impers	12:expl:impers	_
 8	ga	ga	AUX	POT	Mood=Pot	12	aux	12:aux	_
 9	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	10	det	10:det	_
 10	ǃkhaisa	ǃkhai	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nsubj	12:nsubj	_
@@ -18831,7 +18831,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	3	aux	3:aux	_
 3	ǃgôasa	ǃgôa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	root	0:root	_
 4	ǀnîsi	ǀnîsi	ADV	_	_	9	advmod	9:advmod	_
-5	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+5	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
 6	ga	ga	AUX	POT	Mood=Pot	9	aux	9:aux	_
 7	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	_
 8	gara	gara	AUX	POT.IPFV	Aspect=Imp|Mood=Pot	9	aux	9:aux	_
@@ -19005,7 +19005,7 @@
 6	oasī	oasī	VERB	_	Voice=Act	12	advcl	12:advcl	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	6:punct	_
 8	o	o	ADV	_	_	12	advmod	12:advmod	_
-9	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+9	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
 10	mâti	mâti	ADV	_	PronType=Int	12	advmod	12:advmod	_
 11	nî	nî	AUX	FUT	Tense=Fut	12	aux	12:aux	_
 12	ī	ī	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -19124,7 +19124,7 @@
 # text = Glienicke Bridge tawa i ge māǃkhuni-e hâ tite.
 # english = There will be no exchange on Glienicke Bridge.
 1	Glienicke	Glienicke	PROPN	_	_	7	obl	7:obl	OrigLang=en
-2	Bridge	Bridge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=1	1	appos	1:appos	OrigLang=en
+2	Bridge	Bridge	NOUN	_	_	1	appos	1:appos	OrigLang=en
 3	tawa	tawa	ADP	_	_	1	case	1:case	_
 4	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	7:expl	_
 5	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_

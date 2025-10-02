@@ -2599,7 +2599,7 @@
 # text = tsî enige gowa-i ǃnâs ga xawe Afrikaans tsî Englishi tsîn ge huga ǃhūb gowagu
 # english = And at least be in any language, Afrikaans and English are actually the two major languages in this country
 1	tsî	tsî	CCONJ	_	_	3	cc	3:cc	_
-2	enige	enige	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	det	3:det	OrigLang=af
+2	enige	enige	DET	_	PronType=Ind	3	det	3:det	OrigLang=af
 3	gowa-i	gowa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	_
 4-5	ǃnâs	_	_	_	_	_	_	_	_
 4	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
@@ -5123,10 +5123,10 @@
 3	ge	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 4	eintlik	eintlik	ADV	_	_	7	advmod	7:advmod	OrigLang=af
 5	'	'	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
-6	born	born	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	OrigLang=en
+6	born	born	ADJ	_	_	0	root	0:root	OrigLang=en
 7	taren	tare	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Int	6	parataxis	6:parataxis	_
 8	karin	kari	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	amod	7:amod	_
-9	born	born	ADJ	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	amod	7:amod	OrigLang=en
+9	born	born	ADJ	_	_	7	amod	7:amod	OrigLang=en
 10	young	young	ADJ	_	Foreign=Yes	11	amod	11:amod	Lang=en
 11	ones	one	NOUN	_	Foreign=Yes	6	parataxis	6:parataxis	Lang=en
 12	gu	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	parataxis	6:parataxis	SpaceAfter=No
@@ -8193,7 +8193,7 @@
 # text = A i nē xū-e ǃgâi re.
 # english = This better be good.
 1	A	a	AUX	COP.PRS	Tense=Pres	5	cop	5:cop	_
-2	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	_
+2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	_
 3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 4	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 5	ǃgâi	ǃgâi	VERB	_	Voice=Act	0	root	0:root	_
@@ -12245,7 +12245,7 @@
 9	ǁgammi	ǁgam	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
 10	a	a	AUX	COP.PRS	Tense=Pres	11	cop	11:cop	_
 11	ǃkhai	ǃkhai	ADJ	_	_	12	acl	12:acl	_
-12	ǀgaus	ǀgau	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	obj	16:obj	_
+12	ǀgaus	ǀgau	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	obl	16:obl	_
 13	xa	xa	ADP	_	_	12	case	12:case	_
 14	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	_
 15	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	16	aux	16:aux	_
@@ -13519,7 +13519,7 @@
 # english = What does she know about misery?
 1	ǁÎsa	ǁî	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 2	tare-e	tare	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	8	obj	8:obj	_
-3	ǃgomma	ǃgom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	case	2:case	_
+3	ǃgomma	ǃgom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	obj	4:obj	_
 4-5	tsâs	_	_	_	_	_	_	_	_
 4	tsâ	tsâ	VERB	_	Voice=Act	8	advcl	8:advcl	_
 5	s	s	SCONJ	_	Case=Nom	4	mark	4:mark	_
@@ -16275,7 +16275,7 @@
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	ǂâiǂamoǃnâse	ǂâiǂamoǃnâse	ADV	_	_	6	advmod	6:advmod	_
 4	Mariasa	Mari	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
-5	go	go	AUX	_	Tense=Past	6	aux	6:aux	_
+5	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
 6	mû	mû	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = grammar_BivalTyp_12

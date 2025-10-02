@@ -86,7 +86,7 @@
 2	even	even	ADV	_	_	4	reparandum	4:reparandum	OrigLang=en|SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
 4	even	even	ADV	_	_	11	advmod	11:advmod	OrigLang=en
-5	i	i	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
+5	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
 6	kom	kom	AUX	ASSERT1	Mood=Ass	11	aux	11:aux	_
 7-8	plasticse	_	_	_	_	_	_	_	_
 7	plastic	plastic	NOUN	_	_	9	advcl	9:advcl	_
