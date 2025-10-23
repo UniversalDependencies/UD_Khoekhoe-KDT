@@ -50,11 +50,11 @@ License: CC BY-NC-SA 4.0
 Includes text: yes
 Parallel: no
 Genre: fiction grammar-examples spoken
-Lemmas: automatic with corrections
-UPOS: automatic with corrections
-XPOS: automatic with corrections
-Features: automatic with corrections
-Relations: automatic with corrections
+Lemmas: manual native
+UPOS: manual native
+XPOS: manual native
+Features: manual native
+Relations: manual native
 Contributors: Tulchynska, Kira; Witzlack-Makarevich, Alena; Job, Sylvanus; Hahn, Michael
 Contributing: here
 Contact: kira.tulchynska@mail.huji.ac.il, witzlack@gmail.com
