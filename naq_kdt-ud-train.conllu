@@ -1,5 +1,6 @@
 # newdoc id = grammar_Cairo
 # sent_id = grammar_Cairo_1
+# parallel_id = cairo/1
 # text = Axas ge ǁîs ǀhōsa ǃoa sîǂkhanisa go xoa.
 # english = The girl wrote a letter to her friend.
 1	Axas	axa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
@@ -13,6 +14,7 @@
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_2
+# parallel_id = cairo/2
 # text = Tita ge "ǀawi i ge ra" ti ra ǂâi.
 # english = I think that it is raining.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
@@ -29,6 +31,7 @@
 12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_3
+# parallel_id = cairo/3
 # text = ǁîb ge ǂgaes tsî ās tsîna ǀûsa ge dītsâ.
 # english = He tried to stop smoking and drinking.
 1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	3:nsubj:xsubj|6:nsubj:xsubj|10:nsubj:xsubj|13:nsubj	_
@@ -51,6 +54,7 @@
 14	.	.	PUNCT	_	_	13	punct	13:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_4
+# parallel_id = cairo/4
 # text = Ī ǂgaos ra?
 # english = Do you want to go?
 1	Ī	ī	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
@@ -61,6 +65,7 @@
 5	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_5
+# parallel_id = cairo/5
 # text = Sam, mûǂuidaosa ǁkhowa-am re
 # english = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	4	vocative	4:vocative	SpaceAfter=No
@@ -70,6 +75,7 @@
 5	re	re	AUX	PDIR	Mood=Imp	4	aux	4:aux	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_6
+# parallel_id = cairo/6
 # text = ǁîs ge ǁîs aoba audosa go ǁā kai.
 # english = She made her husband wash the car.
 1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
@@ -83,6 +89,7 @@
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_7
+# parallel_id = cairo/7
 # text = Peteri di ǁanǁare-aob ge daraba ǀawase go ǂkhau.
 # english = Peter’s neighbor painted the fence red.
 1	Peteri	Peter	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
@@ -96,6 +103,7 @@
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_8
+# parallel_id = cairo/8
 # text = Ti dadab ge sab xa a ǃgâise.
 # english = My dad is cooler than yours.
 1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
@@ -110,6 +118,7 @@
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_9
+# parallel_id = cairo/9
 # text = Marys ge bronze-e go dan, Petera ǀhaiǀuriba, tsî Janesa ǃhuniǀuriba.
 # english = Mary won bronze, Peter silver, and Jane gold
 1	Marys	Mary	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
@@ -127,6 +136,7 @@
 13	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_10
+# parallel_id = cairo/10
 # text = Iguazuba kai tamas ka i o ǂkhari ǃhūba?
 # english = Is Iguazu a big or a small country?
 1	Iguazuba	Iguazu	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nsubj	9:nsubj	_
@@ -142,6 +152,7 @@
 10	?	?	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_11
+# parallel_id = cairo/11
 # text = Peter Smithi tamas ka i o Mary Browns ge ǁhûihe ǁkhā tite.
 # english = Neither Peter Smith nor Mary Brown could be selected.
 1	Peter	Peter	PROPN	_	_	12	nsubj	11:nsubj:pass:xsubj|12:nsubj	_
@@ -161,6 +172,7 @@
 14	.	.	PUNCT	_	_	12	punct	12:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_12
+# parallel_id = cairo/12
 # text = ǁîn ge ǂâi-e ūhâ tama tari-i go xoa ǃkhaisa.
 # english = They have no idea who wrote it.
 1	ǁîn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
@@ -175,6 +187,7 @@
 10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_13
+# parallel_id = cairo/13
 # text = Tare-ets ra kō?
 # english = What are you looking at?
 1-2	Tare-ets	_	_	_	_	_	_	_	_
@@ -185,6 +198,7 @@
 5	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_14
+# parallel_id = cairo/14
 # text = "Mâ ǁaets hā ǁkhā" tits ra ǂâi?
 # english = When do you think you can come?
 1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
@@ -203,6 +217,7 @@
 12	?	?	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_15
+# parallel_id = cairo/15
 # text = ǁîb ge audosa go ǁamabasen xawe ǁîb ǃgâba ǀurihāb ǀguiba.
 # english = He bought a car but his brother just a bike.
 1	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
@@ -218,6 +233,7 @@
 11	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_16
+# parallel_id = cairo/16
 # text = Peteri tsî Marys tsîra ge ǁnamgu tsî ǃnā-omsa xu go ī.
 # english = Peter and Mary hugged each other and then left the room.
 1	Peteri	Peter	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj|12:nsubj	_
@@ -236,6 +252,7 @@
 13	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_17
+# parallel_id = cairo/17
 # text = ǁîs ge ǁîs ǀûna ga dī hâ xawe ǀnî ǃaromas ai go dī ǁoa i ǁnātsē.
 # english = She should have been doing her hair but for some reason she wouldn’t that day.
 1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|13:nsubj:xsubj|14:nsubj	_
@@ -257,6 +274,7 @@
 17	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_18
+# parallel_id = cairo/18
 # text = Tita ge go ǃkhoesaohō tama hâ i, ǁîb go ǃhaese goro ǃkhoe amaga.
 # english = I wasn’t able to keep up, because he ran too fast.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
@@ -276,6 +294,7 @@
 15	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_19
+# parallel_id = cairo/19
 # text = Nē sîǂkhanis ge Petera xu ra ǀkhī tsî ǁari go ǀkhī-ūhe.
 # english = This letter is from Peter and it was delivered yesterday.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
@@ -292,6 +311,7 @@
 12	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = grammar_Cairo_20
+# parallel_id = cairo/20
 # text = ǁîs ge Paris-i ǃnâ ge kai, France-i di danakaiǃāsa.
 # english = She grew up in Paris, the capital of France.
 1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
