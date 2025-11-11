@@ -10,44 +10,44 @@
     <dev><sentences>232</sentences><tokens>1950</tokens><words>2048</words><fused>95</fused></dev>
     <test><sentences>1355</sentences><tokens>10314</tokens><words>10815</words><fused>499</fused></test>
   </size>
-  <lemmas unique="2255" /><!-- ge, ., ,, ra, hâ, a, tsî, ti, ?, o, nî, go, nē, s, re -->
+  <lemmas unique="2253" /><!-- ge, ., ,, ra, hâ, a, tsî, ti, ?, o, nî, go, nē, s, re -->
   <forms unique="3391" /><!-- ge, ., ,, ra, ta, hâ, a, tsî, ?, o, ts, nî, go, i, re -->
   <fusions unique="588" /><!-- tsîta, tamas, ota, tsîts, its, ob, ots, tsîn, hâs, mâtits, tsîm, xats, xaweb, mîsa, ase -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">774</tag><!-- ǃgâi, ǀgui, kai, ǂhanu, ǂguro, ǀkhara, ama, ǂoaǂamsa, ǂhâǂhâsa, ǂkhari -->
+    <tag name="ADJ">775</tag><!-- ǃgâi, ǀgui, kai, ǂhanu, ǂguro, ǀkhara, ama, ǂoaǂamsa, ǂhâǂhâsa, ǂkhari -->
     <tag name="ADP">1405</tag><!-- di, ǃnâ, ai, xa, ǀkha, xu, ǃaroma, ǃoa, tawa, khami -->
-    <tag name="ADV">1678</tag><!-- o, nēsisa, tsîn, amase, nēpa, ǁnāpa, kaise, mâti, ǀgui, ǁnāti -->
-    <tag name="AUX">5694</tag><!-- ge, ra, a, hâ, nî, go, re, i, ga, gere -->
+    <tag name="ADV">1677</tag><!-- o, nēsisa, tsîn, amase, nēpa, ǁnāpa, kaise, mâti, ǀgui, ǁnāti -->
+    <tag name="AUX">5693</tag><!-- ge, ra, a, hâ, nî, go, re, i, ga, gere -->
     <tag name="CCONJ">652</tag><!-- tsî, xawe, of, _, maar, en -->
-    <tag name="DET">827</tag><!-- nē, ǁnā, ti, sa, hoa, nau, ǀnî, hoaraga, mâ, tare -->
+    <tag name="DET">825</tag><!-- nē, ǁnā, ti, sa, hoa, nau, ǀnî, hoaraga, mâ, tare -->
     <tag name="INTJ">635</tag><!-- î, ā, hî-î, oh, ok, nee, hâ-â, uh, ah, mîre -->
     <tag name="NOUN">3537</tag><!-- khoe, xū, ǃgôahesa, ǃkhai, ǀgôa, ǀgau, ǁae, om, ǃgôasa, sîsen -->
     <tag name="NUM">191</tag><!-- ǀgui, ǀgam, koro, haka, ǃnona, dīsi, korodīsi, ǀgamdīsi, ǃnani, ǃnanidīsi -->
     <tag name="PART">477</tag><!-- tama, ti, s, tama-e, nee -->
     <tag name="PRON">3269</tag><!-- _, ǁî, ti, sa, tare, ǁnā, nē, si, hoa, tari -->
-    <tag name="PROPN">820</tag><!-- Petru, Abel, Maria, Donovan, Powers, Jim, Pryor, Rudolf, Vogel, Jack -->
+    <tag name="PROPN">821</tag><!-- Petru, Abel, Maria, Donovan, Powers, Jim, Pryor, Rudolf, Vogel, Jack -->
     <tag name="PUNCT">4144</tag><!-- ., ,, ?, ", !, …, [, ], ', ... -->
-    <tag name="SCONJ">916</tag><!-- s, o, ǃkhais, hîa, se, î, khami, hina, khama, want -->
-    <tag name="VERB">3942</tag><!-- hâ, mî, ūhâ, ī, dī, sī, ǂan, ǁkhā, mû, kō -->
+    <tag name="SCONJ">917</tag><!-- s, o, ǃkhais, hîa, se, î, khami, hina, khama, want -->
+    <tag name="VERB">3943</tag><!-- hâ, mî, ūhâ, ī, dī, sī, ǂan, ǁkhā, mû, kō -->
     <tag name="X">46</tag><!-- _, ne, ǀnowa -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="69">
     <feat name="Abbr" value="Yes" upos="NOUN,PROPN">21</feat><!-- U.S, C.Q.D., CV, GDRs, CIA, CIAsa, CV-e, CVb, CVba, CVhân -->
-    <feat name="Aspect" value="Imp" upos="AUX">895</feat><!-- ra, gere, ta, gara, goro, ge, a, go, nîra, ru -->
+    <feat name="Aspect" value="Imp" upos="AUX">894</feat><!-- ra, gere, ta, gara, goro, ge, A, go, nîra, ru -->
     <feat name="Aspect" value="Perf" upos="AUX">410</feat><!-- hâ, i -->
     <feat name="Aspect" value="Punct" upos="AUX">30</feat><!-- a -->
     <feat name="Assoc" value="Yes" upos="DET,NOUN,PRON,PROPN">17</feat><!-- xūhâna, CVhân, Donovanhâra, gomaǂgarihân, gūhâna, kaartjiehân, kanhâna, perehân, sabibihân, skolǂgâhâna -->
-    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,SCONJ">2265</feat><!-- sa, ǃkhaisa, te, tsîna, tare-e, xū-e, tsi, khoeba, xūna, satsa -->
-    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ">4860</feat><!-- ta, ts, s, i, b, Petrub, ǁîb, sats, n, khoeb -->
-    <feat name="Case" value="Voc" upos="NOUN,PRON,PROPN">114</feat><!-- ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃKhūtse, tse, ǀgôatse, Dadatse, khoetse, ǀawaǃnamtse, ǁGauǃnâ-aotse -->
+    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,SCONJ">2264</feat><!-- sa, ǃkhaisa, te, tsîna, tare-e, xū-e, tsi, khoeba, xūna, satsa -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ">4857</feat><!-- ta, ts, s, i, b, Petrub, ǁîb, sats, n, khoeb -->
+    <feat name="Case" value="Voc" upos="NOUN,PRON,PROPN">113</feat><!-- ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃKhūtse, tse, ǀgôatse, Dadatse, khoetse, ǀawaǃnamtse, ǁGauǃnâ-aotse -->
     <feat name="Clusivity" value="Ex" upos="PRON">69</feat><!-- sida, sim, sage, da, sige, sima -->
     <feat name="Clusivity" value="In" upos="PRON">66</feat><!-- sada, da, sakhom, Sikhom, khom, sam -->
     <feat name="Degree" value="Dim" upos="ADJ,NOUN,PRON,VERB">86</feat><!-- kharob, xūro-e, ǃāros, dairo-e, kharoba, pereroba, plaassîsenro-e, xūro, ǁAeroba, ǁhoararo-e -->
     <feat name="Degree" value="Pos" upos="ADV">1</feat><!-- nee -->
     <feat name="Deixis" value="Contr" upos="ADV,DET,PRON">40</feat><!-- nau, naun, Nausa, nau-i, naus, nauts -->
-    <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">437</feat><!-- nē, nēpa, nēs, nēti, nēb, nēsa, nēn, nē-i, nē-e, nēba -->
+    <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">436</feat><!-- nē, nēpa, nēs, nēti, nēb, nēsa, nēn, nē-i, nē-e, nēba -->
     <feat name="Deixis" value="Remt" upos="ADV,DET,PRON">383</feat><!-- ǁnā, ǁnāpa, ǁnāti, ǁnās, ǁnāsa, ǁnā-e, ǁnā-i, ǁnān, ǁnāb, ǁnāba -->
     <feat name="Evident" value="Nfh" upos="AUX">8</feat><!-- koma, kama -->
     <feat name="ExtPos" value="ADP" upos="ADP">1</feat><!-- di -->
@@ -56,47 +56,47 @@
     <feat name="ExtPos" value="DET" upos="DET">1</feat><!-- ǀnî -->
     <feat name="ExtPos" value="SCONJ" upos="NOUN">1</feat><!-- ǃnūb -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,CCONJ,INTJ,NOUN,PRON,PUNCT,VERB,X">31</feat><!-- minste, aupa, ten, uerbehaupt, ,, ?, Potassium, cyanide, daar, daarso -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1599</feat><!-- s, ǁîs, ǁnās, Mariasa, oms, si, gangans, nēs, aiǂoas, sa -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1598</feat><!-- s, ǁîs, ǁnās, Mariasa, oms, si, gangans, nēs, aiǂoas, sa -->
     <feat name="Gender" value="Fem,Neut" upos="ADJ,NOUN,PRON">66</feat><!-- m, ǁîra, sim, mi, hoama, mara, ro, ǀgara, ǁgûra, am -->
-    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2840</feat><!-- ts, b, Petrub, ǁîb, sats, khoeb, ǃgôahesatse, khoeba, tsi, satsa -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1781</feat><!-- da, i, n, sida, tare-e, xū-e, xūn, khoen, sada, ǁîn -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2838</feat><!-- ts, b, Petrub, ǁîb, sats, khoeb, ǃgôahesatse, khoeba, tsi, satsa -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1779</feat><!-- da, i, n, sida, tare-e, xū-e, xūn, khoen, sada, ǁîn -->
     <feat name="Mood" value="App" upos="AUX">3</feat><!-- tā -->
     <feat name="Mood" value="Ass" upos="AUX">47</feat><!-- o, kom, komo, -o -->
-    <feat name="Mood" value="Imp" upos="AUX">365</feat><!-- re, ǀkhī, a, hā, ra, o, ta -->
+    <feat name="Mood" value="Imp" upos="AUX">364</feat><!-- re, ǀkhī, a, hā, ra, ta -->
     <feat name="Mood" value="Ind" upos="AUX">1955</feat><!-- ge -->
     <feat name="Mood" value="Int" upos="AUX">44</feat><!-- i, kha -->
     <feat name="Mood" value="Pot" upos="AUX">248</feat><!-- ga, gara, ka -->
     <feat name="Mood" value="Prh" upos="AUX">32</feat><!-- tā -->
     <feat name="Number" value="Dual" upos="ADJ,NOUN,NUM,PRON,PROPN">148</feat><!-- m, khom, ra, ǁîra, sakhom, kha, khoekha, sim, kho, mi -->
-    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1408</feat><!-- da, n, sida, xūn, khoen, sada, ǁîn, xūna, du, khoena -->
-    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">5897</feat><!-- ta, ts, tita, i, b, s, ti, sa, te, Petrub -->
-    <feat name="NumType" value="Card" upos="NUM">188</feat><!-- ǀgui, ǀgam, ǀguis, koro, ǀgui-e, ǃnona, dīsi, haka, korodīsi, ǃnanidīsi -->
+    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1404</feat><!-- da, n, sida, xūn, khoen, sada, ǁîn, xūna, du, khoena -->
+    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">5898</feat><!-- ta, ts, tita, i, b, s, ti, sa, te, Petrub -->
+    <feat name="NumType" value="Card" upos="NUM">191</feat><!-- ǀgui, ǀgam, ǀguis, koro, ǀgui-e, ǃnona, dīsi, haka, korodīsi, ǃnanidīsi -->
     <feat name="NumType" value="Ord" upos="ADJ">37</feat><!-- ǂguro, ǀgamǁî, ǃnonaǁî, koroǁî, hakaǁî, ǀgamǀaǁî, ǀguiǀaǁî, ǁkhaisadīsiǀgamǀâǁî, ǂkhî, ǃNaniǁî -->
-    <feat name="Person" value="1" upos="DET,NOUN,NUM,PRON">1446</feat><!-- ta, tita, da, ti, te, sida, sada, m, khom, ge -->
-    <feat name="Person" value="2" upos="DET,NOUN,PRON,PROPN">892</feat><!-- ts, sa, sats, ǃgôahesatse, tsi, du, satsa, ǃgôasatse, sadu, sago -->
+    <feat name="Person" value="1" upos="DET,NOUN,NUM,PRON">1445</feat><!-- ta, tita, da, ti, te, sida, sada, m, khom, ge -->
+    <feat name="Person" value="2" upos="DET,NOUN,PRON,PROPN">893</feat><!-- ts, sa, sats, ǃgôahesatse, tsi, du, satsa, ǃgôasatse, sadu, sago -->
     <feat name="Person" value="2,3" upos="PRON">167</feat><!-- s, si, sa, tsi -->
-    <feat name="Person" value="3" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">4916</feat><!-- i, b, Petrub, ǁîb, n, tare-e, khoeb, xū-e, xūn, khoen -->
+    <feat name="Person" value="3" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">4913</feat><!-- i, b, Petrub, ǁîb, n, tare-e, khoeb, xū-e, xūn, khoen -->
     <feat name="Polarity" value="Neg" upos="AUX,INTJ,PART">494</feat><!-- tama, hî-î, tite, nee, hâ-â, tama-e, tide, Hîî, hî -->
     <feat name="Polarity" value="Pos" upos="INTJ">264</feat><!-- î, ā, ja, io -->
-    <feat name="Poss" value="Yes" upos="DET,PRON">238</feat><!-- ti, sa, âba, âga, âsa -->
-    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">860</feat><!-- nē, ǁnā, nēpa, ǁnāpa, ǁnāti, ǁnās, nau, nēs, nēti, ǁnāsa -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">240</feat><!-- ti, sa, âba, âga, âsa -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">859</feat><!-- nē, ǁnā, nēpa, ǁnāpa, ǁnāti, ǁnās, nau, nēs, nēti, ǁnāsa -->
     <feat name="PronType" value="Emp" upos="DET">1</feat><!-- ǂûb -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">35</feat><!-- ǀnî, ǂgui, enige, ǀnîba, ǂGuina -->
-    <feat name="PronType" value="Int" upos="ADV,DET,PRON">275</feat><!-- mâti, tare-e, tare-i, mâpa, tare, mâ, tari-e, tari, mâtikō, tarena -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">36</feat><!-- ǀnî, ǂgui, enige, ǀnîba, ǂGuina -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">276</feat><!-- mâti, tare-e, tare-i, mâpa, tare, mâ, tari-e, tari, mâtikō, tarena -->
     <feat name="PronType" value="Neg" upos="DET">1</feat><!-- xare-i -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">3020</feat><!-- ta, ts, tita, da, i, b, ti, s, sa, te -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">3075</feat><!-- ta, ts, tita, da, i, b, ti, s, sa, te -->
     <feat name="PronType" value="Rel" upos="PRON">80</feat><!-- ba, -e, i, n, na, sa, b, s, -i, e -->
     <feat name="PronType" value="Tot" upos="ADV,DET,PRON">138</feat><!-- hoa, hoaraga, hoan, hoana, mâ, hoasa, hoa-e, hoa-i, hoada, hoaǁae -->
     <feat name="Subcat" value="Intr" upos="VERB">1</feat><!-- klim -->
     <feat name="Subcat" value="Tran" upos="VERB">1</feat><!-- soek -->
     <feat name="Tense" value="Fut" upos="AUX">442</feat><!-- nî, tite, tide, ni, nîra -->
     <feat name="Tense" value="Fut,Past,RecPast" upos="AUX">103</feat><!-- i, ī -->
-    <feat name="Tense" value="Past" upos="AUX">333</feat><!-- ge, gere, go -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">499</feat><!-- a, i, klim, soek -->
-    <feat name="Tense" value="RecPast" upos="AUX">381</feat><!-- go, goro -->
+    <feat name="Tense" value="Past" upos="AUX">332</feat><!-- ge, gere -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">500</feat><!-- a, i, klim, soek -->
+    <feat name="Tense" value="RecPast" upos="AUX">382</feat><!-- go, goro -->
     <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PRON,SCONJ,VERB">77</feat><!-- ge, ǃnaga, tî, ǃkhaesa, go, hîgaga, kama, nē, ī, ǁNā -->
     <feat name="VerbForm" value="Fin,Inf" upos="VERB">2</feat><!-- klim, soek -->
-    <feat name="Voice" value="Act" upos="VERB">3467</feat><!-- hâ, ūhâ, ī, dī, mî, sī, ǁkhā, ǂan, mû, kō -->
+    <feat name="Voice" value="Act" upos="VERB">3468</feat><!-- hâ, ūhâ, ī, dī, mî, sī, ǁkhā, ǂan, mû, kō -->
     <feat name="Voice" value="Appl" upos="VERB">83</feat><!-- mîba, sîsenba, ǃoaba, ūhâba, ǁGuiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, Dâba, Murphyba -->
     <feat name="Voice" value="ApplPass" upos="VERB">23</feat><!-- ǃgâibahe, mîbahe, tsūbahe, ībahe, ǁGaibahe, ǂābahe, ǃgaubahe -->
     <feat name="Voice" value="ApplRfl" upos="VERB">9</feat><!-- ǁnâubasen, dībasen, kaikaibasen, ūǂuibasen, ǁamabasen, ǃgîbasen, ǃkhōbasen, ǃâubasen -->
@@ -108,17 +108,17 @@
   <deps unique="50">
     <dep name="acl">65</dep>
     <dep name="acl:relcl">265</dep>
-    <dep name="advcl">387</dep>
+    <dep name="advcl">391</dep>
     <dep name="advmod">1712</dep>
     <dep name="advmod:emph">105</dep>
-    <dep name="amod">456</dep>
+    <dep name="amod">457</dep>
     <dep name="appos">70</dep>
-    <dep name="aux">5299</dep>
+    <dep name="aux">5298</dep>
     <dep name="case">1455</dep>
     <dep name="cc">662</dep>
-    <dep name="ccomp">302</dep>
+    <dep name="ccomp">296</dep>
     <dep name="compound:svc">78</dep>
-    <dep name="conj">419</dep>
+    <dep name="conj">420</dep>
     <dep name="cop">327</dep>
     <dep name="csubj">14</dep>
     <dep name="csubj:outer">3</dep>
@@ -135,26 +135,26 @@
     <dep name="flat:reparandum">7</dep>
     <dep name="flat:title">80</dep>
     <dep name="goeswith">21</dep>
-    <dep name="iobj">64</dep>
+    <dep name="iobj">68</dep>
     <dep name="iobj:appl">53</dep>
     <dep name="list">2</dep>
-    <dep name="mark">974</dep>
-    <dep name="nmod">44</dep>
+    <dep name="mark">975</dep>
+    <dep name="nmod">45</dep>
     <dep name="nmod:poss">660</dep>
-    <dep name="nsubj">2858</dep>
+    <dep name="nsubj">2860</dep>
     <dep name="nsubj:outer">22</dep>
     <dep name="nsubj:pass">159</dep>
     <dep name="nummod">95</dep>
-    <dep name="obj">1270</dep>
+    <dep name="obj">1261</dep>
     <dep name="obj:appl">15</dep>
     <dep name="obl">1016</dep>
     <dep name="obl:agent">58</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">276</dep>
     <dep name="punct">4144</dep>
-    <dep name="reparandum">61</dep>
+    <dep name="reparandum">62</dep>
     <dep name="root">3589</dep>
     <dep name="vocative">251</dep>
-    <dep name="xcomp">277</dep>
+    <dep name="xcomp">278</dep>
   </deps>
 </treebank>
