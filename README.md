@@ -46,8 +46,9 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.16
-License: CC BY-SA 4.0
+License: CC BY-NC-SA 4.0
 Includes text: yes
+Parallel: cairo
 Genre: fiction grammar-examples spoken
 Lemmas: manual native
 UPOS: manual native
