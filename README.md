@@ -31,11 +31,13 @@ The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe
 
 # Acknowledgments
 
-This work was supported by the project "Event Packaging in Language" (University of Zurich Global Strategy and Partnerships Funding Scheme, 2023–2026).
+* This work was supported by the project "Event Packaging in Language" (University of Zurich Global Strategy and Partnerships Funding Scheme, 2023–2026).
 
-We also acknowledge the contributions of members of the broader Khoekhoe documentation project, whose work on data collection, translation, and linguistic analysis made this treebank possible:
+* We also acknowledge the contributions of members of the broader Khoekhoe documentation project, whose work on data collection, translation, and linguistic analysis made this treebank possible:
 
-Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
+    Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
+
+* Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
 
 # References
 
