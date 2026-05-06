@@ -1,6 +1,6 @@
 # Summary
 
-UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe language. The annotation was performed manually based on glosses. This treebank includes texts from various sources: fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
+UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoegowab (Khoekhoe) language. The annotation was performed manually based on glosses. This treebank includes texts from various sources: fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
 
 - **Training set**: 15k tokens
 - **Development set**: 2k tokens
@@ -31,7 +31,13 @@ The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe
 
 # Acknowledgments
 
-Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
+* This work was supported by the project "Event Packaging in Language" (University of Zurich Global Strategy and Partnerships Funding Scheme, 2023–2026).
+
+* We also acknowledge the contributions of members of the broader Khoekhoe documentation project, whose work on data collection, translation, and linguistic analysis made this treebank possible:
+
+    Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
+
+* Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
 
 # References
 
