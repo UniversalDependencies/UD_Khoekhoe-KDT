@@ -1,7 +1,8 @@
 # newdoc id = grammar_BivalTyp
+# modality = written
 # sent_id = grammar_BivalTyp_61
 # text = Petrub ge dīsi eurogu xa ǃgaubahe hâ
-# english = (P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.
+# text_en = (P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
@@ -12,7 +13,7 @@
 
 # sent_id = grammar_BivalTyp_62
 # text = Petrub ge ǁgauǃnâ-aosa go ǃeream
-# english = (The teacher asked P. what his parents’ names are.) P. answered the teacher.
+# text_en = (The teacher asked P. what his parents’ names are.) P. answered the teacher.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	ǁgauǃnâ-aosa	ǁgauǃnâ-ao	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
@@ -21,7 +22,7 @@
 
 # sent_id = grammar_BivalTyp_63
 # text = Perub ge dōba go ǁkhowaam
-# english = P. opened a can.
+# text_en = P. opened a can.
 1	Perub	Peru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	dōba	dō	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
@@ -30,7 +31,7 @@
 
 # sent_id = grammar_BivalTyp_64
 # text = Ti hems ge sasa xu a ǀkhara
-# english = (M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’
+# text_en = (M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’
 1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	hems	hem	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
@@ -43,7 +44,7 @@
 
 # sent_id = grammar_BivalTyp_65
 # text = Petrub ge Marias ǃgâb ai ge ǁnā
-# english = (P. and M. started out to school together, but) P. fell behind M.
+# text_en = (P. and M. started out to school together, but) P. fell behind M.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
@@ -54,7 +55,7 @@
 
 # sent_id = grammar_BivalTyp_66
 # text = Petrub ge ǃhanaba ra ǃhūǃgao
-# english = P. is ploughing the field.
+# text_en = P. is ploughing the field.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	ǃhanaba	ǃhana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
@@ -63,7 +64,7 @@
 
 # sent_id = grammar_BivalTyp_67
 # text = Ti ǃomdi ge petrol-i khami ra ham
-# english = (I was mending my car.) My hands smell like / smell of gasoline.
+# text_en = (I was mending my car.) My hands smell like / smell of gasoline.
 1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǃomdi	ǃom	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	7	nsubj	7:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -74,7 +75,7 @@
 
 # sent_id = grammar_BivalTyp_68
 # text = Petrub ge daoba ge ǃgâu
-# english = (P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).
+# text_en = (P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
@@ -83,7 +84,7 @@
 
 # sent_id = grammar_BivalTyp_69
 # text = Petrub ge îxa amsa ge ǁnae
-# english = P. sang a beautiful song.
+# text_en = P. sang a beautiful song.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	îxa	îxa	ADJ	_	_	4	amod	4:amod	_
@@ -93,7 +94,7 @@
 
 # sent_id = grammar_BivalTyp_70
 # text = Petrub ge sîǂkhanisa ge xoa
-# english = P. wrote a letter.
+# text_en = P. wrote a letter.
 1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	sîǂkhanisa	sîǂkhani	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
@@ -101,9 +102,10 @@
 5	xoa	xoa	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # newdoc id = film_Bridge
+# modality = written
 # sent_id = film_Bridge_1
 # text = Sao ra mâǃkhaisa ǂhawa ǃganni ǃnâ.
-# english = The next stop is Broad Street.
+# text_en = The next stop is Broad Street.
 1	Sao	sao	VERB	_	Voice=Act	3	acl:relcl	3:acl:relcl	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
 3	mâǃkhaisa	mâǃkhai	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nsubj	1:nsubj|5:nsubj	_
@@ -114,7 +116,7 @@
 
 # sent_id = film_Bridge_2
 # text = Nēpa xub ge ǂhawa ǃganna nî sao.
-# english = Broad Street will be next.
+# text_en = Broad Street will be next.
 1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	8	obl	8:obl	_
 2-3	xub	_	_	_	_	_	_	_	_
 2	xu	xu	ADP	_	_	1	case	1:case	_
@@ -128,14 +130,14 @@
 
 # sent_id = film_Bridge_3
 # text = ǀGawi dao-amdāǃharos.
-# english = Upstairs.
+# text_en = Upstairs.
 1	ǀGawi	ǀgawi	ADJ	_	_	2	amod	2:amod	_
 2	dao-amdāǃharos	dao-amdāǃha	NOUN	_	Case=Nom|Degree=Dim|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_4
 # text = Nē daoba u.
-# english = This way.
+# text_en = This way.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
 3	u	u	ADP	_	_	2	case	2:case	SpaceAfter=No
@@ -143,7 +145,7 @@
 
 # sent_id = film_Bridge_5
 # text = ǁÎba nē daoba u hā tama hâ?
-# english = He didn't come up this way?
+# text_en = He didn't come up this way?
 1	ǁÎba	ǁî	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	3	det	3:det	_
 3	daoba	dao	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obl	5:obl	_
@@ -155,7 +157,7 @@
 
 # sent_id = film_Bridge_6
 # text = Xû-e hō its?
-# english = Anything?
+# text_en = Anything?
 1	Xû-e	xû	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	_
 2	hō	hō	VERB	_	Voice=Act	0	root	0:root	_
 3-4	its	_	_	_	_	_	_	_	SpaceAfter=No
@@ -165,7 +167,7 @@
 
 # sent_id = film_Bridge_7
 # text = Nēpab ge ǀgawiga a ǀkhai.
-# english = He's not up here.
+# text_en = He's not up here.
 1-2	Nēpab	_	_	_	_	_	_	_	_
 1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	6	advmod	6:advmod	_
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
@@ -177,14 +179,14 @@
 
 # sent_id = film_Bridge_8
 # text = ǁGôa-oa re!
-# english = Go back down.
+# text_en = Go back down.
 1	ǁGôa-oa	ǁgôa-oa	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
 3	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_9
 # text = ǁGawaǁae te re.
-# english = Excuse me.
+# text_en = Excuse me.
 1	ǁGawaǁae	ǁgawaǁae	VERB	_	Voice=Act	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -192,7 +194,7 @@
 
 # sent_id = film_Bridge_10
 # text = ǁGawaǁae te o.
-# english = Excuse me.
+# text_en = Excuse me.
 1	ǁGawaǁae	ǁgawaǁae	VERB	_	Voice=Act	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	o	o	SCONJ	_	_	1	mark	1:mark	SpaceAfter=No
@@ -200,7 +202,7 @@
 
 # sent_id = film_Bridge_11
 # text = Ais ai ī re î sī audosa sī ǃnarimâi.
-# english = Go ahead and park around the corner.
+# text_en = Go ahead and park around the corner.
 1	Ais	ai	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	obl	3:obl	_
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
@@ -214,13 +216,13 @@
 
 # sent_id = film_Bridge_12
 # text = Sari-aon.
-# english = Visitors.
+# text_en = Visitors.
 1	Sari-aon	sari-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_13
 # text = ǃGâibahets nî î ta aibe ti ǁgûna ū?
-# english = Do you mind if I fetch my teeth?
+# text_en = Do you mind if I fetch my teeth?
 1-2	ǃGâibahets	_	_	_	_	_	_	_	_
 1	ǃGâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	1:nsubj:pass	_
@@ -235,7 +237,7 @@
 
 # sent_id = film_Bridge_14
 # text = ǀAwaǃnamtse dawasen ǁkhāts a?
-# english = Colonel, would you turn around, please?
+# text_en = Colonel, would you turn around, please?
 1	ǀAwaǃnamtse	ǀawaǃnam	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	3	vocative	3:vocative	_
 2	dawasen	dawa	VERB	_	Voice=Rfl	3	xcomp	3:xcomp	_
 3-4	ǁkhāts	_	_	_	_	_	_	_	_
@@ -246,7 +248,7 @@
 
 # sent_id = film_Bridge_15
 # text = Kharob ai ǂnû re.
-# english = Sit down on the bed.
+# text_en = Sit down on the bed.
 1	Kharob	kharo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obl	3:obl	_
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	ǂnû	ǂnû	VERB	_	Voice=Act	0	root	0:root	_
@@ -255,7 +257,7 @@
 
 # sent_id = film_Bridge_16
 # text = ǀKhī da ī re.
-# english = Let's go.
+# text_en = Let's go.
 1	ǀKhī	ǀkhī	AUX	HORT	Mood=Imp	3	aux	3:aux	_
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	ī	ī	VERB	_	Voice=Act	0	root	0:root	_
@@ -264,7 +266,7 @@
 
 # sent_id = film_Bridge_17
 # text = ǁGûgu ge ǁnāpa ǂganaga…
-# english = Uh, they're in the…
+# text_en = Uh, they're in the…
 1	ǁGûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	nsubj	3:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	3	aux	3:aux	_
 3	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	0	root	0:root	_
@@ -273,7 +275,7 @@
 
 # sent_id = film_Bridge_18
 # text = ǁGûgu ge ǁnāpa ǂganaga ... ǁgûgu ge sinki ai ǂnôa.
-# english = The teeth are in the… on the sink
+# text_en = The teeth are in the… on the sink
 1	ǁGûgu	ǁgû	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
@@ -288,7 +290,7 @@
 
 # sent_id = film_Bridge_19
 # text = Kō te re.
-# english = Look at me.
+# text_en = Look at me.
 1	Kō	kō	VERB	_	Voice=Act	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -296,7 +298,7 @@
 
 # sent_id = film_Bridge_20
 # text = Sida ge ǂhanuǁî ǁgâus ôaǃnâs disa xu ra ǀkhī.
-# english = We are agents from the Federal Bureau of Investigation.
+# text_en = We are agents from the Federal Bureau of Investigation.
 1	Sida	si	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
 3	ǂhanuǁî	ǂhanuǁî	ADJ	_	_	4	amod	4:amod	_
@@ -312,7 +314,7 @@
 
 # sent_id = film_Bridge_21
 # text = Kē te re!
-# english = Look at me!
+# text_en = Look at me!
 1	Kē	kē	VERB	_	Voice=Act	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -320,7 +322,7 @@
 
 # sent_id = film_Bridge_22
 # text = Sats ǀkha ra ǃhoa i ge.
-# english = I'm talking to you.
+# text_en = I'm talking to you.
 1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	4:obl	_
 2	ǀkha	ǀkha	ADP	_	_	1	case	1:case	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
@@ -331,7 +333,7 @@
 
 # sent_id = film_Bridge_23
 # text = ǂHôarona da ge ge ǃkhōǃoa sats ǂhanub di ǂgīǂgōsi ǂhôan tsî torosi ǂhôana ra ǃgâ tsî ǃnuri ǃkhaisa ra ǁgauǁgauna.
-# english = We've received information concerning your involvement in espionage.
+# text_en = We've received information concerning your involvement in espionage.
 1	ǂHôarona	ǂhôa	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Plur|Person=3	5	obj	5:obj|20:nsubj	_
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
@@ -358,7 +360,7 @@
 
 # sent_id = film_Bridge_24
 # text = Sida ǀkhats ge nēsi a sîsenǀkhao ǁkhā tamas ka i ots ge nî ǃkhōhe
-# english = You can either cooperate with us right now, or you'll be under arrest.
+# text_en = You can either cooperate with us right now, or you'll be under arrest.
 1	Sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	8	obl	8:obl	_
 2-3	ǀkhats	_	_	_	_	_	_	_	_
 2	ǀkha	ǀkha	ADP	_	_	1	case	1:case	_
@@ -382,7 +384,7 @@
 
 # sent_id = film_Bridge_25
 # text = ǀAwaǃnam ǁnâuǃā its ra?
-# english = Do you understand, Colonel?
+# text_en = Do you understand, Colonel?
 1	ǀAwaǃnam	ǀawaǃnam	NOUN	_	_	2	vocative	2:vocative	_
 2	ǁnâuǃā	ǁnâuǃā	VERB	DIST	Voice=Act	0	root	0:root	_
 3-4	its	_	_	_	_	_	_	_	_
@@ -393,7 +395,7 @@
 
 # sent_id = film_Bridge_26
 # text = Hâ-â, amases ose o
-# english = No, not really.
+# text_en = No, not really.
 1	Hâ-â	hâ-â	INTJ	_	Polarity=Neg	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3-4	amases	_	_	_	_	_	_	_	_
@@ -404,7 +406,7 @@
 
 # sent_id = film_Bridge_27
 # text = Tare-i xats ra ǀûs ose ǀawaǃnam ti tita ra ǂgai?
-# english = Why do you keep calling me 'Colonel'?
+# text_en = Why do you keep calling me 'Colonel'?
 1	Tare-i	tare	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	obl	5:obl	_
 2-3	xats	_	_	_	_	_	_	_	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
@@ -423,7 +425,7 @@
 
 # sent_id = film_Bridge_28
 # text = Sats ge nēsi nî anas ge.
-# english = You need to get dressed.
+# text_en = You need to get dressed.
 1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	nēsi	nēsi	ADV	_	_	5	advmod	5:advmod	_
@@ -436,7 +438,7 @@
 
 # sent_id = film_Bridge_29
 # text = Sa ǃnā-omsa da ge nî ôaǃnâs ge
-# english = We have to search your apartment.
+# text_en = We have to search your apartment.
 1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǃnā-omsa	ǃnā-om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	6:obj	_
 3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -449,7 +451,7 @@
 
 # sent_id = film_Bridge_30
 # text = ǃGâibahets nî tita ga ti aibe ǂkhauǂhoeba gara ǃanu o?
-# english = Would you mind if I, uh, cleaned my palette?
+# text_en = Would you mind if I, uh, cleaned my palette?
 1-2	ǃGâibahets	_	_	_	_	_	_	_	_
 1	ǃGâibahe	ǃgâi	VERB	_	Voice=ApplPass	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	1:nsubj:pass	_
@@ -466,7 +468,7 @@
 
 # sent_id = film_Bridge_31
 # text = Nē ferf-i nî ǁgaiǁgaihe ǃkhaisa ta ge ǂgao tama hâ.
-# english = The paints, it'll get ruined otherwise.
+# text_en = The paints, it'll get ruined otherwise.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	ferf-i	ferf	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nsubj:pass	4:nsubj:pass	_
 3	nî	nî	AUX	FUT	Tense=Fut	4	aux	4:aux	_
@@ -481,7 +483,7 @@
 
 # sent_id = film_Bridge_32
 # text = ǁNāpa sa ǃgâb ai ǀgui hâ.
-# english = It's just behind you there.
+# text_en = It's just behind you there.
 1	ǁNāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	6	advmod	6:advmod	_
 2	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	3:det	_
 3	ǃgâb	ǃgâ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl	6:obl	_
@@ -492,7 +494,7 @@
 
 # sent_id = film_Bridge_33
 # text = Tita ge lapisa ūhâ.
-# english = I have a cloth myself.
+# text_en = I have a cloth myself.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	lapisa	lapi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obj	4:obj	_
@@ -501,13 +503,13 @@
 
 # sent_id = film_Bridge_34
 # text = Gangans.
-# english = Thank you.
+# text_en = Thank you.
 1	Gangans	gangan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_35
 # text = Hoan ge a ǃgâi, nē ǃnā-omsa ǁnaraǃnâ tsoatsoa re.
-# english = All right, start searching the place.
+# text_en = All right, start searching the place.
 1	Hoan	hoa	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Tot	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
@@ -522,13 +524,13 @@
 
 # sent_id = film_Bridge_36
 # text = Gangans.
-# english = Thank you.
+# text_en = Thank you.
 1	Gangans	gangan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_37
 # text = Hoan ge a ǃgâi, matras, kharob, ǂaiǂgawab di tāgu, ǁîb di stuls tsîna ǁnaraǃnâ re.
-# english = All right, search the mattress, the bed, the floorboards, his chair.
+# text_en = All right, search the mattress, the bed, the floorboards, his chair.
 1	Hoan	hoa	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Tot	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
@@ -554,7 +556,7 @@
 
 # sent_id = film_Bridge_38
 # text = Nē xū-ets kha tsaoǃoreb hîa mûǂuidaos ai mâb ǃnâ a ǂgā ǁoa?
-# english = Would you put that in the ashtray on the windowsill there?
+# text_en = Would you put that in the ashtray on the windowsill there?
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2-3	xū-ets	_	_	_	_	_	_	_	_
 2	xū-e	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	13	obj	13:obj	_
@@ -575,7 +577,7 @@
 
 # sent_id = film_Bridge_39
 # text = Kaise ǂōrisase tāba kō re.
-# english = Take a good look at that desk.
+# text_en = Take a good look at that desk.
 1	Kaise	kaise	ADV	_	_	2	advmod	2:advmod	_
 2	ǂōrisase	ǂōrisase	ADV	_	_	4	advmod	4:advmod	_
 3	tāba	tā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	4:obj	_
@@ -585,7 +587,7 @@
 
 # sent_id = film_Bridge_40
 # text = ǀKhī da tāba kō.
-# english = Let's see the desk.
+# text_en = Let's see the desk.
 1	ǀKhī	ǀkhī	AUX	HORT	Mood=Imp	4	aux	4:aux	_
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	tāba	tā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	4:obj	_
@@ -594,7 +596,7 @@
 
 # sent_id = film_Bridge_41
 # text = Amase ta ge nē-i nî ǁgaiǁgaihesa ǂgao tama.
-# english = Wouldn't want to get this ruined.
+# text_en = Wouldn't want to get this ruined.
 1	Amase	amase	ADV	_	_	8	advmod	8:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
@@ -609,7 +611,7 @@
 
 # sent_id = film_Bridge_42
 # text = Tā "ti khoeb ge" ti mî re.
-# english = Don't say "my guy."
+# text_en = Don't say "my guy."
 1	Tā	tā	AUX	PROH	Mood=Prh	8	aux	8:aux	_
 2	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 3	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -623,7 +625,7 @@
 
 # sent_id = film_Bridge_43
 # text = Ti tama hâ khoeb ge xuige
-# english = He's not "my guy."
+# text_en = He's not "my guy."
 1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	0:root	_
 2	tama	tama	PART	NEG	Polarity=Neg	1	advmod	1:advmod	_
 3	hâ	hâ	AUX	PFV	Aspect=Perf	1	aux	1:aux	_
@@ -633,7 +635,7 @@
 
 # sent_id = film_Bridge_44
 # text = Î, sa a khoeb ge
-# english = Yes, he's "your guy."
+# text_en = Yes, he's "your guy."
 1	Î	î	INTJ	_	Polarity=Pos	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	0:root	_
@@ -643,7 +645,7 @@
 
 # sent_id = film_Bridge_45
 # text = Ham-i xa da ra ǃhoa?
-# english = Who are we talking about?
+# text_en = Who are we talking about?
 1	Ham-i	ham	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	obl	5:obl	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
 3	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
@@ -653,7 +655,7 @@
 
 # sent_id = film_Bridge_46
 # text = Sakhom ge nēi-ao khoeb hîa ti ǁama-ao-i xa ra ǂnoabahesab xa ra ǃhoa.
-# english = We're talking about a guy who was insured by my client.
+# text_en = We're talking about a guy who was insured by my client.
 1	Sakhom	sa	PRON	_	Case=Nom|Clusivity=In|Gender=Masc|Number=Dual|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	15	aux	15:aux	_
 3	nēi-ao	nēi-ao	ADV	_	_	15	advmod	15:advmod	_
@@ -674,7 +676,7 @@
 
 # sent_id = film_Bridge_47
 # text = ǁNā-amaga tā 'ti khoeb ge' ti mî re.
-# english = So, don't make him "my guy."
+# text_en = So, don't make him "my guy."
 1	ǁNā-amaga	ǁnā-amaga	ADV	_	_	9	advmod	9:advmod	_
 2	tā	tā	AUX	PROH	Mood=Prh	9	aux	9:aux	_
 3	'	'	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
@@ -689,7 +691,7 @@
 
 # sent_id = film_Bridge_48
 # text = Ok, ǃgâi a.
-# english = Okay, fine.
+# text_en = Okay, fine.
 1	Ok	ok	INTJ	_	_	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	ǃgâi	ǃgâi	ADJ	_	_	0	root	0:root	_
@@ -698,7 +700,7 @@
 
 # sent_id = film_Bridge_49
 # text = Ti ǃkhais ge khoeb hîa sa klient-i xa ra ǂnoabaheb ge nē xūn hoan go ī ǃkhaisa ǀūxū tama hâ.
-# english = My point is, the guy insured by your client, he doesn't deny that any of these things happened.
+# text_en = My point is, the guy insured by your client, he doesn't deny that any of these things happened.
 1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǃkhais	ǃkhai	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj:outer	19:nsubj:outer	_
 3	ge	ge	AUX	DECL	Mood=Ind	19	aux	19:aux	_
@@ -725,20 +727,20 @@
 
 # sent_id = film_Bridge_50
 # text = Nēn…
-# english = These…
+# text_en = These…
 1	Nēn	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Neut|Number=Plur|PronType=Dem	0	root	0:root	SpaceAfter=No
 2	…	…	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_51
 # text = Nē xūn?
-# english = These things?
+# text_en = These things?
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_52
 # text = Î, nē koro xūna.
-# english = Yes, these five things.
+# text_en = Yes, these five things.
 1	Î	î	INTJ	_	Polarity=Pos	5	discourse	5:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
@@ -748,7 +750,7 @@
 
 # sent_id = film_Bridge_53
 # text = ǃÂu, ǁnam o, ǁnam o, ǁnam o.
-# english = Wait, hold it, hold it, hold it.
+# text_en = Wait, hold it, hold it, hold it.
 1	ǃÂu	ǃâu	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	ǁnam	ǁnam	VERB	_	Voice=Act	1	parataxis	1:parataxis	_
@@ -763,7 +765,7 @@
 
 # sent_id = film_Bridge_54
 # text = Koro xūn ose.
-# english = Not five things.
+# text_en = Not five things.
 1	Koro	koro	NUM	_	NumType=Card	2	nummod	2:nummod	_
 2	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	0	root	0:root	_
 3	ose	ose	VERB	_	Voice=Act	2	case	2:case	SpaceAfter=No
@@ -771,7 +773,7 @@
 
 # sent_id = film_Bridge_55
 # text = ǀGui xū-i ge.
-# english = One thing.
+# text_en = One thing.
 1	ǀGui	ǀgui	NUM	_	NumType=Card	0	root	0:root	_
 2	xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	SpaceAfter=No
@@ -779,7 +781,7 @@
 
 # sent_id = film_Bridge_56
 # text = ǃGāsa i ge a koro xūn a ǃkhaisa.
-# english = Clearly, it's five things.
+# text_en = Clearly, it's five things.
 1	ǃGāsa	ǃgāsa	ADJ	_	_	0	root	0:root	_
 2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	_
@@ -792,7 +794,7 @@
 
 # sent_id = film_Bridge_57
 # text = ǀÛba te re xawe ǁnâi tita ge ǃgāsabahe tama hâ.
-# english = Well, I'm sorry, it's not clear to me.
+# text_en = Well, I'm sorry, it's not clear to me.
 1	ǀÛba	ǀûba	VERB	_	Voice=Act	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
@@ -807,7 +809,7 @@
 
 # sent_id = film_Bridge_58
 # text = Koro a xūn ge?
-# english = Five things?
+# text_en = Five things?
 1	Koro	koro	NUM	_	NumType=Card	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	_
 3	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	1	nsubj	1:nsubj	_
@@ -816,7 +818,7 @@
 
 # sent_id = film_Bridge_59
 # text = ǁGuiǃāba te re.
-# english = Explain it to me.
+# text_en = Explain it to me.
 1	ǁGuiǃāba	ǁguiǃā	VERB	_	Voice=Appl	0	root	0:root	_
 2	te	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj:appl	1:iobj:appl	_
 3	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
@@ -824,7 +826,7 @@
 
 # sent_id = film_Bridge_60
 # text = ǁÎ-aitsama ra ǁgauǁgau xūn ge mûhesa a.
-# english = It's self-evident.
+# text_en = It's self-evident.
 1	ǁÎ-aitsama	ǁî-aitsama	ADV	_	_	3	advmod	3:advmod	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	3	aux	3:aux	_
 3	ǁgauǁgau	ǁgauǁgau	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
@@ -836,7 +838,7 @@
 
 # sent_id = film_Bridge_61
 # text = O ǁnâi mîba te re tare-i go īsa.
-# english = Okay, then tell me what happened.
+# text_en = Okay, then tell me what happened.
 1	O	o	ADV	_	_	3	advmod	3:advmod	_
 2	ǁnâi	ǁnâi	ADV	_	_	3	advmod	3:advmod	_
 3	mîba	mî	VERB	_	Voice=Appl	0	root	0:root	_
@@ -851,7 +853,7 @@
 
 # sent_id = film_Bridge_62
 # text = ǂHôasa ǃgāsa ǀgaub hîa ta nî ǁnâuǃāb ǃnâ mîba te re.
-# english = Tell me the story in a way that makes sense for five things.
+# text_en = Tell me the story in a way that makes sense for five things.
 1	ǂHôasa	ǂhôa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	10:obj	_
 2	ǃgāsa	ǃgāsa	ADJ	_	_	3	amod	3:amod	_
 3	ǀgaub	ǀgau	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obl	7:obj|10:obl	_
@@ -869,7 +871,7 @@
 
 # sent_id = film_Bridge_63
 # text = ǃGâi a, hoaragase.
-# english = Fine, absolutely.
+# text_en = Fine, absolutely.
 1	ǃGâi	ǃgâi	ADJ	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
@@ -878,7 +880,7 @@
 
 # sent_id = film_Bridge_64
 # text = Sa khoeb ge…
-# english = Your guy is…
+# text_en = Your guy is…
 1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
 3	ge	ge	AUX	DECL	Mood=Ind	2	aux	2:aux	SpaceAfter=No
@@ -886,7 +888,7 @@
 
 # sent_id = film_Bridge_65
 # text = Ti khoe tamab ge.
-# english = Not my guy.
+# text_en = Not my guy.
 1	Ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	khoe	khoe	NOUN	_	_	0	root	0:root	_
 3-4	tamab	_	_	_	_	_	_	_	_
@@ -897,7 +899,7 @@
 
 # sent_id = film_Bridge_66
 # text = Sa ǁama-ao-i xa ra ǂnoabaheb.
-# english = Insured by my client.
+# text_en = Insured by my client.
 1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǁama-ao-i	ǁama-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl:agent	5:obl:agent	_
 3	xa	xa	ADP	_	_	2	case	2:case	_
@@ -909,7 +911,7 @@
 
 # sent_id = film_Bridge_67
 # text = Khoeb hîa sa klient-i xa ra ǂnoabaheb ge ǀgawi daob khoeseǀab ai ǃnari, tsî audosa ǃnaris di ǂgaeǂguisa ra ǂoaǃnâ, tsî koro khoegu tiga ra ǂgâu, nē koro khoegu ge tita go ǃgae î ta ǁîga ǂnûǁkhaeba sats sa mîǁguiba ǂanǃgâ tama hâ xui-ao.
-# english = The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys, the five guys who hired me to represent them because you're not honoring your claim.
+# text_en = The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys, the five guys who hired me to represent them because you're not honoring your claim.
 1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	7:nsubj:pass|14:nsubj|23:nsubj|31:nsubj	_
 2	hîa	hîa	SCONJ	REL	_	7	mark	7:mark	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -922,7 +924,7 @@
 9	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux|23:aux|31:aux	_
 10	ǀgawi	ǀgawi	ADJ	_	_	11	amod	11:amod	_
 11	daob	dao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	14:obl	_
-12	khoeseǀab	khoeseǀa	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card|Person=3	11	nmod	11:nmod	_
+12	khoeseǀab	khoeseǀa	NUM	_	Case=Acc|Gender=Fem|NumType=Card|Number=Sing|Person=3	11	nmod	11:nmod	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ǃnari	ǃnari	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 15	,	,	PUNCT	_	_	23	punct	23:punct	_
@@ -967,7 +969,7 @@
 
 # sent_id = film_Bridge_68
 # text = ǂÂibasenits ra "ti klient-i nē mîǁguiba ǂanǃgâ tama hâ" ti, asaransies ǁgâub?
-# english = You mean my client is not honoring the claim, the insurance company?
+# text_en = You mean my client is not honoring the claim, the insurance company?
 1-2	ǂÂibasenits	_	_	_	_	_	_	_	_
 1	ǂÂibaseni	ǂâibaseni	VERB	_	Voice=Act	0	root	0:root	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
@@ -989,7 +991,7 @@
 
 # sent_id = film_Bridge_69
 # text = ǃGôahesatse Donovan, hoakhom ge ǃgāsasiba ūhâ ham-i a hams ai nēpa.
-# english = Mr. Donovan, we're all clear on who's who, here.
+# text_en = Mr. Donovan, we're all clear on who's who, here.
 1	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	6	vocative	6:vocative	_
 2	Donovan	Donovan	PROPN	_	_	1	flat:title	1:flat:title	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
@@ -1006,7 +1008,7 @@
 
 # sent_id = film_Bridge_70
 # text = Nausa ta ga mî o, ti klienti ge hoaraga mîǁguiga ra ǃgôaǃgâ.
-# english = Except my client honors every claim.
+# text_en = Except my client honors every claim.
 1	Nausa	nau	PRON	DIST.CONTR	Case=Acc|Deixis=Contr|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	obj	4:obj	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	ga	ga	AUX	POT	Mood=Pot	4	aux	4:aux	_
@@ -1024,7 +1026,7 @@
 
 # sent_id = film_Bridge_71
 # text = ǁÎn ge amase ra dī, ǃgôahesatse Bates.
-# english = They do, Mr. Bates
+# text_en = They do, Mr. Bates
 1	ǁÎn	ǁî	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	amase	amase	ADV	_	_	5	advmod	5:advmod	_
@@ -1037,7 +1039,7 @@
 
 # sent_id = film_Bridge_72
 # text = Hoa ǂhanusi mîǁguib ge ǀguikaidīsiǀoakaidisi ǃnaniga ra ǃgôa mâ ǀgui present-i hoa-i ǃaroma ǁî-i di ǂkhawusasiga kō hâse nē khoeb di ǂhanub ǃnâ khom ga kō o.
-# english = Every single legitimate claim, up to the limit of their liability, which is $100, 000 per accident, in the case of this man's policy.
+# text_en = Every single legitimate claim, up to the limit of their liability, which is $100, 000 per accident, in the case of this man's policy.
 1	Hoa	hoa	DET	_	PronType=Tot	3	det	3:det	_
 2	ǂhanusi	ǂhanusi	ADJ	_	_	3	amod	3:amod	_
 3	mîǁguib	mîǁgui	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
@@ -1071,7 +1073,7 @@
 
 # sent_id = film_Bridge_73
 # text = Tsî nēs ge ǀgui mîǁguiba.
-# english = And this is one claim.
+# text_en = And this is one claim.
 1	Tsî	tsî	CCONJ	_	_	2	cc	2:cc	_
 2	nēs	nē	PRON	PROX	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
@@ -1081,7 +1083,7 @@
 
 # sent_id = film_Bridge_74
 # text = Sats ra mîsa ǃoa "Koro khoegu tiga ge ǂgâu"
-# english = According to your description, "He hit my five guys."
+# text_en = According to your description, "He hit my five guys."
 1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	3	aux	3:aux	_
 3-4	mîsa	_	_	_	_	_	_	_	_
@@ -1100,7 +1102,7 @@
 
 # sent_id = film_Bridge_75
 # text = Nē khoeb hîa ti klient-i xa ra ǂnoabaheb ge ǀgui tsūkeǃgâb ǀguiba go ūhâ i.
-# english = The guy insured by my client had one accident.
+# text_en = The guy insured by my client had one accident.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	8:nsubj:pass|15:nsubj	_
 3	hîa	hîa	SCONJ	REL	_	8	mark	8:mark	_
@@ -1122,7 +1124,7 @@
 
 # sent_id = film_Bridge_76
 # text = ǀGui, ǀgui, ǀgui.
-# english = One, one, one.
+# text_en = One, one, one.
 1	ǀGui	ǀgui	NUM	_	NumType=Card	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	ǀgui	ǀgui	NUM	_	NumType=Card	1	parataxis	1:parataxis	SpaceAfter=No
@@ -1132,7 +1134,7 @@
 
 # sent_id = film_Bridge_77
 # text = Audosa ǂgaeǂguis (ǃnaris) di ǁkhāsiba ǂoaǃnâ tsîb ge ǀurihāǃgawi-ao go ǂgâu.
-# english = Losing control of the car and hitting five motorcyclists.
+# text_en = Losing control of the car and hitting five motorcyclists.
 1	Audosa	audo	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	2:nmod:poss|4:case	_
 2	ǂgaeǂguis	ǂgaeǂgui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod:poss	7:nmod:poss	_
 3	(	(	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
@@ -1152,7 +1154,7 @@
 
 # sent_id = film_Bridge_78
 # text = ǁÎgu ra mîsa ǃoa i ge koro xūna go ī.
-# english = From their point of view, five things happened.
+# text_en = From their point of view, five things happened.
 1	ǁÎgu	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	3	aux	3:aux	_
 3-4	mîsa	_	_	_	_	_	_	_	_
@@ -1169,7 +1171,7 @@
 
 # sent_id = film_Bridge_79
 # text = O kō re Bob.
-# english = Well, look, Bob.
+# text_en = Well, look, Bob.
 1	O	o	ADV	_	_	2	advmod	2:advmod	_
 2	kō	kō	VERB	_	Voice=Act	0	root	0:root	_
 3	re	re	AUX	PDIR	Mood=Imp	2	aux	2:aux	_
@@ -1178,7 +1180,7 @@
 
 # sent_id = film_Bridge_80
 # text = Mî ǁkhā i ta a?
-# english = May I?
+# text_en = May I?
 1	Mî	mî	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
 2	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	_
 3	i	i	AUX	INTi	Mood=Int	2	aux	2:aux	_
@@ -1188,19 +1190,19 @@
 
 # sent_id = film_Bridge_81
 # text = Bob?
-# english = Bob?
+# text_en = Bob?
 1	Bob	Bob	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	?	?	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_82
 # text = Jim.
-# english = Jim.
+# text_en = Jim.
 1	Jim	Jim	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_83
 # text = Tita ga 'bowling' ti hâ gamesa gara ǀhuru o, tsî gara ǂnoa o, o i ge ǀgui xū-e ra ī.
-# english = If I go bowling and I throw a strike, one thing happened.
+# text_en = If I go bowling and I throw a strike, one thing happened.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 2	ga	ga	AUX	POT	Mood=Pot	10	aux	10:aux	_
 3	'	'	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
@@ -1229,7 +1231,7 @@
 
 # sent_id = film_Bridge_84
 # text = Dīsi xūn ge ī tama go i.
-# english = Ten things didn't happen.
+# text_en = Ten things didn't happen.
 1	Dīsi	dīsi	NUM	_	NumType=Card	2	nummod	2:nummod	_
 2	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
@@ -1241,7 +1243,7 @@
 
 # sent_id = film_Bridge_85
 # text = Jim, ti khoegu ge bowling gamesa ǀhuru tama hâ ǁnātikōse sa khoeb xa ǃgâise hâ-ūhe tama hâ.
-# english = Jim, my guys aren't bowling pins, as much as your guy may have treated them as such.
+# text_en = Jim, my guys aren't bowling pins, as much as your guy may have treated them as such.
 1	Jim	Jim	PROPN	_	_	8	vocative	8:vocative	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -1264,13 +1266,13 @@
 
 # sent_id = film_Bridge_86
 # text = ǀNîsi…
-# english = If…
+# text_en = If…
 1	ǀNîsi	ǀnîsi	ADV	_	_	0	root	0:root	SpaceAfter=No
 2	…	…	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_87
 # text = A ta aibe toa re.
-# english = Let me finish.
+# text_en = Let me finish.
 1	A	a	AUX	HORT	Aspect=Imp	4	aux	4:aux	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	aibe	aibe	ADV	_	_	4	advmod	4:advmod	_
@@ -1280,7 +1282,7 @@
 
 # sent_id = film_Bridge_88
 # text = A ta aibe toa.
-# english = Let me finish.
+# text_en = Let me finish.
 1	A	a	AUX	HORT	Aspect=Imp	4	aux	4:aux	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	aibe	aibe	ADV	_	_	4	advmod	4:advmod	_
@@ -1289,7 +1291,7 @@
 
 # sent_id = film_Bridge_89
 # text = Sa Oms ga ǀguikaidīsiǀoakaidisi di ǀgaiba gara ūhâ o, tsîs ga kaise ǀgaisa ǂoasa nē Omsa ǃgombē o, os ge nē ǂoasa ǀgui Oms ǀguise go ǃgombē
-# english = If your house is insured for $100, 000 and a tornado carries it away, it carried away one house.
+# text_en = If your house is insured for $100, 000 and a tornado carries it away, it carried away one house.
 1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	det	2:det	_
 2	Oms	Om	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
 3	ga	ga	AUX	POT	Mood=Pot	8	aux	8:aux	_
@@ -1326,7 +1328,7 @@
 
 # sent_id = film_Bridge_90
 # text = Nē ǂoas ge oms di ǃnā-xū-i hoa-e ū tsî ǀguri hâ tsūǃgâ-i ǃnâ ǁgaiǁgai tama hâ.
-# english = It didn't pick up every stick of furniture and destroy it in a separate incident.
+# text_en = It didn't pick up every stick of furniture and destroy it in a separate incident.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	ǂoas	ǂoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj|14:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux|14:aux	_
@@ -1347,7 +1349,7 @@
 
 # sent_id = film_Bridge_91
 # text = ǁNātits nî hana mîs ga o, o i ge amase ǀguis khami ī surude-i tsîna sakhom di ǃnuwusin ai a ǀkhai tsî nēs ge asaransies ǂharugub di ǀamsa.
-# english = If that is what you're saying, well, then there is never any limit to our liability and that is the end of the insurance business.
+# text_en = If that is what you're saying, well, then there is never any limit to our liability and that is the end of the insurance business.
 1-2	ǁNātits	_	_	_	_	_	_	_	_
 1	ǁNāti	ǁnāti	ADV	_	Deixis=Remt|PronType=Dem	5	advmod	5:advmod	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
@@ -1363,7 +1365,7 @@
 11	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	expl	24:expl	_
 12	ge	ge	AUX	DECL	Mood=Ind	24	aux	24:aux	_
 13	amase	amase	ADV	_	_	24	advmod	24:advmod	_
-14	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	16	obl	16:obl	_
+14	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	16	obl	16:obl	_
 15	khami	khami	ADP	_	_	14	case	14:case	_
 16	ī	ī	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
 17	surude-i	surude	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	16:nsubj|24:nsubj	_
@@ -1385,7 +1387,7 @@
 
 # sent_id = film_Bridge_92
 # text = Tsî ǁnāpa xu i ge, Bob, khoe-i hîa ǃnorasa-e a ǀkhai
-# english = And then, Bob, nobody is safe.
+# text_en = And then, Bob, nobody is safe.
 1	Tsî	tsî	CCONJ	_	_	14	cc	14:cc	_
 2	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	14	obl	14:obl	_
 3	xu	xu	ADP	_	_	2	case	2:case	_
@@ -1404,7 +1406,7 @@
 
 # sent_id = film_Bridge_93
 # text = Watters, Cowan tsî Donovan.
-# english = Watters, Cowan and Donovan.
+# text_en = Watters, Cowan and Donovan.
 1	Watters	Watters	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	Cowan	Cowan	PROPN	_	_	1	conj	1:conj	_
@@ -1414,7 +1416,7 @@
 
 # sent_id = film_Bridge_94
 # text = Mâti ta a hui tsi ǁkhā?
-# english = How may I direct your call?
+# text_en = How may I direct your call?
 1	Mâti	mâti	ADV	_	PronType=Int	6	advmod	6:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	4:nsubj:xsubj|6:nsubj	_
 3	a	a	AUX	STAT.PRS	Tense=Pres	6	aux	6:aux	_
@@ -1425,7 +1427,7 @@
 
 # sent_id = film_Bridge_95
 # text = ǃGâi ǁgoas, ǃGôahesatse Donovan.
-# english = Morning, Mr. Donavan
+# text_en = Morning, Mr. Donavan
 1	ǃGâi	ǃgâi	ADJ	_	_	2	amod	2:amod	_
 2	ǁgoas	ǁgoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
@@ -1435,7 +1437,7 @@
 
 # sent_id = film_Bridge_96
 # text = ǃGâi ǁgoas, Alison.
-# english = Good morning, Alison.
+# text_en = Good morning, Alison.
 1	ǃGâi	ǃgâi	ADJ	_	_	2	amod	2:amod	_
 2	ǁgoas	ǁgoa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
@@ -1444,7 +1446,7 @@
 
 # sent_id = film_Bridge_97
 # text = Sa khoese irsa ta ge Prudentiali ǀkha go mâi-oa
-# english = I moved your 9:00 a.m. with Prudential, sir.
+# text_en = I moved your 9:00 a.m. with Prudential, sir.
 1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	khoese	khoese	NUM	_	NumType=Card	3	nummod	3:nummod	_
 3	irsa	ir	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	obj	9:obj	_
@@ -1457,7 +1459,7 @@
 
 # sent_id = film_Bridge_98
 # text = Tare-i xas go ti dī?
-# english = Why did you do that?
+# text_en = Why did you do that?
 1	Tare-i	tare	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	6	obl	6:obl	_
 2-3	xas	_	_	_	_	_	_	_	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
@@ -1469,7 +1471,7 @@
 
 # sent_id = film_Bridge_99
 # text = Tita ge khoesa go ǂgan îs ǁnāti dī?
-# english = I asked her to.
+# text_en = I asked her to.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	khoesa	khoe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obj	5:obj	_
@@ -1484,7 +1486,7 @@
 
 # sent_id = film_Bridge_100
 # text = Hoaraga xūna a ǃgâi, Tom?
-# english = Is everything all right, Tom?
+# text_en = Is everything all right, Tom?
 1	Hoaraga	hoaraga	DET	_	PronType=Tot	2	det	2:det	_
 2	xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	4	nsubj	4:nsubj	_
 3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
@@ -1495,7 +1497,7 @@
 
 # sent_id = film_Bridge_101
 # text = Tare-i xats Alisons ǀkhā xūna ǁnāxū tama hâ?
-# english = Why don't you leave your stuff with Alison.
+# text_en = Why don't you leave your stuff with Alison.
 1	Tare-i	tare	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	7	obl	7:obl	_
 2-3	xats	_	_	_	_	_	_	_	_
 2	xa	xa	ADP	_	_	1	case	1:case	_
@@ -1510,7 +1512,7 @@
 
 # sent_id = film_Bridge_102
 # text = ǂGâxa re ǂganaga?
-# english = Come on inside.
+# text_en = Come on inside.
 1	ǂGâxa	ǂgâxa	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	_
 3	ǂganaga	ǂganaga	ADV	_	_	1	advmod	1:advmod	SpaceAfter=No
@@ -1518,7 +1520,7 @@
 
 # sent_id = film_Bridge_103
 # text = Xū-i hîa kaise a ǂhâǂhâsasi ge go hā.
-# english = Something pretty important has come up.
+# text_en = Something pretty important has come up.
 1	Xū-i	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nsubj	5:nsubj|10:nsubj	_
 2	hîa	hîa	SCONJ	REL	_	5	mark	5:mark	_
 3	kaise	kaise	ADV	_	_	5	advmod	5:advmod	_
@@ -1534,7 +1536,7 @@
 
 # sent_id = film_Bridge_104
 # text = Khoe-i ge go hā sada i nî mû ga.
-# english = Somebody's here to see us.
+# text_en = Somebody's here to see us.
 1	Khoe-i	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	go	go	AUX	_	Tense=RecPast	4	aux	4:aux	_
@@ -1548,7 +1550,7 @@
 
 # sent_id = film_Bridge_105
 # text = Natalies ge sa koffie-e sī ra ū.
-# english = Natalie's getting your coffee.
+# text_en = Natalie's getting your coffee.
 1	Natalies	Natalie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
@@ -1560,7 +1562,7 @@
 
 # sent_id = film_Bridge_106
 # text = Nēscafe, ǃkhuniǃkhuni-ū xū-i, ǀgam suguri ǁgoakha, ama-e?
-# english = Nescafe, cream, two lumps, right?
+# text_en = Nescafe, cream, two lumps, right?
 1	Nēscafe	Nēscafe	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	4:punct	_
 3	ǃkhuniǃkhuni-ū	ǃkhuniǃkhuni-ū	VERB	_	Voice=Act	4	acl:relcl	4:acl:relcl	_
@@ -1575,32 +1577,32 @@
 
 # sent_id = film_Bridge_107
 # text = Ama a.
-# english = That's right.
+# text_en = That's right.
 1	Ama	ama	ADV	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_108
 # text = Gangans.
-# english = Thanks.
+# text_en = Thanks.
 1	Gangans	gangan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_109
 # text = Lynn!
-# english = Lynn!
+# text_en = Lynn!
 1	Lynn	Lynn	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_110
 # text = Jim!
-# english = Jim!
+# text_en = Jim!
 1	Jim	Jim	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_111
 # text = ǃGâi a satsa ǁkhawa mûsa.
-# english = Nice to see you again.
+# text_en = Nice to see you again.
 1	ǃGâi	ǃgâi	ADJ	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	_
 3	satsa	sa	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	5:obj	_
@@ -1612,7 +1614,7 @@
 
 # sent_id = film_Bridge_112
 # text = ǀAokhoena mâti hâ?
-# english = How's the family?
+# text_en = How's the family?
 1	ǀAokhoena	ǀaokhoe	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	3	nsubj	3:nsubj	_
 2	mâti	mâti	ADV	_	PronType=Int	3	advmod	3:advmod	_
 3	hâ	hâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -1620,7 +1622,7 @@
 
 # sent_id = film_Bridge_113
 # text = ǂOaǂamsa a, ǃgâi a.
-# english = Great, good.
+# text_en = Great, good.
 1	ǂOaǂamsa	ǂoaǂamsa	ADJ	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
@@ -1630,13 +1632,13 @@
 
 # sent_id = film_Bridge_114
 # text = Gangans.
-# english = Thanks.
+# text_en = Thanks.
 1	Gangans	gangan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_115
 # text = Anniesa mâti hâ?
-# english = How's Annie?
+# text_en = How's Annie?
 1	Anniesa	Annie	PROPN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	nsubj	3:nsubj	_
 2	mâti	mâti	ADV	_	PronType=Int	3	advmod	3:advmod	_
 3	hâ	hâ	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
@@ -1644,7 +1646,7 @@
 
 # sent_id = film_Bridge_116
 # text = ǃGamsen ǂgao ra.
-# english = Homicidal.
+# text_en = Homicidal.
 1	ǃGamsen	ǃgamsen	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
 2	ǂgao	ǂgao	VERB	_	Voice=Act	0	root	0:root	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	2	aux	2:aux	SpaceAfter=No
@@ -1652,7 +1654,7 @@
 
 # sent_id = film_Bridge_117
 # text = Mâiǂuisa da ge ǀuikhoen xa go sarihe hâ i.
-# english = We had the in-laws for the holiday.
+# text_en = We had the in-laws for the holiday.
 1	Mâiǂuisa	mâiǂui	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obl	7:obl	_
 2	da	_	PRON	_	Gender=Neut|Number=Plur|Person=1|PronType=Prs	7	nsubj:pass	7:nsubj:pass	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -1666,7 +1668,7 @@
 
 # sent_id = film_Bridge_118
 # text = Xawe, ǁî-i ais ga sîsen, os ge ǃgâi īsiba nî ūhâ.
-# english = Well, if she acts on it, she'll have good representation.
+# text_en = Well, if she acts on it, she'll have good representation.
 1	Xawe	xawe	CCONJ	_	_	15	cc	15:cc	SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	7:punct	_
 3	ǁî-i	ǁî	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	_
@@ -1688,7 +1690,7 @@
 
 # sent_id = film_Bridge_119
 # text = O nēsisa mâti hâ xūna?
-# english = Now, what's up?
+# text_en = Now, what's up?
 1	O	o	ADV	_	_	4	advmod	4:advmod	_
 2	nēsisa	nēsisa	ADV	_	_	4	advmod	4:advmod	_
 3	mâti	mâti	ADV	_	PronType=Int	4	advmod	4:advmod	_
@@ -1698,7 +1700,7 @@
 
 # sent_id = film_Bridge_120
 # text = Ok, nēti hâ xūn ge?
-# english = Okay, here's the thing.
+# text_en = Okay, here's the thing.
 1	Ok	ok	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	nēti	nēti	ADV	_	Deixis=Prox|PronType=Dem	4	advmod	4:advmod	_
@@ -1709,7 +1711,7 @@
 
 # sent_id = film_Bridge_121
 # text = Nē Soviets di ǃkhē-aob hîa go ǃkhōhebats nî ǂnoabasa da ge ra ǂgao.
-# english = The Soviet spy they caught, we want you to defend him.
+# text_en = The Soviet spy they caught, we want you to defend him.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
 2	Soviets	Soviet	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
@@ -1732,7 +1734,7 @@
 
 # sent_id = film_Bridge_122
 # text = Nē an ge ǃkhaidi hîab ǃûǂamaose ra hō-aihēna.
-# english = Here's the indictment.
+# text_en = Here's the indictment.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	advmod	5:advmod	_
 2-3	an	_	_	_	_	_	_	_	_
 2	a	a	AUX	COP.PRS	Tense=Pres	5	cop	5:cop	_
@@ -1751,14 +1753,14 @@
 
 # sent_id = film_Bridge_123
 # text = Buruxa re.
-# english = Wow.
+# text_en = Wow.
 1	Buruxa	buruxa	ADJ	_	_	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_124
 # text = Tita ge amase ǁawosa mîǁgui-e ūhâ tama nē ǁhōba ta ra ū ǂgao ǃkhaisa.
-# english = I'm not sure I wanna pick that up.
+# text_en = I'm not sure I wanna pick that up.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 3	amase	amase	ADV	_	_	4	advmod	4:advmod	_
@@ -1777,12 +1779,12 @@
 
 # sent_id = film_Bridge_125
 # text = ǀHawiǂnûihe ra khoeb ge ǀguis khami ī ǂnoaba-i tsîna ǂan tama hâ.
-# english = The accused doesn't know any lawyers.
+# text_en = The accused doesn't know any lawyers.
 1	ǀHawiǂnûihe	ǀhawiǂnûi	VERB	_	Voice=Pass	3	acl:relcl	3:acl:relcl	_
 2	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
 3	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	1:nsubj:pass|10:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-5	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	7	obl	7:obl	_
+5	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	7	obl	7:obl	_
 6	khami	khami	ADP	_	_	5	case	5:case	_
 7	ī	ī	VERB	_	Voice=Act	8	acl:relcl	8:acl:relcl	_
 8	ǂnoaba-i	ǂnoaba	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	7:nsubj|10:obj	_
@@ -1794,7 +1796,7 @@
 
 # sent_id = film_Bridge_126
 # text = Ob ge ǂhanusi ǁnâuǃgâǃkhaiba sida ǃoa nē ǁhōba go ao.
-# english = The federal court tossed it into our lap.
+# text_en = The federal court tossed it into our lap.
 1-2	Ob	_	_	_	_	_	_	_	_
 1	O	o	ADV	_	_	11	advmod	11:advmod	_
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
@@ -1811,7 +1813,7 @@
 
 # sent_id = film_Bridge_127
 # text = Bar ǃnans ge ǁhûisa go ūhâ i.
-# english = The Bar Committee took a vote.
+# text_en = The Bar Committee took a vote.
 1	Bar	Bar	PROPN	_	_	2	nmod:poss	2:nmod:poss	_
 2	ǃnans	ǃnan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	6:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
@@ -1823,7 +1825,7 @@
 
 # sent_id = film_Bridge_128
 # text = Nē ǁhûis ge ǂansa go hâ i.
-# english = You're the unanimous choice.
+# text_en = You're the unanimous choice.
 1	Nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	2	det	2:det	_
 2	ǁhûis	ǁhûi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
@@ -1835,7 +1837,7 @@
 
 # sent_id = film_Bridge_129
 # text = Kaise go sida ǃaroma ǂhâǂhâsa i...
-# english = It was important to us…
+# text_en = It was important to us…
 1	Kaise	kaise	ADV	_	_	5	advmod	5:advmod	_
 2	go	go	AUX	_	Tense=RecPast	5	aux	5:aux	_
 3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	obl	5:obl	_
@@ -1846,7 +1848,7 @@
 
 # sent_id = film_Bridge_130
 # text = Jim, sida di ǃHūb ǃaroma i ge ǂhâǂhâsa nē aob nî ǂhanuse ǀgoraǃgâhesa.
-# english = It's important to our country, Jim, that this man is seen as getting a fair shake.
+# text_en = It's important to our country, Jim, that this man is seen as getting a fair shake.
 1	Jim	Jim	PROPN	_	_	9	vocative	9:vocative	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	sida	si	PRON	_	Clusivity=Ex|Gender=Neut|Number=Plur|Person=1|PronType=Prs	5	nmod:poss	5:nmod:poss	_
@@ -1867,7 +1869,7 @@
 
 # sent_id = film_Bridge_131
 # text = Amerikan ǂhanu-aisib ge ǁnâuǃgâs ǃnâ nî ǁgauǂuihe.
-# english = American justice will be on trial.
+# text_en = American justice will be on trial.
 1	Amerikan	Amerikan	ADJ	_	_	2	amod	2:amod	_
 2	ǂhanu-aisib	ǂhanu-aisi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	7:nsubj:pass	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -1879,7 +1881,7 @@
 
 # sent_id = film_Bridge_132
 # text = Amase o, ǁnā ǀgaub aits gara mî o, o i ge amase a kai ǃgôasi nē ǁhōba ǂgaeǂguis ǃaroma ǂganhesa.
-# english = Well, of course, when you put it that way, it's an honor to be asked.
+# text_en = Well, of course, when you put it that way, it's an honor to be asked.
 1	Amase	amase	ADV	_	_	9	advmod	9:advmod	_
 2	o	o	SCONJ	_	_	1	mark	1:mark	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	1:punct	_
@@ -1910,7 +1912,7 @@
 
 # sent_id = film_Bridge_133
 # text = Xawe, Lynn, tita ge asaransies ǂnoaba-aota.
-# english = But, Lynn, I'm an insurance lawyer.
+# text_en = But, Lynn, I'm an insurance lawyer.
 1	Xawe	xawe	CCONJ	_	_	3	cc	3:cc	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	Lynn	Lynn	VERB	_	Voice=Act	8	vocative	8:vocative	SpaceAfter=No
@@ -1923,7 +1925,7 @@
 
 # sent_id = film_Bridge_134
 # text = Tita ge kaise kurin ǃnâ tsūdī-aona ǂnoaba tama hâ.
-# english = I haven't done criminal work in years.
+# text_en = I haven't done criminal work in years.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 3	kaise	kaise	ADV	_	_	4	advmod	4:advmod	_
@@ -1937,7 +1939,7 @@
 
 # sent_id = film_Bridge_135
 # text = ǀUrihāba ǃgawis khama tsâ, ama tama-e?
-# english = It's like riding a bike, isn't it?
+# text_en = It's like riding a bike, isn't it?
 1	ǀUrihāba	ǀurihā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	obj	2:obj	_
 2-3	ǃgawis	_	_	_	_	_	_	_	_
 2	ǃgawi	ǃgawi	VERB	_	Voice=Act	5	advcl	5:advcl	_
@@ -1951,7 +1953,7 @@
 
 # sent_id = film_Bridge_136
 # text = Amasets ge Nuremberg tawa ge ǁgauǂuisen.
-# english = You distinguished yourself at Nuremberg.
+# text_en = You distinguished yourself at Nuremberg.
 1-2	Amasets	_	_	_	_	_	_	_	_
 1	Amase	amase	ADV	_	_	7	advmod	7:advmod	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
@@ -1964,7 +1966,7 @@
 
 # sent_id = film_Bridge_137
 # text = Tita ge saoǃgonaon di ǃnans ǃnâ ge hâ i.
-# english = I was on the prosecution team.
+# text_en = I was on the prosecution team.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 3	saoǃgonaon	saoǃgonao	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nmod:poss	5:nmod:poss	_
@@ -1978,7 +1980,7 @@
 
 # sent_id = film_Bridge_138
 # text = ǁNās ge ǃkhai tamasa.
-# english = Not the point.
+# text_en = Not the point.
 1	ǁNās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nsubj	3:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	3	aux	3:aux	_
 3	ǃkhai	ǃkhai	NOUN	_	_	0	root	0:root	_
@@ -1989,7 +1991,7 @@
 
 # sent_id = film_Bridge_139
 # text = Sats ge amase ǃhaokhoe tama hâ tsū-aona ǂnoabas ǃnâ.
-# english = You're no stranger to criminal law.
+# text_en = You're no stranger to criminal law.
 1	Sats	sa	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	amase	amase	ADV	_	_	4	advmod	4:advmod	_
@@ -2005,7 +2007,7 @@
 
 # sent_id = film_Bridge_140
 # text = Jim, mâsiba kō re.
-# english = Jim, look at the situation.
+# text_en = Jim, look at the situation.
 1	Jim	Jim	PROPN	_	_	4	vocative	4:vocative	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	mâsiba	mâsi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	4:obj	_
@@ -2015,7 +2017,7 @@
 
 # sent_id = film_Bridge_141
 # text = Khoeb ge ǀhûhâsib ǃnâ ǁgai ǀgaub ai go ûi-ūhe.
-# english = The man is publicly reviled.
+# text_en = The man is publicly reviled.
 1	Khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj:pass	9:nsubj:pass	_
 2	ge	ge	AUX	DECL	Mood=Ind	9	aux	9:aux	_
 3	ǀhûhâsib	ǀhûhâsi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	obl	9:obl	_
@@ -2029,7 +2031,7 @@
 
 # sent_id = film_Bridge_142
 # text = Tsî tita tsîn ga.
-# english = And I will be, too.
+# text_en = And I will be, too.
 1	Tsî	tsî	CCONJ	_	_	2	cc	2:cc	_
 2	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 3	tsîn	tsîn	ADV	_	Case=Nom	2	advmod:emph	2:advmod:emph	_
@@ -2038,7 +2040,7 @@
 
 # sent_id = film_Bridge_143
 # text = Î, ǀūhesa ǀgaub ai.
-# english = Yes, in more ignorant quarters.
+# text_en = Yes, in more ignorant quarters.
 1	Î	î	INTJ	_	Polarity=Pos	4	discourse	4:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	ǀūhesa	ǀūhesa	ADJ	_	_	4	amod	4:amod	_
@@ -2048,7 +2050,7 @@
 
 # sent_id = film_Bridge_144
 # text = Xawe ǁnās ǃaromas ge tita ra mîsa nē ǃkhais nî dīǀoaǀoahesa.
-# english = But that's exactly why this has to be done, and capably done.
+# text_en = But that's exactly why this has to be done, and capably done.
 1	Xawe	xawe	CCONJ	_	_	8	cc	8:cc	_
 2	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	8	obl	8:obl	_
 3-4	ǃaromas	_	_	_	_	_	_	_	_
@@ -2070,7 +2072,7 @@
 
 # sent_id = film_Bridge_145
 # text = Amase i ge mûsen ǁoa sada ǂhanusi (ǀgoraǃgâs) khoen nēti khoena aobē ǀguisa hî khami.
-# english = It can't look like our justice system tosses people on the ash heap.
+# text_en = It can't look like our justice system tosses people on the ash heap.
 1	Amase	amase	ADV	_	_	5	advmod	5:advmod	_
 2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	4:nsubj:xsubj|5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
@@ -2094,7 +2096,7 @@
 
 # sent_id = film_Bridge_146
 # text = ǀKhī khom aiǁgause mî re, tita ga ǀnîsi ti dī hâ o, tarena ra ǁgauǁgau?
-# english = Suppose I did, what's the evidence look like?
+# text_en = Suppose I did, what's the evidence look like?
 1	ǀKhī	ǀkhī	AUX	HORT	Mood=Imp	4	aux	4:aux	_
 2	khom	_	PRON	_	Case=Nom|Gender=Masc|Number=Dual|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	aiǁgause	aiǁgause	ADV	_	_	4	advmod	4:advmod	_
@@ -2116,7 +2118,7 @@
 
 # sent_id = film_Bridge_147
 # text = Amase a ǀgaisa.
-# english = Pretty overwhelming.
+# text_en = Pretty overwhelming.
 1	Amase	amase	ADV	_	_	3	advmod	3:advmod	_
 2	a	a	AUX	COP.PRS	Tense=Pres	3	cop	3:cop	_
 3	ǀgaisa	ǀgaisa	ADJ	_	_	0	root	0:root	SpaceAfter=No
@@ -2124,21 +2126,21 @@
 
 # sent_id = film_Bridge_148
 # text = ǂHanu a.
-# english = Great.
+# text_en = Great.
 1	ǂHanu	ǂhanu	ADJ	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_149
 # text = ǂHanu a.
-# english = Great.
+# text_en = Great.
 1	ǂHanu	ǂhanu	ADJ	_	_	0	root	0:root	_
 2	a	a	AUX	COP.PRS	Tense=Pres	1	cop	1:cop	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = film_Bridge_150
 # text = Hoaraga khoen ge nî ǃhui te xawe ta ge nî ǂoaǃnâ.
-# english = Everyone will hate me but at least I'll lose.
+# text_en = Everyone will hate me but at least I'll lose.
 1	Hoaraga	hoaraga	DET	_	PronType=Tot	2	det	2:det	_
 2	khoen	khoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nsubj	5:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
@@ -2154,7 +2156,7 @@
 
 # sent_id = film_Bridge_151
 # text = O, Tom, satsa mâti ra ǂâi?
-# english = Well, what do you think, Tom?
+# text_en = Well, what do you think, Tom?
 1	O	o	INTJ	_	_	8	discourse	8:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	Tom	Tom	PROPN	_	_	8	vocative	8:vocative	SpaceAfter=No
@@ -2167,7 +2169,7 @@
 
 # sent_id = film_Bridge_152
 # text = Fermmi ge ǃgomma nî tsâ.
-# english = The firm will suffer.
+# text_en = The firm will suffer.
 1	Fermmi	ferm	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	ǃgomma	ǃgomm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
@@ -2177,7 +2179,7 @@
 
 # sent_id = film_Bridge_153
 # text = Nēpa ta ge tita sîsen-e ūhâ.
-# english = I have work here.
+# text_en = I have work here.
 1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	6	advmod	6:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	expl	6:expl	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
@@ -2188,7 +2190,7 @@
 
 # sent_id = film_Bridge_154
 # text = Tita ge ra ǂâi ǃHūb di ǁanǂgāsabe-i di ǁgui-ais ge ǁnāsa.
-# english = I think it's a patriotic duty.
+# text_en = I think it's a patriotic duty.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
@@ -2204,7 +2206,7 @@
 
 # sent_id = film_Bridge_155
 # text = Kaise ǂhâǂhâsa sîǂuis ge nēsa.
-# english = It's an important mission.
+# text_en = It's an important mission.
 1	Kaise	kaise	ADV	_	_	2	advmod	2:advmod	_
 2	ǂhâǂhâsa	ǂhâǂhâsa	ADJ	_	_	3	amod	3:amod	_
 3	sîǂuis	sîǂui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	5:nsubj	_
@@ -2214,7 +2216,7 @@
 
 # sent_id = film_Bridge_156
 # text = Tita ge Lynn go mîba amase fermmi ǂkhā titesa tsî amasets ge ǃgom ǁaeba nî ūhâ "hî-î" ti mîsa.
-# english = I told Lynn, the firm can't say no, and you'd have a tough time saying no, too.
+# text_en = I told Lynn, the firm can't say no, and you'd have a tough time saying no, too.
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	5	aux	5:aux	_
 3	Lynn	Lynn	PROPN	_	_	5	iobj	5:iobj	_
@@ -2246,7 +2248,7 @@
 
 # sent_id = film_Bridge_157
 # text = Tita ge ra ǂâi "nē xūbats nî ǂnoabas ǀguisa nî hî" ti.
-# english = I think "you have to defend the son of a bitch".
+# text_en = I think "you have to defend the son of a bitch".
 1	Tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
@@ -2269,7 +2271,7 @@
 
 # sent_id = film_Bridge_158
 # text = O dīts nî?.
-# english = So, you're doing it?
+# text_en = So, you're doing it?
 1	O	o	ADV	_	_	2	advmod	2:advmod	_
 2-3	dīts	_	_	_	_	_	_	_	_
 2	dī	dī	VERB	_	Voice=Act	0	root	0:root	_
@@ -2280,7 +2282,7 @@
 
 # sent_id = film_Bridge_159
 # text = Tare-e dīsa?
-# english = Doing what?
+# text_en = Doing what?
 1	Tare-e	tare	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	2	obj	2:obj	_
 2-3	dīsa	_	_	_	_	_	_	_	SpaceAfter=No
 2	dī	dī	VERB	_	Voice=Act	0	root	0:root	_
@@ -2289,7 +2291,7 @@
 
 # sent_id = film_Bridge_160
 # text = Abela Soviets di ǃkhē-aoba ǂnoabasa.
-# english = Defending Abel, the Soviet spy.
+# text_en = Defending Abel, the Soviet spy.
 1	Abela	Abel	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	5:obj	_
 2	Soviets	Soviet	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
@@ -2301,7 +2303,7 @@
 
 # sent_id = film_Bridge_161
 # text = Dī ta nî.
-# english = I may.
+# text_en = I may.
 1	Dī	dī	VERB	_	Voice=Act	0	root	0:root	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	nî	nî	AUX	FUT	Tense=Fut	1	aux	1:aux	SpaceAfter=No
@@ -2309,7 +2311,7 @@
 
 # sent_id = film_Bridge_162
 # text = ǃHoa ta ge nîs ge...
-# english = I have to speak to…
+# text_en = I have to speak to…
 1	ǃHoa	ǃhoa	VERB	_	Voice=Act	0	root	0:root	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	1	aux	1:aux	_
@@ -2321,7 +2323,7 @@
 
 # sent_id = film_Bridge_163
 # text = ǁNam o, mâtits a ǂan?
-# english = Wait, how do you know?
+# text_en = Wait, how do you know?
 1	ǁNam	ǁnam	VERB	_	Voice=Act	7	advcl	7:advcl	_
 2	o	o	SCONJ	_	_	1	mark	1:mark	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	1:punct	_
@@ -2334,7 +2336,7 @@
 
 # sent_id = film_Bridge_164
 # text = Khoena ǂhôan di ǂgawab ai nē xū-e go mâi?
-# english = Did they post it on the bulletin board?
+# text_en = Did they post it on the bulletin board?
 1	Khoena	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	9	nsubj	9:nsubj	_
 2	ǂhôan	ǂhôa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod:poss	4:nmod:poss	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
@@ -2348,7 +2350,7 @@
 
 # sent_id = film_Bridge_165
 # text = Hâ-â, tita...
-# english = No, I…
+# text_en = No, I…
 1	Hâ-â	hâ-â	INTJ	_	Polarity=Neg	3	discourse	3:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	0:root	SpaceAfter=No
@@ -2356,7 +2358,7 @@
 
 # sent_id = film_Bridge_166
 # text = Richard Earli ǀkha ta ge goro ǃhoa…
-# english = I was talking to Richard Earl…
+# text_en = I was talking to Richard Earl…
 1	Richard	Richard	PROPN	_	_	7	obl	7:obl	_
 2	Earli	Earl	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	flat:name	1:flat:name	_
 3	ǀkha	ǀkha	ADP	_	_	1	case	1:case	_
@@ -2368,7 +2370,7 @@
 
 # sent_id = film_Bridge_167
 # text = Kē re, tita ge nē xū-e gara dī o, o ta ge huiba nî ǂhâ.
-# english = Look, if I do this, I'm going to need your help.
+# text_en = Look, if I do this, I'm going to need your help.
 1	Kē	kē	VERB	_	Voice=Act	0	root	0:root	_
 2	re	re	AUX	PDIR	Mood=Imp	1	aux	1:aux	SpaceAfter=No
 3	,	,	PUNCT	_	_	17	punct	17:punct	_
@@ -2390,7 +2392,7 @@
 
 # sent_id = film_Bridge_168
 # text = Nî ǃoe sîsen ǁkhā i khom a?
-# english = Can you work tonight?
+# text_en = Can you work tonight?
 1	Nî	nî	AUX	FUT	Tense=Fut	4	aux	4:aux	_
 2	ǃoe	ǃoe	ADV	_	_	4	advmod	4:advmod	_
 3	sîsen	sîsen	VERB	_	Voice=Act	4	xcomp	4:xcomp	_
@@ -2402,7 +2404,7 @@
 
 # sent_id = film_Bridge_169
 # text = ǃGôahesatse, tita ge nē ǃoeǃuiǂûs di ǂûǁaesa ūhâ.
-# english = Well, I have a dinner date, sir.
+# text_en = Well, I have a dinner date, sir.
 1	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	9	vocative	9:vocative	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	tita	ti	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
@@ -2416,7 +2418,7 @@
 
 # sent_id = film_Bridge_170
 # text = Nētsēs kom Denstaxtsēsa o?
-# english = It's Tuesday, right?
+# text_en = It's Tuesday, right?
 1	Nētsēs	nētsē	NOUN	PROX	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	3:nsubj	_
 2	kom	kom	AUX	ASSERT1	Mood=Ass	3	aux	3:aux	_
 3	Denstaxtsēsa	Denstaxtsē	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	root	0:root	_
@@ -2425,7 +2427,7 @@
 
 # sent_id = film_Bridge_171
 # text = Î, hâ-â, ǃnorasa ta ge a, hoaragase ta a ǃnorasa.
-# english = Yeah, no, I'm free, completely free.
+# text_en = Yeah, no, I'm free, completely free.
 1	Î	î	INTJ	_	Polarity=Pos	5	discourse	5:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	hâ-â	hâ-â	INTJ	_	Polarity=Neg	5	discourse	5:discourse	SpaceAfter=No
@@ -2443,15 +2445,16 @@
 
 # sent_id = film_Bridge_172
 # text = Gangans ǃGôahesatse.
-# english = Thank you, sir.
+# text_en = Thank you, sir.
 1	Gangans	gangan	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	0:root	_
 2	ǃGôahesatse	ǃgôahesa	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Person=2	1	vocative	1:vocative	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # newdoc id = conversation_Windhoek5
+# modality = spoken
 # sent_id = conversation_Windhoek5_351
 # text = tsî i ge koma plastic ǁaeb di kai tama-e
-# english = And it became plastic time, isn't it?
+# text_en = And it became plastic time, isn't it?
 1	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
 2	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
@@ -2464,7 +2467,7 @@
 
 # sent_id = conversation_Windhoek5_352
 # text = "ou tyds [tā] tā tita ou tyds di xūna mîba" ti ra mî o
-# english = "Old Fashion, do not tell me old fashioned things, now that older times things" (they) say
+# text_en = "Old Fashion, do not tell me old fashioned things, now that older times things" (they) say
 1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	ou	ou	ADJ	_	_	3	amod	3:amod	OrigLang=af
 3	tyds	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	ccomp	17:ccomp	OrigLang=af
@@ -2486,7 +2489,7 @@
 
 # sent_id = conversation_Windhoek5_353
 # text = O ǁnā ǀoro ǁaeb di xūn ǁnān
-# english = Now those older time's things
+# text_en = Now those older time's things
 1	O	o	ADV	_	_	6	advmod	6:advmod	_
 2	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	4	det	4:det	_
 3	ǀoro	ǀoro	ADJ	_	_	4	amod	4:amod	_
@@ -2497,13 +2500,13 @@
 
 # sent_id = conversation_Windhoek5_354
 # text = ǂûmâ ǁkhā
-# english = And be able to feed them [BACKCHANNEL_REP]
+# text_en = And be able to feed them [BACKCHANNEL_REP]
 1	ǂûmâ	ǂûmâ	VERB	_	Voice=Act	2	xcomp	2:xcomp	_
 2	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_355
 # text = nēsis ûib ai i komo sîsen-e a ǃgom o
-# english = in today's life jobs are hard
+# text_en = in today's life jobs are hard
 1	nēsis	nēsi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	2:nmod:poss	_
 2	ûib	ûi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	8:obl	_
 3	ai	ai	ADP	_	_	2	case	2:case	_
@@ -2516,22 +2519,22 @@
 
 # sent_id = conversation_Windhoek5_356
 # text = sîsen
-# english = job
+# text_en = job
 1	sîsen	sîsen	NOUN	_	_	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_357
 # text = ā
-# english = Yes
+# text_en = Yes
 1	ā	ā	INTJ	_	Polarity=Pos	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_358
 # text = ā
-# english = Yes
+# text_en = Yes
 1	ā	ā	INTJ	_	Polarity=Pos	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_359
 # text = [even] even i kom plasticse plastic-i tsîna mari o
-# english = Even that plastic bags are money
+# text_en = Even that plastic bags are money
 1	[	[	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	even	even	ADV	_	_	4	reparandum	4:reparandum	OrigLang=en|SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
@@ -2548,7 +2551,7 @@
 
 # sent_id = conversation_Windhoek5_360
 # text = eto sage di ǁnaogu ge
-# english = yeah, it is our grandfathers
+# text_en = yeah, it is our grandfathers
 1	eto	eto	INTJ	_	_	4	discourse	4:discourse	_
 2	sage	sage	NOUN	_	Gender=Masc|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
@@ -2557,7 +2560,7 @@
 
 # sent_id = conversation_Windhoek5_361
 # text = tsî o khoe-e ǀkhai axaba nî sī ôa e
-# english = And, now is there no one that can go look for him
+# text_en = And, now is there no one that can go look for him
 1	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
 2	o	o	ADV	_	_	4	advmod	4:advmod	_
 3	khoe-e	khoe	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	4	nsubj	4:nsubj|8:nsubj	_
@@ -2570,7 +2573,7 @@
 
 # sent_id = conversation_Windhoek5_362
 # text = tsî ti oompieba ǁîb ge ǂgaihe stuks ǃnâ [ǃkhoe] sī oms ai tsî
-# english = and then my uncle when he was called (got involved) came running to our house
+# text_en = and then my uncle when he was called (got involved) came running to our house
 1	tsî	tsî	CCONJ	_	_	12	cc	12:cc	_
 2	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	oompieba	oompie	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nsubj	12:nsubj	OrigLang=af
@@ -2589,7 +2592,7 @@
 
 # sent_id = conversation_Windhoek5_363
 # text = "nee axab ge go ǀuis ǀkha ǂnoa te,
-# english = (the grandfather replied and said) "no he threw at me with the stone, …
+# text_en = (the grandfather replied and said) "no he threw at me with the stone, …
 1	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 2	nee	nee	INTJ	_	Polarity=Neg	8	discourse	8:discourse	_
 3	axab	axa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
@@ -2603,7 +2606,7 @@
 
 # sent_id = conversation_Windhoek5_364
 # text = ota ge axaba goro sauru
-# english = so I chased the child,
+# text_en = so I chased the child,
 1-2	ota	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	6	advmod	6:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -2614,7 +2617,7 @@
 
 # sent_id = conversation_Windhoek5_365
 # text = îta ǂnau bi ga ob ge axaba go …
-# english = so I chased him to beat him but now the boy ran and he …
+# text_en = so I chased him to beat him but now the boy ran and he …
 1-2	îta	_	_	_	_	_	_	_	_
 1	î	î	SCONJ	_	_	3	mark	3:mark	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
@@ -2631,12 +2634,12 @@
 
 # sent_id = conversation_Windhoek5_366
 # text = ā
-# english = Yes [BACKCHANNEL]
+# text_en = Yes [BACKCHANNEL]
 1	ā	ā	INTJ	_	Polarity=Pos	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_367
 # text = ota ga [om] oms ǂnaos ai ta ǂnôa, o ǂnôa
-# english = And I am just seated at the side of the house
+# text_en = And I am just seated at the side of the house
 1-2	ota	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	11	advmod	11:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
@@ -2655,7 +2658,7 @@
 
 # sent_id = conversation_Windhoek5_368
 # text = "nee nēsisa ta ga khâimâ tsî nēba xu ǀnowa xawe ta nî tari-i xa ǁgamme ǃkhābahe"
-# english = "if I stand up and walk across the street by who will I be poured water"
+# text_en = "if I stand up and walk across the street by who will I be poured water"
 1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	nee	nee	INTJ	_	Polarity=Neg	6	discourse	6:discourse	_
 3	nēsisa	nēsisa	ADV	_	_	6	advmod	6:advmod	_
@@ -2677,14 +2680,14 @@
 
 # sent_id = conversation_Windhoek5_369
 # text = ā, ā
-# english = Yes, yes
+# text_en = Yes, yes
 1	ā	ā	INTJ	_	Polarity=Pos	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	ā	ā	INTJ	_	Polarity=Pos	1	parataxis	1:parataxis	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_370
 # text = ǁnās ai ta ge ti...
-# english = On that I...
+# text_en = On that I...
 1	ǁnās	ǁnā	PRON	DIST	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	5:obl	_
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
@@ -2694,7 +2697,7 @@
 
 # sent_id = conversation_Windhoek5_371
 # text = tsîta go besluit nēsisa ta ge meer ǂnan tama hâ, ǂnan tama, ǃgaomâi
-# english = And then I decided I am not turning back anymore, keeping on the way
+# text_en = And then I decided I am not turning back anymore, keeping on the way
 1-2	tsîta	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
@@ -2715,7 +2718,7 @@
 
 # sent_id = conversation_Windhoek5_372
 # text = tsîta go nau …
-# english = I will just …
+# text_en = I will just …
 1-2	tsîta	_	_	_	_	_	_	_	_
 1	tsî	tsî	CCONJ	_	_	4	cc	4:cc	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
@@ -2725,7 +2728,7 @@
 
 # sent_id = conversation_Windhoek5_373
 # text = ǁnā kai daob ǃnâ ǂgâ tsî ǃkhoe
-# english = Went in that big road and ran
+# text_en = Went in that big road and ran
 1	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	3	det	3:det	_
 2	kai	kai	ADJ	_	_	3	amod	3:amod	_
 3	daob	dao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	5:obl	_
@@ -2736,7 +2739,7 @@
 
 # sent_id = conversation_Windhoek5_374
 # text = ǁnā ǀhûb ge …
-# english = That white man …
+# text_en = That white man …
 1	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	2	det	2:det	_
 2	ǀhûb	ǀhû	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	0:root	_
 3	ge	ge	AUX	DECL	Mood=Ind	2	aux	2:aux	_
@@ -2744,7 +2747,7 @@
 
 # sent_id = conversation_Windhoek5_375
 # text = Donertaxtsēs sīts ga sī o [o] ge eintlik …
-# english = when you come on Thursday, …
+# text_en = when you come on Thursday, …
 1	Donertaxtsēs	Donertaxtsē	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	5:obl	OrigLang=af
 2-3	sīts	_	_	_	_	_	_	_	_
 2	sī	sī	VERB	_	Voice=Act	5	compound:svc	5:compound:svc	_
@@ -2761,7 +2764,7 @@
 
 # sent_id = conversation_Windhoek5_376
 # text = xawets [ge nē] ge nēts ta māhe sîsen-e Overmeer kans tsî twee-honderd rands tsî saru pakkies
-# english = But for this job you are given an Oveermeer Drink and two hundred dollars and a packet of ciggarets
+# text_en = But for this job you are given an Oveermeer Drink and two hundred dollars and a packet of ciggarets
 1-2	xawets	_	_	_	_	_	_	_	_
 1	xawe	xawe	CCONJ	_	_	11	cc	11:cc	_
 2	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	parataxis	9:parataxis	_
@@ -2787,7 +2790,7 @@
 
 # sent_id = conversation_Windhoek5_377
 # text = xawe ra ga ǁîra ǃkham o
-# english = But if they two fight
+# text_en = But if they two fight
 1	xawe	xawe	CCONJ	_	_	5	cc	5:cc	_
 2	ra	_	PRON	_	Case=Nom|Gender=Fem|Number=Dual|Person=3|PronType=Prs	5	expl	5:expl	_
 3	ga	ga	AUX	POT	Mood=Pot	5	aux	5:aux	_
@@ -2797,13 +2800,13 @@
 
 # sent_id = conversation_Windhoek5_378
 # text = ǃkham o
-# english = fight [BACKCHANNEL_REP]
+# text_en = fight [BACKCHANNEL_REP]
 1	ǃkham	ǃkham	VERB	_	Voice=Act	0	root	0:root	_
 2	o	o	SCONJ	_	_	1	mark	1:mark	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_379
 # text = ob ge ǁîba nēsisa hoama gere ǂnauǁae
-# english = he beat us both together
+# text_en = he beat us both together
 1-2	ob	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	8	advmod	8:advmod	_
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
@@ -2816,14 +2819,14 @@
 
 # sent_id = conversation_Windhoek5_380
 # text = hoaro gere ǂnauǁae
-# english = The two of you together
+# text_en = The two of you together
 1	hoaro	hoa	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=2|PronType=Tot	3	nsubj	3:nsubj	_
 2	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	3	aux	3:aux	_
 3	ǂnauǁae	ǂnauǁae	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_381
 # text = ae titse
-# english = [Laughter] My dear!
+# text_en = [Laughter] My dear!
 1	ae	ae	INTJ	_	_	3	discourse	3:discourse	_
 2-3	titse	_	_	_	_	_	_	_	SpacesAfter=\n
 2	ti	ti	DET	1SG.POSS	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
@@ -2831,7 +2834,7 @@
 
 # sent_id = conversation_Windhoek5_382
 # text = "ego Beras" tita komo ra mîo "tā ti ôaba ǂnau" ti nî mî
-# english = "Ego Beras, I say, do not beat my child I tell you", I say
+# text_en = "Ego Beras, I say, do not beat my child I tell you", I say
 1	"	"	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	ego	ego	INTJ	_	_	3	discourse	3:discourse	_
 3	Beras	Bera	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	ccomp	8:ccomp	SpaceAfter=No
@@ -2854,7 +2857,7 @@
 
 # sent_id = conversation_Windhoek5_383
 # text = [eh] want khoeb ge hāb ǀkha hâ
-# english = Yes, because the guy is with the horse
+# text_en = Yes, because the guy is with the horse
 1	[	[	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	eh	eh	INTJ	_	_	9	discourse	9:discourse	SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
@@ -2867,14 +2870,14 @@
 
 # sent_id = conversation_Windhoek5_384
 # text = hāb ǀkha hâ
-# english = he is with the horse
+# text_en = he is with the horse
 1	hāb	hā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obl	3:obl	_
 2	ǀkha	ǀkha	ADP	_	_	1	case	1:case	_
 3	hâ	hâ	VERB	COP.LOC	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 # sent_id = conversation_Windhoek5_385
 # text = hais ai ǂoa tsî ǂnû
-# english = climbed on the tree and sat there
+# text_en = climbed on the tree and sat there
 1	hais	hai	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	obl	3:obl	_
 2	ai	ai	ADP	_	_	1	case	1:case	_
 3	ǂoa	ǂoa	VERB	_	Voice=Act	0	root	0:root	_
@@ -2883,7 +2886,7 @@
 
 # sent_id = conversation_Windhoek5_386
 # text = ota ge hais ai ǂnôa hîa
-# english = And as I am sitting on the tree,
+# text_en = And as I am sitting on the tree,
 1-2	ota	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	6	advmod	6:advmod	_
 2	ta	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -2895,7 +2898,7 @@
 
 # sent_id = conversation_Windhoek5_387
 # text = ǀgui khoeba ra mî "ǁgôa, î sī, î hā ra xū-e hā tsî ǂnauhe tsî toa"
-# english = one person tells me, "go down and go back so whatever happens, happens and get the beating and finish"
+# text_en = one person tells me, "go down and go back so whatever happens, happens and get the beating and finish"
 1	ǀgui	ǀgui	NUM	_	NumType=Card	2	nummod	2:nummod	_
 2	khoeba	khoe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 3	ra	ra	AUX	IPFV	Aspect=Imp	4	aux	4:aux	_
@@ -2919,7 +2922,7 @@
 
 # sent_id = conversation_Windhoek5_388
 # text = mâ xamare-i ge mâti ra ǂgaihe tis tsîna a ǀū ǀgôan ge
-# english = Also they do not know which animal is called what
+# text_en = Also they do not know which animal is called what
 1	mâ	mâ	DET	_	PronType=Int	2	det	2:det	_
 2	xamare-i	xamare	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
@@ -2937,7 +2940,7 @@
 
 # sent_id = conversation_Windhoek5_389
 # text = [mm] mâ
-# english = [BACKCHANNEL] which [BACKCHANNEL_REP]
+# text_en = [BACKCHANNEL] which [BACKCHANNEL_REP]
 1	[	[	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	mm	mm	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
@@ -2945,7 +2948,7 @@
 
 # sent_id = conversation_Windhoek5_390
 # text = Ti ǀgui nî mî
-# english = They will just say that
+# text_en = They will just say that
 1	Ti	ti	ADV	_	_	4	advmod	4:advmod	_
 2	ǀgui	ǀgui	ADV	_	_	4	advmod	4:advmod	_
 3	nî	nî	AUX	FUT	Tense=Fut	4	aux	4:aux	_
@@ -2953,7 +2956,7 @@
 
 # sent_id = conversation_Windhoek5_391
 # text = [mm] ǀū a
-# english = they do not know
+# text_en = they do not know
 1	[	[	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	mm	mm	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
 3	]	]	PUNCT	_	_	2	punct	2:punct	_
@@ -2962,7 +2965,7 @@
 
 # sent_id = conversation_Windhoek5_392
 # text = "o nē kuduba?"
-# english = "oh is this Kudu?"
+# text_en = "oh is this Kudu?"
 1	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 2	o	o	INTJ	_	_	4	discourse	4:discourse	_
 3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	4	det	4:det	_
@@ -2972,7 +2975,7 @@
 
 # sent_id = conversation_Windhoek5_393
 # text = "tareba?"
-# english = "what is it?"
+# text_en = "what is it?"
 1	"	"	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 2	tareba	tare	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int	0	root	0:root	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
@@ -2980,7 +2983,7 @@
 
 # sent_id = conversation_Windhoek5_394
 # text = ǁnāpam go sī o
-# english = When we got there
+# text_en = When we got there
 1-2	ǁnāpam	_	_	_	_	_	_	_	_
 1	ǁnāpa	ǁnāpa	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	4:advmod	_
 2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
@@ -2990,7 +2993,7 @@
 
 # sent_id = conversation_Windhoek5_395
 # text = "eto tare-e ro ra ôamâ
-# english = (she asked) "What are you looking for here?"
+# text_en = (she asked) "What are you looking for here?"
 1	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	eto	eto	INTJ	_	_	6	discourse	6:discourse	_
 3	tare-e	tare	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	6	obj	6:obj	_
@@ -3000,7 +3003,7 @@
 
 # sent_id = conversation_Windhoek5_396
 # text = skoli kom nētsē hâ o" ti ǁîsa mî
-# english = There is school today right?" she said
+# text_en = There is school today right?" she said
 1	skoli	skol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 2	kom	kom	AUX	ASSERT1	Mood=Ass	4	aux	4:aux	_
 3	nētsē	nētsē	ADV	_	_	4	advmod	4:advmod	_
@@ -3013,7 +3016,7 @@
 
 # sent_id = conversation_Windhoek5_397
 # text = om go "hâ-â sim ge sim mara oa ra ī"
-# english = So we said "no we are going to our parents"
+# text_en = So we said "no we are going to our parents"
 1-2	om	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	12	advmod	12:advmod	_
 2	m	_	PRON	_	Case=Nom|Gender=Fem,Neut|Number=Dual|Person=1|PronType=Prs	12	nsubj:outer	12:nsubj:outer	_
@@ -3031,7 +3034,7 @@
 
 # sent_id = conversation_Windhoek5_398
 # text = Ti ǁnaos ge ge ǀgam arikha ūhâ i
-# english = My granny had two dogs,
+# text_en = My granny had two dogs,
 1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ǁnaos	ǁnao	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
@@ -3043,7 +3046,7 @@
 
 # sent_id = conversation_Windhoek5_399
 # text = ob ge Rexa nēsi nēsi nî ū te
-# english = then Rex would go take me now
+# text_en = then Rex would go take me now
 1-2	ob	_	_	_	_	_	_	_	_
 1	o	o	ADV	_	_	8	advmod	8:advmod	_
 2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
@@ -3057,7 +3060,7 @@
 
 # sent_id = conversation_Windhoek5_400
 # text = ai [hui] a ǃkhoe ǁkhā ta xawe ta ge nî ǀkhī
-# english = Even if I can run, I should just come
+# text_en = Even if I can run, I should just come
 1	ai	ai	INTJ	_	_	7	discourse	7:discourse	_
 2	[	[	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 3	hui	hui	VERB	_	Voice=Act	7	discourse	7:discourse	SpaceAfter=No
