@@ -924,7 +924,7 @@
 9	ge	ge	AUX	DECL	Mood=Ind	14	aux	14:aux|23:aux|31:aux	_
 10	ǀgawi	ǀgawi	ADJ	_	_	11	amod	11:amod	_
 11	daob	dao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	14:obl	_
-12	khoeseǀab	khoeseǀa	NUM	_	Case=Acc|Gender=Fem|NumType=Card|Number=Sing|Person=3	11	nmod	11:nmod	_
+12	khoeseǀab	khoeseǀa	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card|Person=3	11	nmod	11:nmod	_
 13	ai	ai	ADP	_	_	12	case	12:case	_
 14	ǃnari	ǃnari	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
 15	,	,	PUNCT	_	_	23	punct	23:punct	_
@@ -1365,7 +1365,7 @@
 11	i	_	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	expl	24:expl	_
 12	ge	ge	AUX	DECL	Mood=Ind	24	aux	24:aux	_
 13	amase	amase	ADV	_	_	24	advmod	24:advmod	_
-14	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	16	obl	16:obl	_
+14	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	16	obl	16:obl	_
 15	khami	khami	ADP	_	_	14	case	14:case	_
 16	ī	ī	VERB	_	Voice=Act	17	acl:relcl	17:acl:relcl	_
 17	surude-i	surude	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	16:nsubj|24:nsubj	_
@@ -1784,7 +1784,7 @@
 2	ra	ra	AUX	IPFV	Aspect=Imp	1	aux	1:aux	_
 3	khoeb	khoe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	1:nsubj:pass|10:nsubj	_
 4	ge	ge	AUX	DECL	Mood=Ind	10	aux	10:aux	_
-5	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	7	obl	7:obl	_
+5	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	7	obl	7:obl	_
 6	khami	khami	ADP	_	_	5	case	5:case	_
 7	ī	ī	VERB	_	Voice=Act	8	acl:relcl	8:acl:relcl	_
 8	ǂnoaba-i	ǂnoaba	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	7:nsubj|10:obj	_

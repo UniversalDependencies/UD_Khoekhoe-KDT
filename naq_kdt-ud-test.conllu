@@ -2823,7 +2823,7 @@
 # text = Louis dīsiǃnaniǀab ge îxa ǀuisa gere ǁgā 'ǂHoa ǀnoreǀuis kroons dis' ti ge ǂgaisa i sa, ǀgui ǀoadīsi hû kaidīsi tsî khoesedīsi ǀgamǁî kuri ge kāsa, ǁaubexa ǁkhā ǁaeb Louisi ge hoa xūna ǃaoba xu ǂoaǃnâb ai.
 # text_en = Louis XVI wore a fabulous stone that was called the Blue Diamond of the Crown which disappeared in 1792, about the same time old Louis lost everything from the neck up.
 1	Louis	Loui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-2	dīsiǃnaniǀab	dīsiǃnaniǀa	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Sing|Person=3	1	nmod	1:nmod	_
+2	dīsiǃnaniǀab	dīsiǃnaniǀa	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card|Person=3	1	nmod	1:nmod	_
 3	ge	ge	AUX	DECL	Mood=Ind	7	aux	7:aux	_
 4	îxa	îxa	ADJ	_	_	5	amod	5:amod	_
 5	ǀuisa	ǀui	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	7:obj|17:nsubj|20:nsubj	_
@@ -3114,7 +3114,7 @@
 # sent_id = film_Titanic_238
 # text = Hakaǀas ǃHoaǂkhaib dis ,ǀguiǀoadīsi khoesekaidīsi tsî ǀgamǀaǁî kuri.
 # text_en = April 14, 1912.
-1	Hakaǀas	hakaǀa	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	0	root	0:root	_
+1	Hakaǀas	hakaǀa	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	0	root	0:root	_
 2	ǃHoaǂkhaib	ǃHoaǂkhai	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod:poss	4:nmod:poss	_
 3-4	dis	_	_	_	_	_	_	_	_
 3	di	di	ADP	POSS	_	2	case	2:case	_
@@ -3950,13 +3950,13 @@
 4	ǃnā-omdi	ǃnā-om	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	2	obl	2:obl	_
 5	B	B	PROPN	_	_	4	flat:title	4:flat:title	_
 6	korodīsi	korodīsi	NUM	_	NumType=Card	5	nmod	5:nmod	_
-7	ǀgams	ǀgam	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	6	flat:num	6:flat:num	SpaceAfter=No
+7	ǀgams	ǀgam	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	6	flat:num	6:flat:num	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	9:punct	_
 9	korodīsi	korodīsi	NUM	_	NumType=Card	6	conj	5:nmod|6:conj	_
-10	hakas	haka	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	9	flat:num	9:flat:num	SpaceAfter=No
+10	hakas	haka	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	9	flat:num	9:flat:num	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	12:punct	_
 12	korodīsi	korodīsi	NUM	_	NumType=Card	6	conj	5:nmod|6:conj	_
-13	ǃnanis	ǃnani	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	12	flat:num	12:flat:num	_
+13	ǃnanis	ǃnani	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	12	flat:num	12:flat:num	_
 14	ǁga	ǁga	ADP	_	_	4	case	4:case	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -4521,7 +4521,7 @@
 # text = Hoa ǀgamkhoma.
 # text_en = Both of us.
 1	Hoa	hoa	DET	_	PronType=Tot	2	det	2:det	_
-2	ǀgamkhoma	ǀgam	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Dual|Person=1	0	root	0:root	SpaceAfter=No
+2	ǀgamkhoma	ǀgam	NUM	_	Case=Acc|Gender=Masc|Number=Dual|NumType=Card|Person=1	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_366
@@ -7153,14 +7153,14 @@
 2	ǃaroma	ǃaroma	ADP	_	_	1	case	1:case	_
 3	ǀoasa	ǀoa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	amod	4:amod	_
 4	korodīsi	korodīsi	NUM	_	NumType=Card	0	root	0:root	_
-5	ǃnanide	ǃnani	NUM	_	Case=Acc|Gender=Fem|NumType=Card|Number=Plur|Person=3	4	flat:num	4:flat:num	SpaceAfter=No
+5	ǃnanide	ǃnani	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|Person=3	4	flat:num	4:flat:num	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = film_Titanic_632
 # text = Louis dīsiǃnaniǀab xa ge anahe hâ i.
 # text_en = It was worn by Louis XVI.
 1	Louis	Loui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl:agent	5:obl:agent	_
-2	dīsiǃnaniǀab	dīsiǃnaniǀa	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Sing|Person=3	1	nmod	1:nmod	_
+2	dīsiǃnaniǀab	dīsiǃnaniǀa	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card|Person=3	1	nmod	1:nmod	_
 3	xa	xa	ADP	_	_	1	case	1:case	_
 4	ge	ge	AUX	_	Tense=Past	5	aux	5:aux	_
 5	anahe	ana	VERB	_	Voice=Pass	0	root	0:root	_
@@ -12126,7 +12126,7 @@
 # sent_id = book_Khomai_27_12
 # text = ǀGuis ge ǁnā mâ omros khama ge kō i."
 # text_en = One looked as big as that small house standing there.
-1	ǀGuis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing	8	nsubj	8:nsubj	_
+1	ǀGuis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	8	nsubj	8:nsubj	_
 2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 3	ǁnā	ǁnā	DET	DIST	Deixis=Remt|PronType=Dem	5	det	5:det	_
 4	mâ	mâ	VERB	_	Voice=Act	5	acl:relcl	5:acl:relcl	_
@@ -14885,7 +14885,7 @@
 3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 4	aota	ao	NOUN	_	Number=Sing|Person=1	8	nsubj	8:nsubj	_
 5	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	6	det	6:det	_
-6	haka-e	haka	NUM	_	Case=Acc|Gender=Neut|NumType=Card|Number=Sing|Person=3	8	obj	8:obj	_
+6	haka-e	haka	NUM	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card|Person=3	8	obj	8:obj	_
 7	gere	gere	AUX	PST.IPFV	Aspect=Imp|Tense=Past	8	aux	8:aux	_
 8	ǃguwu	ǃguwu	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
@@ -14893,7 +14893,7 @@
 # text = nau haka-i tama ge hâ i
 # text_en = it was not the fourth voice,
 1	nau	nau	DET	DIST.CONTR	Deixis=Contr|PronType=Dem	2	det	2:det	_
-2	haka-i	haka	NUM	_	Case=Acc|Gender=Neut|NumType=Card|Number=Sing|Person=3	0	root	0:root	_
+2	haka-i	haka	NUM	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card|Person=3	0	root	0:root	_
 3	tama	tama	PART	NEG	Polarity=Neg	2	advmod	2:advmod	_
 4	ge	ge	AUX	_	Tense=Past	2	aux	2:aux	_
 5	hâ	hâ	AUX	PFV	Aspect=Perf	2	aux	2:aux	_
@@ -16124,7 +16124,7 @@
 # sent_id = conversation_Windhoek5_301
 # text = ǀguis ǀguisa ī
 # text_en = It is just the same
-1	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Sing|Person=3	3	obj	3:obj	_
+1	ǀguis	ǀgui	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card|Person=3	3	obj	3:obj	_
 2	ǀguisa	ǀgui	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	amod	1:amod	_
 3	ī	ī	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
